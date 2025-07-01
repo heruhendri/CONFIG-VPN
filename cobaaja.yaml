@@ -161,11 +161,11 @@ proxies:
         Host: ava.game.naver.com.do1.jstn.fun
     udp: true
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: 27-05-2024
     type: select
     proxies:
       - client 1  27-05-2024
       - client 2  27-05-2024
       - DIRECT
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
+  - MATCH,27-05-2024
