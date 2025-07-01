@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/github/stars/heruhendri/CONFIG-VPN?style=social" alt="Stars">
     <img src="https://img.shields.io/github/forks/heruhendri/CONFIG-VPN?style=social" alt="Forks">
-    <img src="https://img.shields.io/github/license/heruhendri/CONFIG-VPN" alt="License">
+    <img src="https://img.shields.io/github/license/heruhendri/CONFIG-VPN" alt="LICENCE">
     <img src="https://img.shields.io/github/languages/top/heruhendri/CONFIG-VPN" alt="Top Language">
   </p>
   <p>
