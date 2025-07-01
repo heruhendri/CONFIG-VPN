@@ -128,7 +128,7 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-  - name: NAUFAL 🇸🇬
+  - name: naufalbaharu 🇸🇬
     server: 104.18.214.235
     port: 443
     type: vmess
@@ -161,11 +161,11 @@ proxies:
         Host: ava.game.naver.com.do1.jstn.fun
     udp: true
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: 2025-07-16
     type: select
     proxies:
-      - NAUFAL 🇸🇬
+      - naufalbaharu 🇸🇬
       - naufalnew2
       - DIRECT
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
+  - MATCH,2025-07-16
