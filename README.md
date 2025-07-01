@@ -1,133 +1,101 @@
-Berikut adalah contoh README lengkap untuk proyek landing page VPN Member Anda. Silakan sesuaikan detail kontak, link demo, atau instruksi sesuai kebutuhan.
 
 ---
 
-# VPN Member Landing Page
-
-![VPN Member Landing Page Banner](https://img.shields.io/badge/HTML-100%25-blue.svg)
-
-Landing page sederhana untuk layanan VPN Member. Website ini dirancang modern, responsif, dan mudah dimodifikasi, dengan fitur utama, testimonial pelanggan, dan kontak layanan.
-
-## Daftar Isi
-
-- [Fitur](#fitur)
-- [Demo](#demo)
-- [Tangkapan Layar](#tangkapan-layar)
-- [Instalasi](#instalasi)
-- [Struktur File](#struktur-file)
-- [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-- [Kontak](#kontak)
+<div align="center">
+  <h1>CONFIG-VPN</h1>
+  <p>
+    <img src="https://img.shields.io/github/stars/heruhendri/CONFIG-VPN?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/heruhendri/CONFIG-VPN?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/license/heruhendri/CONFIG-VPN" alt="License">
+    <img src="https://img.shields.io/github/languages/top/heruhendri/CONFIG-VPN" alt="Top Language">
+  </p>
+  <p>
+    <b>Konfigurasi VPN Lengkap untuk Berbagai Kebutuhan</b>  
+  </p>
+</div>
 
 ---
 
-## Fitur
+## 📖 Tentang CONFIG-VPN
 
-- **Desain Modern & Responsif**  
-  Tampil dengan desain profesional yang tetap nyaman diakses di perangkat mobile maupun desktop.
-
-- **Highlight Keunggulan**  
-  Menampilkan fitur utama: Keamanan Tinggi, Koneksi Cepat, dan Akses Global.
-
-- **Testimonial Dinamis**  
-  Testimoni pengguna di-generate otomatis via JavaScript.
-
-- **Kontak Mudah**  
-  Tersedia email dan link WhatsApp langsung.
+**CONFIG-VPN** adalah kumpulan konfigurasi VPN (Virtual Private Network) yang dapat digunakan untuk berbagai layanan dan protokol, seperti SSH, OpenVPN, WireGuard, V2Ray, dan lainnya. Repo ini bertujuan memudahkan pengguna dalam mengakses, mengatur, dan mengelola file konfigurasi VPN secara praktis.
 
 ---
 
-## Demo
+## 🚀 Fitur
 
-[🔗 Lihat Demo Landing Page](#)  
-*(Ganti # dengan URL demo jika sudah di-deploy, misal GitHub Pages)*
-
----
-
-## Tangkapan Layar
-
-![Preview](https://user-images.githubusercontent.com/your-username/preview.png)  
-*(Ganti link gambar sesuai kebutuhan)*
+- Kumpulan konfigurasi VPN berbagai protokol
+- Siap pakai untuk berbagai server
+- Dukungan update dan penambahan konfigurasi baru
+- Panduan penggunaan dan instalasi
+- Gratis dan open source
 
 ---
 
-## Instalasi
+## 📦 Daftar Konfigurasi
 
-1. **Clone repo ini:**
+- SSH Tunnel
+- OpenVPN (.ovpn)
+- WireGuard (.conf)
+- V2Ray (.json)
+- Shadowsocks
+- L2TP/IPSec
+
+---
+
+## ⚙️ Instalasi & Penggunaan
+
+1. **Clone repo:**
    ```bash
-   git clone https://github.com/heruhendri/PelangganIlped.git
+   git clone https://github.com/heruhendri/CONFIG-VPN.git
+   cd CONFIG-VPN
    ```
 
-2. **Buka file `landing-page.html` di browser:**
-   - Klik dua kali file `landing-page.html`  
-   **atau**
-   - Jalankan melalui server lokal (opsional, untuk pengembangan):
-     ```bash
-     cd PelangganIlped
-     python -m http.server
-     ```
-     lalu buka `http://localhost:8000/landing-page.html`
+2. **Pilih konfigurasi yang diinginkan:**
+   - Masuk ke folder sesuai protokol yang dibutuhkan.
+   - Copy file konfigurasi ke perangkat Anda.
+
+3. **Import ke aplikasi VPN:**
+   - OpenVPN: import file .ovpn ke aplikasi OpenVPN.
+   - WireGuard: import file .conf ke aplikasi WireGuard.
+   - SSH/V2Ray: gunakan aplikasi yang sesuai dan sesuaikan setelan.
 
 ---
 
-## Struktur File
+## 📚 Dokumentasi
 
-```
-/
-├─ landing-page.html
-├─ cobaaja.yaml
-└─ (file lainnya)
-```
+- [Panduan Lengkap OpenVPN](docs/openvpn.md)
+- [Panduan WireGuard](docs/wireguard.md)
+- [FAQ & Troubleshooting](docs/faq.md)
 
 ---
 
-## Penggunaan
-
-- **Edit Konten:**  
-  Ubah teks, fitur, dan testimonial langsung di file `landing-page.html`.
-
-- **Kustomisasi:**  
-  Sesuaikan warna, font, atau layout dengan mengedit bagian `<style>` pada file HTML.
-
-- **Tambahkan Testimonial:**  
-  Edit array di bagian `<script>`:
-  ```js
-  const testimonials = [
-    { text: "...", author: "..." },
-    // Tambahkan di sini
-  ];
-  ```
-
-- **Ganti Kontak:**  
-  Update email atau nomor WhatsApp di bagian "Hubungi Kami".
-
----
-
-## Kontribusi
+## 🤝 Kontribusi
 
 Kontribusi sangat terbuka!  
-Silakan fork repo ini, buat branch baru, dan ajukan pull request.
+Silakan fork repo ini, buat branch baru untuk perubahan Anda, dan ajukan Pull Request.  
+Laporkan issue jika menemukan bug atau ingin request konfigurasi baru.
 
 ---
 
-## Lisensi
+## 📄 Lisensi
 
-MIT License  
-Lihat file [LICENSE](LICENSE) untuk detail.
+Repo ini menggunakan lisensi [MIT](LICENSE).
 
 ---
 
-## Kontak
+## ☕ Kontak & Dukungan
 
-- Email: [info@vpnmember.com](mailto:info@vpnmember.com)
-- WhatsApp: [Klik untuk chat](https://wa.me/6281xxxxxxx)
+- Telegram: [@heruhendri](https://t.me/heruhendri)
+- Email: heruhendri@gmail.com
 - GitHub: [heruhendri](https://github.com/heruhendri)
 
 ---
 
-**Terima kasih telah menggunakan dan mendukung VPN Member!** 🚀
+<div align="center">
+  <b>Terima kasih sudah menggunakan CONFIG-VPN!</b><br>
+  ⭐ Jangan lupa berikan bintang jika repo ini bermanfaat!
+</div>
 
 ---
 
-Jika Anda ingin README ini dalam format lain atau menambahkan bagian khusus, silakan beri tahu saya!
