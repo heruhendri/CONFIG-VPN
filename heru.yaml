@@ -1,9 +1,25 @@
 proxies:
-  - name: rembulanku xut git
+  - name: ID LINKGO XUTS 🇮🇩
+    server: 104.18.214.235
+    port: 443
+    type: vmess
+    uuid: 6216c9de-0baf-4b9e-b877-1610c042d6e4
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ava.game.naver.com.linkgo.jbrs.cloud
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: ava.game.naver.com.linkgo.jbrs.cloud
+    udp: true
+  - name: REMBULANKU1 XUTS 🇸🇬
     server: ava.game.naver.com
     port: 443
     type: vmess
-    uuid: b2f7ddd6-c9de-4d52-811c-e99eff8d79eb
+    uuid: bd495af4-716b-465a-8e38-10cf08ab3a12
     alterId: 0
     cipher: auto
     tls: true
@@ -11,55 +27,37 @@ proxies:
     servername: ava.game.naver.com.do1.jstn.fun
     network: ws
     ws-opts:
-      path: /vmess
+      path: /104.18.214.235
       headers:
         Host: ava.game.naver.com.do1.jstn.fun
     udp: true
-  - name: rembulanku iflix git
-    server: sg-do1.jstun.cloud
+  - name: SG1-XUTS 🇸🇬
+    server: 104.18.214.235
     port: 443
-    type: vmess
-    uuid: b2f7ddd6-c9de-4d52-811c-e99eff8d79eb
-    alterId: 0
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: hwvip.iflix.com
+    servername: ava.game.naver.com.aio.skibidicx.web.id
     network: ws
     ws-opts:
-      path: /vmess
+      path: /SG1
       headers:
-        Host: sg-do1.jstun.cloud
+        Host: ava.game.naver.com.aio.skibidicx.web.id
     udp: true
-  - name: servermojo xut git
-    server: ava.game.naver.com
+  - name: SG2-XUTS 🇸🇬
+    server: 104.18.214.235
     port: 443
-    type: vmess
-    uuid: 69dd5785-00fb-4adc-abd2-caa7112066e0
-    alterId: 0
+    type: vless
+    uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.do2.storevpn.cc
+    servername: ava.game.naver.com.free.vpn-wuss.BIZ.id
     network: ws
     ws-opts:
-      path: /vmess
+      path: /Free/TG-at-BitzBlack/138.2.74.219-28616
       headers:
-        Host: ava.game.naver.com.do2.storevpn.cc
-    udp: true
-  - name: servermojo iflix git
-    server: do2.storevpn.cc
-    port: 443
-    type: vmess
-    uuid: 69dd5785-00fb-4adc-abd2-caa7112066e0
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: hwvip.iflix.com
-    network: ws
-    ws-opts: 
-      path: /vmess
-      headers: 
-        Host: do2.storevpn.cc
+        Host: ava.game.naver.com.free.vpn-wuss.BIZ.id
     udp: true
