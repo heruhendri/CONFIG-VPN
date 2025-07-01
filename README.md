@@ -1,4 +1,3 @@
-Tentu! Berikut adalah contoh README lengkap untuk repo CONFIG-VPN Anda, dibuat agar tampil seperti README profil GitHub, lengkap dengan badge, deskripsi, fitur, cara instalasi, penggunaan, kontribusi, dan kontak. Silakan edit sesuai kebutuhan:
 
 ---
 
@@ -100,4 +99,3 @@ Repo ini menggunakan lisensi [MIT](LICENSE).
 
 ---
 
-Silakan copy-paste dan edit bagian mana pun sesuai kebutuhan sebelum di-commit ke README.md repo Anda!
