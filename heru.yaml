@@ -1,0 +1,65 @@
+proxies:
+  - name: rembulanku xut git
+    server: ava.game.naver.com
+    port: 443
+    type: vmess
+    uuid: b2f7ddd6-c9de-4d52-811c-e99eff8d79eb
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ava.game.naver.com.do1.jstn.fun
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: ava.game.naver.com.do1.jstn.fun
+    udp: true
+  - name: rembulanku iflix git
+    server: sg-do1.jstun.cloud
+    port: 443
+    type: vmess
+    uuid: b2f7ddd6-c9de-4d52-811c-e99eff8d79eb
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: hwvip.iflix.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg-do1.jstun.cloud
+    udp: true
+  - name: servermojo xut git
+    server: ava.game.naver.com
+    port: 443
+    type: vmess
+    uuid: 69dd5785-00fb-4adc-abd2-caa7112066e0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ava.game.naver.com.do2.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: ava.game.naver.com.do2.storevpn.cc
+    udp: true
+  - name: servermojo iflix git
+    server: do2.storevpn.cc
+    port: 443
+    type: vmess
+    uuid: 69dd5785-00fb-4adc-abd2-caa7112066e0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: hwvip.iflix.com
+    network: ws
+    ws-opts: 
+      path: /vmess
+      headers: 
+        Host: do2.storevpn.cc
+    udp: true
