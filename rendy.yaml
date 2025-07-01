@@ -1,5 +1,5 @@
 proxies:
-  - name: SG VIDIO RENDYY 🇸🇬 git
+  - name: rendyy 🇸🇬 git
     server: quiz.int.vidio.com
     port: 443
     type: vmess
