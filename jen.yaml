@@ -129,13 +129,13 @@ dns:
     - +.media.dssott.com
 proxies:
   - name: ilpedsulawes
-    server: id-linkgo.jbrs.cloud
-    port: 443
+    server: 104.22.20.245
+    port: 80
     type: vmess
     uuid: 5c5a084c-5e86-435e-a7ae-c54d752aa891
     alterId: 0
     cipher: auto
-    tls: true
+    tls: false
     skip-cert-verify: true
     servername: id-linkgo.jbrs.cloud
     network: ws
