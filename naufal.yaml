@@ -161,11 +161,11 @@ proxies:
         Host: ava.game.naver.com.do1.jstn.fun
     udp: true
 proxy-groups:
-  - name: naufal xuts 2025 07 16
+  - name: naufal xuts 2025-07-16
     type: select
     proxies:
       - naufalbaharu 🇸🇬
       - naufalnew2
       - DIRECT
 rules:
-  - MATCH,naufal xuts 2025 07 16
+  - MATCH,naufal xuts 2025-07-16
