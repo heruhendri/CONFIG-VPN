@@ -86,7 +86,7 @@ Repo ini menggunakan lisensi [MIT](LICENSE).
 
 ## ☕ Kontak & Dukungan
 
-- Telegram: [@heruhendri](https://t.me/heruhendri)
+- Telegram: [@heruhendri](https://t.me/GbtTapiPngnSndiri)
 - Email: heruhendri@gmail.com
 - GitHub: [heruhendri](https://github.com/heruhendri)
 
