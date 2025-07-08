@@ -15,7 +15,7 @@ proxies:
       headers:
         Host: ava.game.naver.com.do1.jstn.fun
     udp: true
-  - name: ID1-XUTS 🇮🇩 git
+  - name: ID1-XUTS Lifetime 🇮🇩 git
     server: ava.game.naver.com
     port: 443
     type: vless
