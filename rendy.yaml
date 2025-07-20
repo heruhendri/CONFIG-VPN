@@ -19,7 +19,7 @@ proxies:
     server: ava.game.naver.com
     port: 443
     type: vless
-    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    uuid: fccdaaae-af39-41a7-9fde-fd32
     cipher: auto
     tls: true
     skip-cert-verify: true
@@ -34,7 +34,7 @@ proxies:
     server: ava.game.naver.com
     port: 443
     type: vless
-    uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
+    uuid: aaaaaaa1-bbbb-4ccc-accc-eee
     cipher: auto
     tls: true
     skip-cert-verify: true
