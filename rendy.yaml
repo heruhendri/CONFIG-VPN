@@ -1,9 +1,9 @@
 proxies:
-  - name: rendyy XUTS 19-07-2025 🇸🇬 git
+  - name: rendydnck XUTS 2025-08-29 🇸🇬 git
     server: ava.game.naver.com
     port: 443
     type: vmess
-    uuid: 3b186abb-1cb7-4fee-908d-9fb92e71588c
+    uuid: 9a5563ca-7198-47a2-ae86-30dbe8609236
     alterId: 0
     cipher: auto
     tls: true
