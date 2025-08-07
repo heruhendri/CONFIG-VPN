@@ -160,12 +160,29 @@ proxies:
       headers:
         Host: ava.game.naver.com.do1.jstn.fun
     udp: true
+  - name: naufal vidio
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: e886970a-e9c2-4f83-828f-58d8c3872e5d
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do1.jstn.fun
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do1.jstn.fun
+    udp: true
 proxy-groups:
   - name: naufal xuts 2025-08-16
     type: select
     proxies:
       - naufalbaharu 🇸🇬
       - naufalnew2
+      - naufal vidio
       - DIRECT
 rules:
   - MATCH,naufal xuts 2025-08-16
