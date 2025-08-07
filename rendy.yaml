@@ -1,4 +1,20 @@
 proxies:
+  - name: rendydnck VIDIO 2025-08-29 🇸🇬 git
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: 9a5563ca-7198-47a2-ae86-30dbe8609236
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do1.jstn.fun
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do1.jstn.fun
+    udp: true
   - name: rendydnck XUTS 2025-08-29 🇸🇬 git
     server: ava.game.naver.com
     port: 443
