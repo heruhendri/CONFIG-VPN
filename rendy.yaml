@@ -15,49 +15,33 @@ proxies:
       headers:
         Host: do1.jstn.fun
     udp: true
-  - name: rendydnck XUTS 2025-08-29 🇸🇬 git
-    server: ava.game.naver.com
-    port: 443
-    type: vmess
-    uuid: 9a5563ca-7198-47a2-ae86-30dbe8609236
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ava.game.naver.com.do1.jstn.fun
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: ava.game.naver.com.do1.jstn.fun
-    udp: true
-  - name: ID1-XUTS Lifetime 🇮🇩 git
-    server: ava.game.naver.com
+  - name: ID1-VIDIO Lifetime 🇮🇩 git
+    server: quiz.int.vidio.com
     port: 443
     type: vless
     uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.aio.skibidicx.web.id
+    servername: aio.skibidicx.web.id
     network: ws
     ws-opts:
       path: /ID1
       headers:
-        Host: ava.game.naver.com.aio.skibidicx.web.id
+        Host: aio.skibidicx.web.id
     udp: true
-  - name: ID2-XUTS 🇮🇩 git
-    server: ava.game.naver.com
+  - name: ID2-VIDIO 🇮🇩 git
+    server: quiz.int.vidio.com
     port: 443
     type: vless
     uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.free.vpn-wuss.BIZ.id
+    servername: free.vpn-wuss.BIZ.id
     network: ws
     ws-opts:
       path: /Free/TG-at-BitzBlack/43.218.77.16-1443
       headers:
-        Host: ava.game.naver.com.free.vpn-wuss.BIZ.id
+        Host: free.vpn-wuss.BIZ.id
     udp: true
