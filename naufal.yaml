@@ -132,52 +132,52 @@ proxies:
     server: 104.18.214.235
     port: 443
     type: vmess
-    uuid: e886970a-e9c2-4f83-828f-58d8c3872e5d
+    uuid: 8d58f714-e7f3-40db-8ccb-6b9e9fc16c1f
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.do1.jstn.fun
+    servername: ava.game.naver.com.do2.storevpn.cc
     network: ws
     ws-opts:
       path: /ava.game.naver.com
       headers:
-        Host: ava.game.naver.com.do1.jstn.fun
+        Host: ava.game.naver.com.do2.storevpn.cc
     udp: true
   - name: naufalnew2
     server: 104.18.214.235
     port: 443
     type: vmess
-    uuid: e886970a-e9c2-4f83-828f-58d8c3872e5d
+    uuid: 8d58f714-e7f3-40db-8ccb-6b9e9fc16c1f
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.do1.jstn.fun
+    servername: ava.game.naver.com.do2.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: ava.game.naver.com.do1.jstn.fun
+        Host: ava.game.naver.com.do2.storevpn.cc
     udp: true
   - name: naufal vidio
     server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: e886970a-e9c2-4f83-828f-58d8c3872e5d
+    uuid: 8d58f714-e7f3-40db-8ccb-6b9e9fc16c1f
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do1.jstn.fun
+    servername: do2.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do1.jstn.fun
+        Host: do2.storevpn.cc
     udp: true
 proxy-groups:
-  - name: naufal xuts 2025-08-16
+  - name: naufal vidio 2025-09-16
     type: select
     proxies:
       - naufalbaharu 🇸🇬
@@ -185,4 +185,4 @@ proxy-groups:
       - naufal vidio
       - DIRECT
 rules:
-  - MATCH,naufal xuts 2025-08-16
+  - MATCH,naufal vidio 2025-09-16
