@@ -129,7 +129,7 @@ dns:
     - +.media.dssott.com
 proxies:
   - name: fadel trial 19-08-2025
-    server: do2.storevpn.cc
+    server: quiz.int.vidio.com
     port: 443
     type: vmess
     uuid: e51b548b-6b72-4ad0-b570-d9cd31dac378
