@@ -148,7 +148,7 @@ proxies:
     server: ams1.storevpn.cc
     port: 443
     type: vmess
-    uuid: c5b6ceb7-09eb-4a52-9e8a-50a513dcb285
+    uuid: c5b6ceb7-09eb-4a52-9e8a-50a513dc
     alterId: 0
     cipher: auto
     tls: true
