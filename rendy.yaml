@@ -19,7 +19,7 @@ proxies:
     server: quiz.int.vidio.com
     port: 443
     type: vless
-    uuid: fccdaaae-af39-41a7-9fde-fd32a48278c
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
     cipher: auto
     tls: true
     skip-cert-verify: true
@@ -34,7 +34,7 @@ proxies:
     server: quiz.int.vidio.com
     port: 443
     type: vless
-    uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee
+    uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
     cipher: auto
     tls: true
     skip-cert-verify: true
