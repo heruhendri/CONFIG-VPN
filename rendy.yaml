@@ -1,5 +1,5 @@
 proxies:
-  - name: rendydnck VIDIO 2025-09-28 🇸🇬 git
+  - name: rentul VIDIO 2025-09-28 🇸🇬 git
     server: quiz.int.vidio.com
     port: 443
     type: vmess
