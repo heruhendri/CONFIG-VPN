@@ -1,19 +1,19 @@
 proxies:
-  - name: rendydnck VIDIO 2025-08-29 🇸🇬 git
+  - name: rendydnck VIDIO 2025-09-28 🇸🇬 git
     server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: 9a5563ca-7198-47a2-ae86-30dbe8609236
+    uuid: fc0d29ed-47f9-4d0d-9509-357ae21af7e0
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do1.jstn.fun
+    servername: do4.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do1.jstn.fun
+        Host: do4.storevpn.cc
     udp: true
   - name: ID1-VIDIO Lifetime 🇮🇩 git
     server: quiz.int.vidio.com
