@@ -129,7 +129,7 @@ dns:
     - +.media.dssott.com
 proxies:
   - name: hendri
-    server: do2.storevpn.cc
+    server: quiz.int.vidio.com
     port: 443
     type: vmess
     uuid: 2d1cdf70-403d-4ea8-8a86-edb02f3d10d6
@@ -137,12 +137,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do2.storevpn.cc
+    servername: do4.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do2.storevpn.cc
+        Host: do4.storevpn.cc
     udp: true
   - name: amshendri
     server: ams1.storevpn.cc
