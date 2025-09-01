@@ -129,13 +129,13 @@ dns:
     - +.media.dssott.com
 proxies:
   - name: ilpedsulawes
-    server: 104.22.20.245
-    port: 80
+    server: 104.18.24.139
+    port: 443
     type: vmess
     uuid: 76efd215-b5a2-4973-a9ec-4054b8221061
     alterId: 0
     cipher: auto
-    tls: false
+    tls: true
     skip-cert-verify: true
     servername: ams1.storevpn.cc
     network: ws
