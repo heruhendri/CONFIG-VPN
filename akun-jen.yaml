@@ -1,0 +1,46 @@
+proxies:
+  - name: hendrido4 VIDIO 🇸🇬
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: 60df90ee-686c-4957-8171-49320c7ba4b4
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do4.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do4.storevpn.cc
+    udp: true
+  - name: hendrido2 VIDIO 🇸🇬
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: 2d1cdf70-403d-4ea8-8a86-edb02f3d10d6
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do2.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do2.storevpn.cc
+    udp: true
+  - name: backuptj
+    server: quiz.int.vidio.com
+    port: 443
+    type: trojan
+    password: 02cfc45f-a4bc-458a-887a-916b225ec221
+    skip-cert-verify: true
+    sni: do-2d.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: do-2d.storevpn.cc
+    udp: true
