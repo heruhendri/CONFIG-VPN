@@ -15,6 +15,22 @@ proxies:
       headers:
         Host: do4.storevpn.cc
     udp: true
+  - name: backup
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: d9a42fad-38de-459a-a4d5-7be9d571eb65
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do2.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do2.storevpn.cc
+    udp: true
   - name: Biznet VIDIO 2025-09-28 🇸🇬 git
     server: quiz.int.vidio.com
     port: 443
