@@ -47,3 +47,19 @@ proxies:
       headers:
         Host: support.zoom.us.ams1.storevpn.cc
     udp: true
+  - name: VIDIO 
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: 
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do4.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do4.storevpn.cc
+    udp: true
