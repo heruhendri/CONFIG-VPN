@@ -1,5 +1,5 @@
 proxies:
-  - name: naufal vidio
+  - name: naufal vidio 16 Sep 2025
     server: quiz.int.vidio.com
     port: 443
     type: vmess
