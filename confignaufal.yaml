@@ -228,6 +228,7 @@ proxy-groups:
     type: url-test
     use:
       - "provide"
+      - "provide-cloud"
 
 proxy-providers:
   "provide":
