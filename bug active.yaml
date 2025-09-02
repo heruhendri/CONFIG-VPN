@@ -1,0 +1,49 @@
+proxies:
+  - name: VIDIO
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid:  
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: biznet-1.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: biznet-1.storevpn.cc
+    udp: true
+  - name: ilpedsulawesi-bolakbalik
+    server: 104.18.24.139
+    port: 443
+    type: vmess
+    uuid: 
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ams1.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: ams1.storevpn.cc
+    udp: true
+  - name: ilped sulawesi wildcard
+    server: support.zoom.us
+    port: 443
+    type: vmess
+    uuid: 76efd215-b5a2-4973-a9ec-4054b8221061
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: support.zoom.us.ams1.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: support.zoom.us.ams1.storevpn.cc
+    udp: true
