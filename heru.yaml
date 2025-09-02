@@ -1,63 +1,53 @@
+# Single akun
+# reformat di : sub.bonds.id
+# Akun Vless CF (No UDP)
+# =========== PROXY ACCOUNT ===========
 proxies:
-  - name: ID LINKGO XUTS 🇮🇩
-    server: 104.18.214.235
+  - name: hendrido4 VIDIO 🇸🇬
+    server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: 6216c9de-0baf-4b9e-b877-1610c042d6e4
+    uuid: 60df90ee-686c-4957-8171-49320c7ba4b4
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.linkgo.jbrs.cloud
+    servername: do4.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: ava.game.naver.com.linkgo.jbrs.cloud
+        Host: do4.storevpn.cc
     udp: true
-  - name: REMBULANKU1 XUTS 🇸🇬
-    server: ava.game.naver.com
+  - name: hendrido2 VIDIO 🇸🇬
+    server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: bd495af4-716b-465a-8e38-10cf08ab3a12
+    uuid: 2d1cdf70-403d-4ea8-8a86-edb02f3d10d6
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.do1.jstn.fun
+    servername: do2.storevpn.cc
     network: ws
     ws-opts:
-      path: /104.18.214.235
+      path: /vmess
       headers:
-        Host: ava.game.naver.com.do1.jstn.fun
+        Host: do2.storevpn.cc
     udp: true
-  - name: SG1-XUTS 🇸🇬
-    server: 104.18.214.235
+  - name: backup
+    server: quiz.int.vidio.com
     port: 443
-    type: vless
-    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    type: vmess
+    uuid: a77cbb93-87e5-4ea8-b855-f4ccff6ae490
+    alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: ava.game.naver.com.aio.skibidicx.web.id
+    servername: sg1-linode.storevpn.cc
     network: ws
     ws-opts:
-      path: /SG1
+      path: /vmess
       headers:
-        Host: ava.game.naver.com.aio.skibidicx.web.id
-    udp: true
-  - name: SG2-XUTS 🇸🇬
-    server: 104.18.214.235
-    port: 443
-    type: vless
-    uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ava.game.naver.com.free.vpn-wuss.BIZ.id
-    network: ws
-    ws-opts:
-      path: /Free/TG-at-BitzBlack/138.2.74.219-28616
-      headers:
-        Host: ava.game.naver.com.free.vpn-wuss.BIZ.id
+        Host: sg1-linode.storevpn.cc
     udp: true
