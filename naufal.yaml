@@ -128,38 +128,6 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-  - name: naufalbaharu 🇸🇬
-    server: 104.18.214.235
-    port: 443
-    type: vmess
-    uuid: 8d58f714-e7f3-40db-8ccb-6b9e9fc16c1f
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ava.game.naver.com.do2.storevpn.cc
-    network: ws
-    ws-opts:
-      path: /ava.game.naver.com
-      headers:
-        Host: ava.game.naver.com.do2.storevpn.cc
-    udp: true
-  - name: naufalnew2
-    server: 104.18.214.235
-    port: 443
-    type: vmess
-    uuid: 8d58f714-e7f3-40db-8ccb-6b9e9fc16c1f
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ava.game.naver.com.do2.storevpn.cc
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: ava.game.naver.com.do2.storevpn.cc
-    udp: true
   - name: naufal vidio
     server: quiz.int.vidio.com
     port: 443
@@ -176,13 +144,28 @@ proxies:
       headers:
         Host: do2.storevpn.cc
     udp: true
+  - name: backup
+    server: quiz.int.vidio.com
+    port: 443
+    type: vmess
+    uuid: a77cbb93-87e5-4ea8-b855-f4ccff6ae490
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg1-linode.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg1-linode.storevpn.cc
+    udp: true
 proxy-groups:
   - name: naufal vidio 2025-09-16
     type: select
     proxies:
-      - naufalbaharu 🇸🇬
-      - naufalnew2
       - naufal vidio
+      - backup
       - DIRECT
 rules:
   - MATCH,naufal vidio 2025-09-16
