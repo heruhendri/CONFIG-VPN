@@ -45,13 +45,13 @@
 
 ## ⚙️ Instalasi & Penggunaan
 
-1. **Clone repo:**
-   ```bash
-   git clone https://github.com/heruhendri/CONFIG-VPN.git
-   cd CONFIG-VPN
-   ```
+1. **Download App Clash For Meta:**
 
-2. **Pilih konfigurasi yang diinginkan:**
+- [App Clash For Meta](https://github.com/heruhendri/CONFIG-VPN/raw/refs/heads/master/clash-meta-2-11-9-meta.apk)
+
+2. **Buka Clash For Meta:**
+   - .
+   - Copy file konfigurasi ke perangkat Anda.
    - Masuk ke folder sesuai protokol yang dibutuhkan.
    - Copy file konfigurasi ke perangkat Anda.
 
