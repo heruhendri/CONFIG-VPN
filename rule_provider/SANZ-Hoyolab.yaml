@@ -1,0 +1,29 @@
+# Behavior: classical
+# Last Edited By Qyubisanz14 2025
+
+payload:
+# > Genshin Impact, Honkai Star Rail ETC Domain
+- DOMAIN-SUFFIX,genshinimpact.com
+- DOMAIN-SUFFIX,honkaiimpact3.com
+- DOMAIN-SUFFIX,honkaistarrail.com
+- DOMAIN-SUFFIX,hoyo.link
+- DOMAIN-SUFFIX,hoyolab.com
+- DOMAIN-SUFFIX,hoyoverse.com
+- DOMAIN-SUFFIX,n0vadesktop.com
+- DOMAIN-SUFFIX,mihoyo.com
+- DOMAIN-KEYWORD,genshinimpact
+- DOMAIN-KEYWORD,honkaiimpact3
+- DOMAIN-KEYWORD,mihoyo
+
+#Genshin Impact Port range
+- DST-PORT,42472
+- DST-PORT,42472/22101-22102
+- DST-PORT,23301
+- DST-PORT,16100
+- DST-PORT,27015
+- DST-PORT,27036
+- DST-PORT,27031
+- DST-PORT,27032
+- DST-PORT,27033
+- DST-PORT,27034
+- DST-PORT,27035

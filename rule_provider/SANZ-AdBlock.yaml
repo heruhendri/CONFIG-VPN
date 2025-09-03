@@ -1,0 +1,3225 @@
+# Behavior: classical
+# Last Edited By Qyubisanz14 2025-04-05
+# NAME: Hijacking 
+# Manualing Add From Reputable Source MIX
+# Sengaja kaga banyak nambahin list secukupnya aja 🗿
+# CPU Usage bengkak ntar panik (Hp Kentang) 🥔 
+
+payload:
+# AbpINDO Block
+  - DOMAIN-SUFFIX,188affiliates.com
+  - DOMAIN-SUFFIX,accesstrade.co.id
+  - DOMAIN-SUFFIX,ad-loupe.com
+  - DOMAIN-SUFFIX,adbsys.icu
+  - DOMAIN-SUFFIX,addesigner.com
+  - DOMAIN-SUFFIX,admarketplace.net
+  - DOMAIN-SUFFIX,adnety.com
+  - DOMAIN-SUFFIX,adplus.co.id
+  - DOMAIN-SUFFIX,adpop-1.com
+  - DOMAIN-SUFFIX,adpstatic.com
+  - DOMAIN-SUFFIX,adreach.co
+  - DOMAIN-SUFFIX,adreviewcamp.com
+  - DOMAIN-SUFFIX,ads-link.net
+  - DOMAIN-SUFFIX,ads.d21.media
+  - DOMAIN-SUFFIX,ads.indosatooredoo.com
+  - DOMAIN-SUFFIX,ads.telkomsel.com
+  - DOMAIN-SUFFIX,adsbingo.com
+  - DOMAIN-SUFFIX,adscpm.site
+  - DOMAIN-SUFFIX,adshost.site
+  - DOMAIN-SUFFIX,adsimg.kompas.com
+  - DOMAIN-SUFFIX,adskom.com
+  - DOMAIN-SUFFIX,adslop.com
+  - DOMAIN-SUFFIX,adstarsmedia.co.id
+  - DOMAIN-SUFFIX,adtimeselaras.com
+  - DOMAIN-SUFFIX,alertpay.com
+  - DOMAIN-SUFFIX,ampclicks.com
+  - DOMAIN-SUFFIX,anekaiklan.com
+  - DOMAIN-SUFFIX,baliadv.com
+  - DOMAIN-SUFFIX,bellaads.com
+  - DOMAIN-SUFFIX,berangkasilmu.com
+  - DOMAIN-SUFFIX,brand.ad
+  - DOMAIN-SUFFIX,caribanner.bid
+  - DOMAIN-SUFFIX,cdnasiaclub.com
+  - DOMAIN-SUFFIX,cfs.uzone.id
+  - DOMAIN-SUFFIX,cfs2.uzone.id
+  - DOMAIN-SUFFIX,clickmedia.co.id
+  - DOMAIN-SUFFIX,compulsivehemisphere.com
+  - DOMAIN-SUFFIX,csf.uzone.id
+  - DOMAIN-SUFFIX,d01.notifa.info
+  - DOMAIN-SUFFIX,dewsburg.info
+  - DOMAIN-SUFFIX,digiads.co.id
+  - DOMAIN-SUFFIX,ena-native-ads4.com
+  - DOMAIN-SUFFIX,etoads.net
+  - DOMAIN-SUFFIX,filebanner.com
+  - DOMAIN-SUFFIX,forumiklan.com
+  - DOMAIN-SUFFIX,goingsilltrusty.com
+  - DOMAIN-SUFFIX,groupiklan.com
+  - DOMAIN-SUFFIX,gudangbanner.com
+  - DOMAIN-SUFFIX,halal.ad
+  - DOMAIN-SUFFIX,herdethi.net
+  - DOMAIN-SUFFIX,hitadsmedia.com
+  - DOMAIN-SUFFIX,hosillfir.site
+  - DOMAIN-SUFFIX,ibnads.xl.co.id
+  - DOMAIN-SUFFIX,iklan-laris.com
+  - DOMAIN-SUFFIX,iklanads.com
+  - DOMAIN-SUFFIX,iklanbarisgratis.com
+  - DOMAIN-SUFFIX,iklanbarismu.com
+  - DOMAIN-SUFFIX,iklanblogger.com
+  - DOMAIN-SUFFIX,iklanbogor.com
+  - DOMAIN-SUFFIX,iklandenpasar.com
+  - DOMAIN-SUFFIX,iklangratis.com
+  - DOMAIN-SUFFIX,iklangratis88.com
+  - DOMAIN-SUFFIX,iklanhemat.com
+  - DOMAIN-SUFFIX,iklanhoki.com
+  - DOMAIN-SUFFIX,iklanoke.com
+  - DOMAIN-SUFFIX,iklantelevisi.com
+  - DOMAIN-SUFFIX,iklantext.com
+  - DOMAIN-SUFFIX,iklantop.net
+  - DOMAIN-SUFFIX,iklanumum.com
+  - DOMAIN-SUFFIX,indoadsnet.com
+  - DOMAIN-SUFFIX,indobanner.com
+  - DOMAIN-SUFFIX,indofreeads.com
+  - DOMAIN-SUFFIX,istana-impian.com
+  - DOMAIN-SUFFIX,istana-impian2.com
+  - DOMAIN-SUFFIX,istanaiklan.com
+  - DOMAIN-SUFFIX,istanaimpian1.com
+  - DOMAIN-SUFFIX,istanaimpian2.com
+  - DOMAIN-SUFFIX,istanaimpian3.com
+  - DOMAIN-SUFFIX,jagoiklan.com
+  - DOMAIN-SUFFIX,jagopromo.com
+  - DOMAIN-SUFFIX,jasaiklan.com
+  - DOMAIN-SUFFIX,javaiklan.com
+  - DOMAIN-SUFFIX,klikajadeh.com
+  - DOMAIN-SUFFIX,kotaksilver.casa
+  - DOMAIN-SUFFIX,lokeriklan.com
+  - DOMAIN-SUFFIX,luckyads.com
+  - DOMAIN-SUFFIX,lugtardam.com
+  - DOMAIN-SUFFIX,luven.xyz
+  - DOMAIN-SUFFIX,masteriklan.net
+  - DOMAIN-SUFFIX,mediab.uy
+  - DOMAIN-SUFFIX,mesiniklan.andipublisher.com
+  - DOMAIN-SUFFIX,newsupdatewe.info
+  - DOMAIN-SUFFIX,offdeck.telkomsel.com
+  - DOMAIN-SUFFIX,offer.popsads.link
+  - DOMAIN-SUFFIX,offerjuice.me
+  - DOMAIN-SUFFIX,onclkds.com
+  - DOMAIN-SUFFIX,onigagalai.ru
+  - DOMAIN-SUFFIX,openadserving.com
+  - DOMAIN-SUFFIX,p01.notifa.info
+  - DOMAIN-SUFFIX,p02.notifa.info
+  - DOMAIN-SUFFIX,p03.notifa.info
+  - DOMAIN-SUFFIX,p04.notifa.info
+  - DOMAIN-SUFFIX,p05.notifa.info
+  - DOMAIN-SUFFIX,padssup.com
+  - DOMAIN-SUFFIX,paidforfree.com
+  - DOMAIN-SUFFIX,parentelement.ml
+  - DOMAIN-SUFFIX,pasangiklan.com
+  - DOMAIN-SUFFIX,pasariklanbaris.com
+  - DOMAIN-SUFFIX,payingbeswim.com
+  - DOMAIN-SUFFIX,paypopup.com
+  - DOMAIN-SUFFIX,pc3ads.com
+  - DOMAIN-SUFFIX,pondokiklan.com
+  - DOMAIN-SUFFIX,popclck.net
+  - DOMAIN-SUFFIX,popunderjs.club
+  - DOMAIN-SUFFIX,presbanise.pw
+  - DOMAIN-SUFFIX,promobagus.com
+  - DOMAIN-SUFFIX,promotioncamp.com
+  - DOMAIN-SUFFIX,props.id
+  - DOMAIN-SUFFIX,propsid.b-cdn.net
+  - DOMAIN-SUFFIX,publish.web.id
+  - DOMAIN-SUFFIX,pusatiklan.com
+  - DOMAIN-SUFFIX,s2pops.club
+  - DOMAIN-SUFFIX,sanglah.com
+  - DOMAIN-SUFFIX,sarapbeh.com
+  - DOMAIN-SUFFIX,scriptall.ml
+  - DOMAIN-SUFFIX,sebar.idblognetwork.com
+  - DOMAIN-SUFFIX,see-work.info
+  - DOMAIN-SUFFIX,sentrapromosi.com
+  - DOMAIN-SUFFIX,serbada.com
+  - DOMAIN-SUFFIX,serbapromo.com
+  - DOMAIN-SUFFIX,shiiuojjccp.com
+  - DOMAIN-SUFFIX,shiokambing2.com
+  - DOMAIN-SUFFIX,sitti.co.id
+  - DOMAIN-SUFFIX,situsiklanbaris.com
+  - DOMAIN-SUFFIX,spanuletubings.com
+  - DOMAIN-SUFFIX,sumberiklan.com
+  - DOMAIN-SUFFIX,suryaiklan.com
+  - DOMAIN-SUFFIX,teliad.com
+  - DOMAIN-SUFFIX,thapi.aedi.ai
+  - DOMAIN-SUFFIX,theclickers.net
+  - DOMAIN-SUFFIX,tinggalklik.com
+  - DOMAIN-SUFFIX,topklik.com
+  - DOMAIN-SUFFIX,topsurfer.com
+  - DOMAIN-SUFFIX,traditionallyobjectlessblinked.com
+  - DOMAIN-SUFFIX,u-ad.info
+  - DOMAIN-SUFFIX,u-on.eu
+  - DOMAIN-SUFFIX,uadexchange.com
+  - DOMAIN-SUFFIX,useads.com
+  - DOMAIN-SUFFIX,webiklan.com
+  - DOMAIN-SUFFIX,weblogiklan.com
+  - DOMAIN-SUFFIX,yesads.com
+  - DOMAIN-SUFFIX,05ee3a24ed11df058c8.com
+  - DOMAIN-SUFFIX,1b969cef84d93b43.com
+  - DOMAIN-SUFFIX,34667c8ece5.com
+  - DOMAIN-SUFFIX,508327fbe9.95bd06d118.com
+  - DOMAIN-SUFFIX,64p3am9x95ct.com
+  - DOMAIN-SUFFIX,6631f33cf2a1032b.com
+  - DOMAIN-SUFFIX,995db2642d3d852b.com
+  - DOMAIN-SUFFIX,9eb10b7a3d04a.com
+  - DOMAIN-SUFFIX,9icmzvn6.website
+  - DOMAIN-SUFFIX,a63t9o1azf.com
+  - DOMAIN-SUFFIX,abrts.pro
+  - DOMAIN-SUFFIX,adeumssp.com
+  - DOMAIN-SUFFIX,afbcashidr.com
+  - DOMAIN-SUFFIX,ahcnxuepput.com
+  - DOMAIN-SUFFIX,aj1052.online
+  - DOMAIN-SUFFIX,aopxnvrugx.com
+  - DOMAIN-SUFFIX,auredzeon.com
+  - DOMAIN-SUFFIX,axzsd.pro
+  - DOMAIN-SUFFIX,azxsd.pro
+  - DOMAIN-SUFFIX,b9645fef65.com
+  - DOMAIN-SUFFIX,bcajjtbzmdrl.com
+  - DOMAIN-SUFFIX,bubblekraken.com
+  - DOMAIN-SUFFIX,cea9d3d4f74fb831.com
+  - DOMAIN-SUFFIX,chidsimp.com
+  - DOMAIN-SUFFIX,chqspuonctkgz.com
+  - DOMAIN-SUFFIX,craydark.pw
+  - DOMAIN-SUFFIX,curoax.com
+  - DOMAIN-SUFFIX,d0p21g2fep.com
+  - DOMAIN-SUFFIX,d72gb9oukw3j.com
+  - DOMAIN-SUFFIX,d824d7f5cbcb0e00.com
+  - DOMAIN-SUFFIX,d95d1c685a.6c142df43a.com
+  - DOMAIN-SUFFIX,daero.pw
+  - DOMAIN-SUFFIX,dairouzy.net
+  - DOMAIN-SUFFIX,dearerfonder.info
+  - DOMAIN-SUFFIX,doathair.com
+  - DOMAIN-SUFFIX,e7393e33565ce805.com
+  - DOMAIN-SUFFIX,edomz.com
+  - DOMAIN-SUFFIX,edspectsm.fun
+  - DOMAIN-SUFFIX,epfcfhtjxqd.com
+  - DOMAIN-SUFFIX,fkglkpkgkduh.top
+  - DOMAIN-SUFFIX,flexterkita.com
+  - DOMAIN-SUFFIX,fnasmpygwa.com
+  - DOMAIN-SUFFIX,fnkyyrgraizy.com
+  - DOMAIN-SUFFIX,frpiksdeygy.com
+  - DOMAIN-SUFFIX,fryruejoust.cam
+  - DOMAIN-SUFFIX,furocmay.com
+  - DOMAIN-SUFFIX,gbrrrxbodqdlq.com
+  - DOMAIN-SUFFIX,ghaahq.com
+  - DOMAIN-SUFFIX,hegarberetrof.pro
+  - DOMAIN-SUFFIX,hoegutvie.com
+  - DOMAIN-SUFFIX,ihqfiimrbcf.com
+  - DOMAIN-SUFFIX,iupqelechcmj.com
+  - DOMAIN-SUFFIX,iwtserve.com
+  - DOMAIN-SUFFIX,jillsclickcorner.com
+  - DOMAIN-SUFFIX,jjekxle.com
+  - DOMAIN-SUFFIX,jnwsrqxrdqct.top
+  - DOMAIN-SUFFIX,juruiklan.com
+  - DOMAIN-SUFFIX,kdbumyha.com
+  - DOMAIN-SUFFIX,kozoysnsx.com
+  - DOMAIN-SUFFIX,l9tdhe6.com
+  - DOMAIN-SUFFIX,ld82ydd.com
+  - DOMAIN-SUFFIX,leoceran.pw
+  - DOMAIN-SUFFIX,lpaizureik.com
+  - DOMAIN-SUFFIX,lsgqlgoc.com
+  - DOMAIN-SUFFIX,midgerelativelyhoax.com
+  - DOMAIN-SUFFIX,mifsirnhvvrps.top
+  - DOMAIN-SUFFIX,misxgkvnlf.com
+  - DOMAIN-SUFFIX,motosal.net
+  - DOMAIN-SUFFIX,mousheen.net
+  - DOMAIN-SUFFIX,naetoris.pw
+  - DOMAIN-SUFFIX,nvqonvfylkxdjc.com
+  - DOMAIN-SUFFIX,oardjnay.com
+  - DOMAIN-SUFFIX,octafx.com
+  - DOMAIN-SUFFIX,olkrzytv.com
+  - DOMAIN-SUFFIX,olmsoneenh.info
+  - DOMAIN-SUFFIX,ourtherss.top
+  - DOMAIN-SUFFIX,pheersie.com
+  - DOMAIN-SUFFIX,phudrour.net
+  - DOMAIN-SUFFIX,pvwtkxcpsrcsd.com
+  - DOMAIN-SUFFIX,q1xyxm89.com
+  - DOMAIN-SUFFIX,qprskl.com
+  - DOMAIN-SUFFIX,realwap.net
+  - DOMAIN-SUFFIX,replase.gq
+  - DOMAIN-SUFFIX,replase.ml
+  - DOMAIN-SUFFIX,ridingintractable.com
+  - DOMAIN-SUFFIX,sekaneemits.com
+  - DOMAIN-SUFFIX,shiiticprating.com
+  - DOMAIN-SUFFIX,shqbsdjatunl.com
+  - DOMAIN-SUFFIX,tidnqztumpnk.com
+  - DOMAIN-SUFFIX,tinfunshe.club
+  - DOMAIN-SUFFIX,torflegorb.com
+  - DOMAIN-SUFFIX,trendlope.com
+  - DOMAIN-SUFFIX,trvwjyjgkgeagd.com
+  - DOMAIN-SUFFIX,tummiarunzpf.com
+  - DOMAIN-SUFFIX,uamrnaakv.com
+  - DOMAIN-SUFFIX,ueuodgnrhb.com
+  - DOMAIN-SUFFIX,uieoogjarimcey.com
+  - DOMAIN-SUFFIX,uoarbhxfyygn.com
+  - DOMAIN-SUFFIX,uofmnbkm.com
+  - DOMAIN-SUFFIX,vkwaeo.com
+  - DOMAIN-SUFFIX,vrewpywootyu.com
+  - DOMAIN-SUFFIX,wbaogaqvrukprx.com
+  - DOMAIN-SUFFIX,whjibbprhng.com
+  - DOMAIN-SUFFIX,wkuave.com
+  - DOMAIN-SUFFIX,yllix.com
+  - DOMAIN-SUFFIX,ys3e965d.top
+  - DOMAIN-SUFFIX,zukxd6fkxqn.com
+  - DOMAIN-SUFFIX,zuyejecgb.com
+  - DOMAIN-SUFFIX,browsertelemetry.tk
+  - DOMAIN-SUFFIX,c-stat.eu
+  - DOMAIN-SUFFIX,cfs1.uzone.id
+  - DOMAIN-SUFFIX,hesftig.site
+  - DOMAIN-SUFFIX,ktrackdata.com
+  - DOMAIN-SUFFIX,moneyfree.co
+  - DOMAIN-SUFFIX,profitsurvey365.live
+  - DOMAIN-SUFFIX,rajatraffic.com
+  - DOMAIN-SUFFIX,track.aptitudemedia.co
+  - DOMAIN-SUFFIX,track.avxid.com
+  - DOMAIN-SUFFIX,track.zerofriend.com
+  - DOMAIN-SUFFIX,trackdan.com
+  - DOMAIN-SUFFIX,tracker.beritagar.id
+  - DOMAIN-SUFFIX,tracker.lazada.co.id
+  - DOMAIN-SUFFIX,trackingclick.net
+  - DOMAIN-SUFFIX,traffic-monetizer.com
+  - DOMAIN-SUFFIX,trafficfactory.biz
+  - DOMAIN-SUFFIX,trk.cpaoptimizer.com
+  
+# Custom tipis tipis
+- DOMAIN-SUFFIX,pagead2.googlesyndication.com
+- DOMAIN-SUFFIX,pagead2.googleadservices.com
+- DOMAIN-SUFFIX,adservice.google.com
+- DOMAIN-SUFFIX,googlesyndication.com
+- DOMAIN-SUFFIX,doubleclick.net
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,ads.doubleclick.net
+- DOMAIN-SUFFIX,static.doubleclick.net
+- DOMAIN-SUFFIX,m.doubleclick.net
+- DOMAIN-SUFFIX,mediavisor.doubleclick.net
+- DOMAIN-SUFFIX,ads-api.twitter.com
+- DOMAIN-SUFFIX,ads.pinterest.com
+- DOMAIN-SUFFIX,ads.youtube.com
+- DOMAIN-SUFFIX,bilivideo.com
+
+# MIX Block Referal Ads Awal²
+- DOMAIN,semawur.com
+- DOMAIN,cararegistrasi.com
+- DOMAIN-SUFFIX,trustedcpmrevenue.com
+- DOMAIN,amp-api-edge.apps.apple.com
+- DOMAIN,hidemyass.com
+- DOMAIN-SUFFIX,cdnasu.xyz
+- DOMAIN-SUFFIX,cdnime.xyz
+- DOMAIN-SUFFIX,cdnmeta.xyz
+- DOMAIN-SUFFIX,kentut.xyz
+- DOMAIN-SUFFIX,gambar.xyz
+- DOMAIN-SUFFIX,wp.com
+- DOMAIN-SUFFIX,cdnkomikindo.xyz
+- DOMAIN-SUFFIX,komikindo.info
+- DOMAIN-SUFFIX,cdnfgo.xyz
+- DOMAIN-SUFFIX,cdngue.xyz
+- DOMAIN,cdn.statically.io
+- DOMAIN-SUFFIX,itachi.my.id
+- DOMAIN-KEYWORD,nekopoi
+- DOMAIN-KEYWORD,cdnkomikindo.xyz
+- DOMAIN-SUFFIX,nhentai.net
+- DOMAIN-KEYWORD,revanced
+- DOMAIN-SUFFIX,dlupload.com
+- DOMAIN-SUFFIX,production.nuds.frostgate.studio
+- DOMAIN-SUFFIX,intergram.xyz
+- DOMAIN-SUFFIX,cdn.mouseflow.com
+- DOMAIN-SUFFIX,cdn-test.mouseflow.com
+- DOMAIN,tokopedia.app.link
+- DOMAIN,tokopedia.link
+# IP-CIRD
+- IP-CIDR,45.12.2.2/24 #kuronime
+- IP-CIDR,185.231.223.254/24 #kuronime
+
+# Block Deteksi Brimo & JMO Zimperium
+- DOMAIN-SUFFIX,vpbank.zimperium.com
+- DOMAIN-SUFFIX,zapac-rfd.zimperium.com
+- DOMAIN-SUFFIX,cdn.zimperium.com
+- DOMAIN-SUFFIX,edge.zimperium.com
+- DOMAIN-SUFFIX,stest.zimperium.com
+- DOMAIN-SUFFIX,zapac.zimperium.com
+- DOMAIN-SUFFIX,s3.brimo.nsgt.bri.co.id
+
+#kuramanimeJudol
+- DOMAIN-SUFFIX,iasini08.site
+- DOMAIN-SUFFIX,wdpenta8.xyz
+- DOMAIN-SUFFIX,akunrusia8.fun
+- DOMAIN-SUFFIX,kemana08.site
+- DOMAIN-SUFFIX,sampai08.site
+  
+# block logger
+- DOMAIN-KEYWORD,gsdk-va.bytegsdk.com
+- DOMAIN-KEYWORD,log-va.bytegsdk.com
+- DOMAIN-KEYWORD,gplog-sg.byteoversea.com
+- DOMAIN-KEYWORD,pcmactivity.chinacloudsites.cn
+
+# Komikindo
+- DOMAIN-KEYWORD,scpkdiudxvduq
+- DOMAIN-KEYWORD,ashoupsu
+- DOMAIN-KEYWORD,denetsuk
+- DOMAIN-KEYWORD,kena-blok
+- DOMAIN-KEYWORD,outoctillerytor
+- DOMAIN-KEYWORD,ptawhood
+- DOMAIN-KEYWORD,yrisrikjvfxcffv
+- DOMAIN-KEYWORD,yonxatuor
+- DOMAIN-KEYWORD,sortyrails
+- DOMAIN-KEYWORD,jomtingi
+- DOMAIN-KEYWORD,lhbnqkns
+- DOMAIN-KEYWORD,iggmpjidjefpr
+- DOMAIN-KEYWORD,awjvnfncw
+- DOMAIN-KEYWORD,xqrprttdvmynv
+- DOMAIN-KEYWORD,onohgmfhtavjef
+- DOMAIN-KEYWORD,daudejuw
+- DOMAIN-KEYWORD,outcheeh
+- DOMAIN-KEYWORD,goomaphy
+- DOMAIN-KEYWORD,videeza
+- DOMAIN-KEYWORD,njump.xmobistein
+- DOMAIN-KEYWORD,travelparked
+- DOMAIN-KEYWORD,lolllipoping
+- DOMAIN-KEYWORD,xmobistein
+- DOMAIN-KEYWORD,gry-vulkanvegas
+- DOMAIN-KEYWORD,itecoust
+- DOMAIN-KEYWORD,teeponuy
+- DOMAIN-KEYWORD,choahees
+- DOMAIN-KEYWORD,zudaichy
+- DOMAIN-KEYWORD,runsafeads
+- DOMAIN-KEYWORD,whauchel
+- DOMAIN-KEYWORD,itponytaa
+- DOMAIN-KEYWORD,goomaphy
+- DOMAIN-KEYWORD,itskiddien
+- DOMAIN-KEYWORD,thaudray
+- DOMAIN-KEYWORD,goupeecy
+- IP-CIDR,139.45.197.151/32,no-resolve
+- IP-CIDR,139.45.197.152/32,no-resolve
+- IP-CIDR,139.45.197.153/32,no-resolve
+- IP-CIDR,139.45.197.154/32,no-resolve
+
+# Komiku
+- DOMAIN-KEYWORD,udomyeasted
+
+# Susu
+- DOMAIN-KEYWORD,malthustutball
+- DOMAIN-KEYWORD,curdlecobiron
+- DOMAIN-KEYWORD,exdynsrv
+
+# Tap
+- DOMAIN-KEYWORD,agacelebir
+- DOMAIN-KEYWORD,begrimdos
+- DOMAIN-KEYWORD,histats
+- DOMAIN-KEYWORD,realsrv
+- DOMAIN-KEYWORD,samghasps
+- DOMAIN-KEYWORD,cdnasu
+
+#- DOMAIN-KEYWORD,cdncok
+- DOMAIN-KEYWORD,qqjar
+- DOMAIN-KEYWORD,rivne
+- DOMAIN-KEYWORD,runative-syndicate
+- DOMAIN-KEYWORD,twistconcept
+- DOMAIN-KEYWORD,viglink
+- DOMAIN-KEYWORD,faptitans
+- DOMAIN-KEYWORD,exoclick
+- DOMAIN-KEYWORD,highlevelcount
+- DOMAIN-KEYWORD,lostincunt
+- DOMAIN-KEYWORD,exoclick
+- DOMAIN-KEYWORD,exdynsrv
+- DOMAIN-KEYWORD,epoch
+- DOMAIN-KEYWORD,iadoremakingpics
+- DOMAIN-KEYWORD,hooligapps
+- DOMAIN-KEYWORD,hoolig
+- DOMAIN-KEYWORD,rtmark.net
+- DOMAIN-KEYWORD,simplewebanalysis
+- DOMAIN-KEYWORD,suchenachmuschi
+- DOMAIN-KEYWORD,traffichaus
+- DOMAIN-KEYWORD,tsyndicate
+- DOMAIN-KEYWORD,twistconcept
+
+# Sheakomik
+- DOMAIN-KEYWORD,aobslot
+- DOMAIN-KEYWORD,rebrand
+- DOMAIN-KEYWORD,marspedia
+
+# Sheamanga
+- DOMAIN-KEYWORD,a-ads
+- DOMAIN-KEYWORD,bc.game
+- DOMAIN-KEYWORD,eethilsi
+
+# komikindo
+- DOMAIN-KEYWORD,teeponuy
+- DOMAIN-KEYWORD,choahees
+- DOMAIN-KEYWORD,zudaichy
+- DOMAIN-KEYWORD,runsafeads
+- DOMAIN-KEYWORD,whauchel
+- DOMAIN-KEYWORD,itponytaa
+- DOMAIN-KEYWORD,goomaphy
+- DOMAIN-KEYWORD,itskiddien
+- DOMAIN-KEYWORD,thaudray
+- DOMAIN-KEYWORD,goupeecy
+- DOMAIN-KEYWORD,dooloust
+- DOMAIN-KEYWORD,outoctillerytor
+- DOMAIN-KEYWORD,pokaroad
+- DOMAIN-KEYWORD,denetsuk
+- DOMAIN-KEYWORD,koabouch
+- DOMAIN-KEYWORD,avonsour
+- DOMAIN-KEYWORD,glevoloo
+- DOMAIN-KEYWORD,kaya303
+
+#komikcast
+- DOMAIN-KEYWORD,bursa33
+- DOMAIN-KEYWORD,playbook88a2
+- DOMAIN-KEYWORD,linkwarkop4d
+- DOMAIN-KEYWORD,ancznewozw
+- DOMAIN-KEYWORD,warkop4dx
+- DOMAIN-KEYWORD,bonus33
+
+#komiktp
+- DOMAIN-KEYWORD,gacor.zone
+- DOMAIN-KEYWORD,gacor.vip
+- DOMAIN-KEYWORD,gacor.vin
+
+#sektekomik
+- DOMAIN-KEYWORD,phouwims
+
+#manhwa net
+- DOMAIN-KEYWORD,ber2g8e3keley
+
+#kiryuu
+- DOMAIN-KEYWORD,388herobest
+- DOMAIN-KEYWORD,redirect388herosafest
+- DOMAIN-KEYWORD,388hero178
+- DOMAIN-SUFFIX,bwsgmm.com
+- DOMAIN-KEYWORD,388hero
+
+#d3ward.github.io
+- DOMAIN-SUFFIX,adtago.s3.amazonaws.com
+- DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+- DOMAIN-SUFFIX,analytics.s3.amazonaws.com
+- DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
+
+# --- Google Ads
+- DOMAIN-SUFFIX,pagead2.googlesyndication.com
+- DOMAIN-SUFFIX,adservice.google.com
+- DOMAIN-SUFFIX,pagead2.googleadservices.com
+- DOMAIN-SUFFIX,afs.googlesyndication.com
+
+# --- Doubleclick.net
+- DOMAIN-SUFFIX,stats.g.doubleclick.net
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,static.doubleclick.net
+- DOMAIN-SUFFIX,m.doubleclick.net
+- DOMAIN-SUFFIX,mediavisor.doubleclick.net
+
+# --- Adcolony
+- DOMAIN-SUFFIX,ads30.adcolony.com
+- DOMAIN-SUFFIX,adc3-launch.adcolony.com
+- DOMAIN-SUFFIX,events3alt.adcolony.com
+- DOMAIN-SUFFIX,wd.adcolony.com
+
+# --- Media.net
+- DOMAIN-SUFFIX,static.media.net
+- DOMAIN-SUFFIX,media.net
+- DOMAIN-SUFFIX,adservetx.media.net
+
+#========= Analytics ==========
+
+# --- Google Analytics
+- DOMAIN-SUFFIX,analytics.google.com
+- DOMAIN-SUFFIX,click.googleanalytics.com
+- DOMAIN-SUFFIX,google-analytics.com
+- DOMAIN-SUFFIX,ssl.google-analytics.com
+
+# --- Hotjar
+- DOMAIN-SUFFIX,adm.hotjar.com
+- DOMAIN-SUFFIX,identify.hotjar.com
+- DOMAIN-SUFFIX,insights.hotjar.com
+- DOMAIN-SUFFIX,script.hotjar.com
+- DOMAIN-SUFFIX,surveys.hotjar.com
+- DOMAIN-SUFFIX,careers.hotjar.com
+- DOMAIN-SUFFIX,events.hotjar.io
+
+# --- MouseFlow
+- DOMAIN-SUFFIX,mouseflow.com
+- DOMAIN-SUFFIX,cdn.mouseflow.com
+- DOMAIN-SUFFIX,o2.mouseflow.com
+- DOMAIN-SUFFIX,gtm.mouseflow.com
+- DOMAIN-SUFFIX,api.mouseflow.com
+- DOMAIN-SUFFIX,tools.mouseflow.com
+- DOMAIN-SUFFIX,cdn-test.mouseflow.com
+
+# --- FreshWorks
+- DOMAIN-SUFFIX,freshmarketer.com
+- DOMAIN-SUFFIX,claritybt.freshmarketer.com
+- DOMAIN-SUFFIX,fwtracks.freshmarketer.com
+
+# --- Luckyorange
+- DOMAIN-SUFFIX,luckyorange.com
+- DOMAIN-SUFFIX,api.luckyorange.com
+- DOMAIN-SUFFIX,realtime.luckyorange.com
+- DOMAIN-SUFFIX,cdn.luckyorange.com
+- DOMAIN-SUFFIX,w1.luckyorange.com
+- DOMAIN-SUFFIX,upload.luckyorange.net
+- DOMAIN-SUFFIX,cs.luckyorange.net
+- DOMAIN-SUFFIX,settings.luckyorange.net
+
+# --- Stats WP Plugin
+- DOMAIN-SUFFIX,stats.wp.com
+
+#======= Error Trackers =======
+
+# --- Bugsnag
+- DOMAIN-SUFFIX,notify.bugsnag.com
+- DOMAIN-SUFFIX,sessions.bugsnag.com
+- DOMAIN-SUFFIX,api.bugsnag.com
+- DOMAIN-SUFFIX,app.bugsnag.com
+
+# --- Sentry
+- DOMAIN-SUFFIX,browser.sentry-cdn.com
+- DOMAIN-SUFFIX,app.getsentry.com
+
+#====== Social Trackers =======
+
+# --- Facebook
+- DOMAIN-SUFFIX,pixel.facebook.com
+- DOMAIN-SUFFIX,an.facebook.com
+
+# --- Twitter
+- DOMAIN-SUFFIX,static.ads-twitter.com
+- DOMAIN-SUFFIX,ads-api.twitter.com
+
+# --- LinkedIn
+- DOMAIN-SUFFIX,ads.linkedin.com
+- DOMAIN-SUFFIX,analytics.pointdrive.linkedin.com
+
+# --- Pinterest
+- DOMAIN-SUFFIX,ads.pinterest.com
+- DOMAIN-SUFFIX,log.pinterest.com
+- DOMAIN-SUFFIX,analytics.pinterest.com
+- DOMAIN-SUFFIX,trk.pinterest.com
+
+# --- Reddit
+- DOMAIN-SUFFIX,events.reddit.com
+- DOMAIN-SUFFIX,events.redditmedia.com
+
+# --- YouTube
+- DOMAIN-SUFFIX,ads.youtube.com
+
+# --- TikTok
+- DOMAIN-SUFFIX,ads-api.tiktok.com
+- DOMAIN-SUFFIX,analytics.tiktok.com
+- DOMAIN-SUFFIX,ads-sg.tiktok.com
+- DOMAIN-SUFFIX,analytics-sg.tiktok.com
+- DOMAIN-SUFFIX,business-api.tiktok.com
+- DOMAIN-SUFFIX,ads.tiktok.com
+- DOMAIN-SUFFIX,log.byteoversea.com
+
+#============ Mix =============
+
+# --- Yahoo
+- DOMAIN-SUFFIX,ads.yahoo.com
+- DOMAIN-SUFFIX,analytics.yahoo.com
+- DOMAIN-SUFFIX,geo.yahoo.com
+- DOMAIN-SUFFIX,udc.yahoo.com
+- DOMAIN-SUFFIX,udcm.yahoo.com
+- DOMAIN-SUFFIX,analytics.query.yahoo.com
+- DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
+- DOMAIN-SUFFIX,log.fc.yahoo.com
+- DOMAIN-SUFFIX,gemini.yahoo.com
+- DOMAIN-SUFFIX,adtech.yahooinc.com
+
+# --- Yandex
+- DOMAIN-SUFFIX,extmaps-api.yandex.net
+- DOMAIN-SUFFIX,appmetrica.yandex.ru
+- DOMAIN-SUFFIX,adfstat.yandex.ru
+- DOMAIN-SUFFIX,metrika.yandex.ru
+- DOMAIN-SUFFIX,offerwall.yandex.net
+- DOMAIN-SUFFIX,adfox.yandex.ru
+
+# --- Unity
+- DOMAIN-SUFFIX,auction.unityads.unity3d.com
+- DOMAIN-SUFFIX,webview.unityads.unity3d.com
+- DOMAIN-SUFFIX,config.unityads.unity3d.com
+- DOMAIN-SUFFIX,adserver.unityads.unity3d.com
+- DOMAIN-SUFFIX,com.unity3d.services.ads
+- DOMAIN-SUFFIX,adunit.unity3d.com
+- DOMAIN-SUFFIX,adsunit.unity3d.com
+- DOMAIN-SUFFIX,adserver.unity3d.com
+
+#============ OEMs ============
+
+# --- Realme
+- DOMAIN-SUFFIX,iot-eu-logser.realme.com
+- DOMAIN-SUFFIX,iot-logser.realme.com
+- DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
+- DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
+
+# --- Xiaomi
+- DOMAIN-SUFFIX,api.ad.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+- DOMAIN-SUFFIX,tracking.rus.miui.com
+
+# --- Oppo
+- DOMAIN-SUFFIX,adsfs.oppomobile.com
+- DOMAIN-SUFFIX,adx.ads.oppomobile.com
+- DOMAIN-SUFFIX,ck.ads.oppomobile.com
+- DOMAIN-SUFFIX,data.ads.oppomobile.com
+
+# --- Huawei
+- DOMAIN-SUFFIX,metrics.data.hicloud.com
+- DOMAIN-SUFFIX,metrics2.data.hicloud.com
+- DOMAIN-SUFFIX,grs.hicloud.com
+- DOMAIN-SUFFIX,logservice.hicloud.com
+- DOMAIN-SUFFIX,logservice1.hicloud.com
+- DOMAIN-SUFFIX,logbak.hicloud.com
+
+# --- OnePlus
+- DOMAIN-SUFFIX,click.oneplus.cn
+- DOMAIN-SUFFIX,open.oneplus.net
+
+# --- Samsung
+- DOMAIN-SUFFIX,samsungads.com
+- DOMAIN-SUFFIX,smetrics.samsung.com
+- DOMAIN-SUFFIX,nmetrics.samsung.com
+- DOMAIN-SUFFIX,samsung-com.112.2o7.net
+- DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
+
+# --- Apple
+- DOMAIN-SUFFIX,iadsdk.apple.com
+- DOMAIN-SUFFIX,metrics.icloud.com
+- DOMAIN-SUFFIX,metrics.mzstatic.com
+- DOMAIN-SUFFIX,api-adservices.apple.com
+- DOMAIN-SUFFIX,books-analytics-events.apple.com
+- DOMAIN-SUFFIX,weather-analytics-events.apple.com
+- DOMAIN-SUFFIX,notes-analytics-events.apple.com
+
+# MLBB, NOX, Tiktok test Ads Logging
+- DOMAIN,gsdk-va.bytegsdk.com
+- DOMAIN,log-va.bytegsdk.com
+- DOMAIN,gplog-sg.byteoversea.com
+- DOMAIN,pcmactivity.chinacloudsites.cn
+
+# Others
+- DOMAIN-SUFFIX,pagead2.googlesyndication.com
+- DOMAIN-SUFFIX,pagead2.googleadservices.com
+- DOMAIN-SUFFIX,ads.google.com
+- DOMAIN-SUFFIX,adservice.google.com
+- DOMAIN-SUFFIX,googleadservices.com
+- DOMAIN-SUFFIX,static.media.net
+- DOMAIN-SUFFIX,media.net
+- DOMAIN-SUFFIX,adservetx.media.net
+- DOMAIN-SUFFIX,mediavisor.doubleclick.net
+- DOMAIN-SUFFIX,m.doubleclick.net
+- DOMAIN-SUFFIX,static.doubleclick.net
+- DOMAIN-SUFFIX,doubleclick.net
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,fastclick.com
+- DOMAIN-SUFFIX,fastclick.net
+- DOMAIN-SUFFIX,media.fastclick.net
+- DOMAIN-SUFFIX,cdn.fastclick.net
+- DOMAIN-SUFFIX,adtago.s3.amazonaws.com
+- DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+- DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
+- DOMAIN-SUFFIX,affiliationjs.s3.amazonaws.com
+- DOMAIN-SUFFIX,advertising-api-eu.amazon.com
+- DOMAIN-SUFFIX,amazonaax.com
+- DOMAIN-SUFFIX,amazonclix.com
+- DOMAIN-SUFFIX,assoc-amazon.com
+- DOMAIN-SUFFIX,ads.yahoo.com
+- DOMAIN-SUFFIX,adserver.yahoo.com
+- DOMAIN-SUFFIX,global.adserver.yahoo.com
+- DOMAIN-SUFFIX,us.adserver.yahoo.com
+- DOMAIN-SUFFIX,adspecs.yahoo.com
+- DOMAIN-SUFFIX,br.adspecs.yahoo.com
+- DOMAIN-SUFFIX,latam.adspecs.yahoo.com
+- DOMAIN-SUFFIX,ush.adspecs.yahoo.com
+- DOMAIN-SUFFIX,advertising.yahoo.com
+- DOMAIN-SUFFIX,de.advertising.yahoo.com
+- DOMAIN-SUFFIX,es.advertising.yahoo.com
+- DOMAIN-SUFFIX,fr.advertising.yahoo.com
+- DOMAIN-SUFFIX,in.advertising.yahoo.com
+- DOMAIN-SUFFIX,it.advertising.yahoo.com
+- DOMAIN-SUFFIX,sea.advertising.yahoo.com
+- DOMAIN-SUFFIX,uk.advertising.yahoo.com
+- DOMAIN-SUFFIX,analytics.yahoo.com
+- DOMAIN-SUFFIX,cms.analytics.yahoo.com
+- DOMAIN-SUFFIX,opus.analytics.yahoo.com
+- DOMAIN-SUFFIX,sp.analytics.yahoo.com
+- DOMAIN-SUFFIX,comet.yahoo.com
+- DOMAIN-SUFFIX,log.fc.yahoo.com
+- DOMAIN-SUFFIX,ganon.yahoo.com
+- DOMAIN-SUFFIX,gemini.yahoo.com
+- DOMAIN-SUFFIX,beap.gemini.yahoo.com
+- DOMAIN-SUFFIX,geo.yahoo.com
+- DOMAIN-SUFFIX,marketingsolutions.yahoo.com
+- DOMAIN-SUFFIX,pclick.yahoo.com
+- DOMAIN-SUFFIX,analytics.query.yahoo.com
+- DOMAIN-SUFFIX,geo.query.yahoo.com
+- DOMAIN-SUFFIX,onepush.query.yahoo.com
+- DOMAIN-SUFFIX,bats.video.yahoo.com
+- DOMAIN-SUFFIX,visit.webhosting.yahoo.com
+- DOMAIN-SUFFIX,ads.yap.yahoo.com
+- DOMAIN-SUFFIX,m.yap.yahoo.com
+- DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
+- DOMAIN-SUFFIX,appmetrica.yandex.com
+- DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,19534.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,3.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,30488.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,4.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,report.appmetrica.yandex.net
+- DOMAIN-SUFFIX,extmaps-api.yandex.net
+- DOMAIN-SUFFIX,analytics.mobile.yandex.net
+- DOMAIN-SUFFIX,banners.mobile.yandex.net
+- DOMAIN-SUFFIX,banners-slb.mobile.yandex.net
+- DOMAIN-SUFFIX,startup.mobile.yandex.net
+- DOMAIN-SUFFIX,offerwall.yandex.net
+- DOMAIN-SUFFIX,adfox.yandex.ru
+- DOMAIN-SUFFIX,matchid.adfox.yandex.ru
+- DOMAIN-SUFFIX,adsdk.yandex.ru
+- DOMAIN-SUFFIX,an.yandex.ru
+- DOMAIN-SUFFIX,redirect.appmetrica.yandex.ru
+- DOMAIN-SUFFIX,awaps.yandex.ru
+- DOMAIN-SUFFIX,awsync.yandex.ru
+- DOMAIN-SUFFIX,bs.yandex.ru
+- DOMAIN-SUFFIX,bs-meta.yandex.ru
+- DOMAIN-SUFFIX,clck.yandex.ru
+- DOMAIN-SUFFIX,informer.yandex.ru
+- DOMAIN-SUFFIX,kiks.yandex.ru
+- DOMAIN-SUFFIX,grade.market.yandex.ru
+- DOMAIN-SUFFIX,mc.yandex.ru
+- DOMAIN-SUFFIX,metrika.yandex.ru
+- DOMAIN-SUFFIX,click.sender.yandex.ru
+- DOMAIN-SUFFIX,share.yandex.ru
+- DOMAIN-SUFFIX,yandexadexchange.net
+- DOMAIN-SUFFIX,mobile.yandexadexchange.net
+- DOMAIN-SUFFIX,google-analytics.com
+- DOMAIN-SUFFIX,ssl.google-analytics.com
+- DOMAIN-SUFFIX,api-hotjar.com
+- DOMAIN-SUFFIX,hotjar-analytics.com
+- DOMAIN-SUFFIX,hotjar.com
+- DOMAIN-SUFFIX,static.hotjar.com
+- DOMAIN-SUFFIX,mouseflow.com
+- DOMAIN-SUFFIX,a.mouseflow.com
+- DOMAIN-SUFFIX,freshmarketer.com
+- DOMAIN-SUFFIX,luckyorange.com
+- DOMAIN-SUFFIX,luckyorange.net
+- DOMAIN-SUFFIX,cdn.luckyorange.com
+- DOMAIN-SUFFIX,w1.luckyorange.com
+- DOMAIN-SUFFIX,upload.luckyorange.net
+- DOMAIN-SUFFIX,cs.luckyorange.net
+- DOMAIN-SUFFIX,settings.luckyorange.net
+- DOMAIN-SUFFIX,stats.wp.com
+- DOMAIN-SUFFIX,notify.bugsnag.com
+- DOMAIN-SUFFIX,sessions.bugsnag.com
+- DOMAIN-SUFFIX,api.bugsnag.com
+- DOMAIN-SUFFIX,app.bugsnag.com
+- DOMAIN-SUFFIX,browser.sentry-cdn.com
+- DOMAIN-SUFFIX,app.getsentry.com
+- DOMAIN-SUFFIX,pixel.facebook.com
+- DOMAIN-SUFFIX,analytics.facebook.com
+- DOMAIN-SUFFIX,ads.facebook.com
+- DOMAIN-SUFFIX,an.facebook.com
+- DOMAIN-SUFFIX,ads-api.twitter.com
+- DOMAIN-SUFFIX,advertising.twitter.com
+- DOMAIN-SUFFIX,ads-twitter.com
+- DOMAIN-SUFFIX,static.ads-twitter.com
+- DOMAIN-SUFFIX,ads.linkedin.com
+- DOMAIN-SUFFIX,analytics.pointdrive.linkedin.com
+- DOMAIN-SUFFIX,ads.pinterest.com
+- DOMAIN-SUFFIX,log.pinterest.com
+- DOMAIN-SUFFIX,ads-dev.pinterest.com
+- DOMAIN-SUFFIX,analytics.pinterest.com
+- DOMAIN-SUFFIX,trk.pinterest.com
+- DOMAIN-SUFFIX,trk2.pinterest.com
+- DOMAIN-SUFFIX,widgets.pinterest.com
+- DOMAIN-SUFFIX,ads.reddit.com
+- DOMAIN-SUFFIX,rereddit.com
+- DOMAIN-SUFFIX,events.redditmedia.com
+- DOMAIN-SUFFIX,d.reddit.com
+- DOMAIN-SUFFIX,ads-sg.tiktok.com
+- DOMAIN-SUFFIX,analytics-sg.tiktok.com
+- DOMAIN-SUFFIX,ads.tiktok.com
+- DOMAIN-SUFFIX,analytics.tiktok.com
+- DOMAIN-SUFFIX,ads.youtube.com
+- DOMAIN-SUFFIX,youtube.cleverads.vn
+- DOMAIN-SUFFIX,ads.yahoo.com
+- DOMAIN-SUFFIX,adserver.yahoo.com
+- DOMAIN-SUFFIX,global.adserver.yahoo.com
+- DOMAIN-SUFFIX,us.adserver.yahoo.com
+- DOMAIN-SUFFIX,adspecs.yahoo.com
+- DOMAIN-SUFFIX,advertising.yahoo.com
+- DOMAIN-SUFFIX,analytics.yahoo.com
+- DOMAIN-SUFFIX,analytics.query.yahoo.com
+- DOMAIN-SUFFIX,ads.yap.yahoo.com
+- DOMAIN-SUFFIX,m.yap.yahoo.com
+- DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
+- DOMAIN-SUFFIX,appmetrica.yandex.com
+- DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,19534.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,3.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,30488.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,4.redirect.appmetrica.yandex.com
+- DOMAIN-SUFFIX,report.appmetrica.yandex.net
+- DOMAIN-SUFFIX,extmaps-api.yandex.net
+- DOMAIN-SUFFIX,analytics.mobile.yandex.net
+- DOMAIN-SUFFIX,banners.mobile.yandex.net
+- DOMAIN-SUFFIX,banners-slb.mobile.yandex.net
+- DOMAIN-SUFFIX,startup.mobile.yandex.net
+- DOMAIN-SUFFIX,offerwall.yandex.net
+- DOMAIN-SUFFIX,adfox.yandex.ru
+- DOMAIN-SUFFIX,matchid.adfox.yandex.ru
+- DOMAIN-SUFFIX,adsdk.yandex.ru
+- DOMAIN-SUFFIX,an.yandex.ru
+- DOMAIN-SUFFIX,redirect.appmetrica.yandex.ru
+- DOMAIN-SUFFIX,awaps.yandex.ru
+- DOMAIN-SUFFIX,awsync.yandex.ru
+- DOMAIN-SUFFIX,bs.yandex.ru
+- DOMAIN-SUFFIX,bs-meta.yandex.ru
+- DOMAIN-SUFFIX,clck.yandex.ru
+- DOMAIN-SUFFIX,informer.yandex.ru
+- DOMAIN-SUFFIX,kiks.yandex.ru
+- DOMAIN-SUFFIX,grade.market.yandex.ru
+- DOMAIN-SUFFIX,mc.yandex.ru
+- DOMAIN-SUFFIX,metrika.yandex.ru
+- DOMAIN-SUFFIX,click.sender.yandex.ru
+- DOMAIN-SUFFIX,share.yandex.ru
+- DOMAIN-SUFFIX,yandexadexchange.net
+- DOMAIN-SUFFIX,mobile.yandexadexchange.net
+- DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
+- DOMAIN-SUFFIX,adsfs.oppomobile.com
+- DOMAIN-SUFFIX,adx.ads.oppomobile.com
+- DOMAIN-SUFFIX,bdapi.ads.oppomobile.com
+- DOMAIN-SUFFIX,ck.ads.oppomobile.com
+- DOMAIN-SUFFIX,data.ads.oppomobile.com
+- DOMAIN-SUFFIX,g1.ads.oppomobile.com
+- DOMAIN-SUFFIX,api.ad.xiaomi.com
+- DOMAIN-SUFFIX,app.chat.xiaomi.net
+- DOMAIN-SUFFIX,data.mistat.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+- DOMAIN-SUFFIX,globalapi.ad.xiaomi.com
+- DOMAIN-SUFFIX,www.cdn.ad.xiaomi.com
+- DOMAIN-SUFFIX,tracking.miui.com
+- DOMAIN-SUFFIX,sa.api.intl.miui.com
+- DOMAIN-SUFFIX,tracking.miui.com
+- DOMAIN-SUFFIX,tracking.intl.miui.com
+- DOMAIN-SUFFIX,tracking.india.miui.com
+- DOMAIN-SUFFIX,tracking.rus.miui.com
+- DOMAIN-SUFFIX,analytics.oneplus.cn
+- DOMAIN-SUFFIX,click.oneplus.cn
+- DOMAIN-SUFFIX,click.oneplus.com
+- DOMAIN-SUFFIX,open.oneplus.net
+- DOMAIN-SUFFIX,metrics.data.hicloud.com
+- DOMAIN-SUFFIX,metrics1.data.hicloud.com
+- DOMAIN-SUFFIX,metrics2.data.hicloud.com
+- DOMAIN-SUFFIX,metrics3.data.hicloud.com
+- DOMAIN-SUFFIX,metrics4.data.hicloud.com
+- DOMAIN-SUFFIX,metrics5.data.hicloud.com 
+- DOMAIN-SUFFIX,logservice.hicloud.com
+- DOMAIN-SUFFIX,logservice1.hicloud.com
+- DOMAIN-SUFFIX,metrics-dra.dt.hicloud.com
+- DOMAIN-SUFFIX,logbak.hicloud.com
+- DOMAIN-SUFFIX,ad.samsungadhub.com
+- DOMAIN-SUFFIX,samsungadhub.com
+- DOMAIN-SUFFIX,samsungads.com
+- DOMAIN-SUFFIX,smetrics.samsung.com
+- DOMAIN-SUFFIX,nmetrics.samsung.com
+- DOMAIN-SUFFIX,samsung-com.112.2o7.net
+- DOMAIN-SUFFIX,business.samsungusa.com
+- DOMAIN-SUFFIX,analytics.samsungknox.com
+- DOMAIN-SUFFIX,bigdata.ssp.samsung.com
+- DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
+- DOMAIN-SUFFIX,config.samsungads.com
+- DOMAIN-SUFFIX,metrics.apple.com
+- DOMAIN-SUFFIX,securemetrics.apple.com
+- DOMAIN-SUFFIX,supportmetrics.apple.com
+- DOMAIN-SUFFIX,metrics.icloud.com
+- DOMAIN-SUFFIX,metrics.mzstatic.com
+- DOMAIN-SUFFIX,dzc-metrics.mzstatic.com
+- DOMAIN-SUFFIX,books-analytics-events.news.apple-dns.net
+- DOMAIN-SUFFIX,books-analytics-events.apple.com
+- DOMAIN-SUFFIX,stocks-analytics-events.apple.com
+- DOMAIN-SUFFIX,stocks-analytics-events.news.apple-dns.net
+- DOMAIN-KEYWORD,pagead2
+- DOMAIN-KEYWORD,adservice
+- DOMAIN-KEYWORD,.ads.
+- DOMAIN-KEYWORD,.ad.
+- DOMAIN-KEYWORD,adservetx
+- DOMAIN-KEYWORD,mediavisor
+- DOMAIN-KEYWORD,adtago
+- DOMAIN-KEYWORD,analyticsengine
+- DOMAIN-KEYWORD,advice-ads
+- DOMAIN-KEYWORD,affiliationjs
+- DOMAIN-KEYWORD,advertising
+- DOMAIN-KEYWORD,adserver
+- DOMAIN-KEYWORD,pclick
+- DOMAIN-KEYWORD,partnerads
+- DOMAIN-KEYWORD,appmetrica
+- DOMAIN-KEYWORD,adfox
+- DOMAIN-KEYWORD,adsdk
+- DOMAIN-KEYWORD,clck
+- DOMAIN-KEYWORD,metrika
+- DOMAIN-KEYWORD,api-hotjar
+- DOMAIN-KEYWORD,hotjar-analytics
+- DOMAIN-KEYWORD,hotjar
+- DOMAIN-KEYWORD,luckyorange
+- DOMAIN-KEYWORD,bugsnag
+- DOMAIN-KEYWORD,sentry-cdn
+- DOMAIN-KEYWORD,getsentry
+- DOMAIN-KEYWORD,ads-api
+- DOMAIN-KEYWORD,ads-twitter
+- DOMAIN-KEYWORD,pointdrive
+- DOMAIN-KEYWORD,ads-dev
+- DOMAIN-KEYWORD,trk
+- DOMAIN-KEYWORD,cleverads
+- DOMAIN-KEYWORD,ads-sg
+- DOMAIN-KEYWORD,analytics-sg
+- DOMAIN-KEYWORD,adspecs
+- DOMAIN-KEYWORD,adsfs
+- DOMAIN-KEYWORD,adx
+- DOMAIN-KEYWORD,tracking.
+- DOMAIN-KEYWORD,logservice
+- DOMAIN-KEYWORD,logbak
+- DOMAIN-KEYWORD,smetrics
+- DOMAIN-KEYWORD,nmetrics
+- DOMAIN-KEYWORD,securemetrics
+- DOMAIN-KEYWORD,supportmetrics
+- DOMAIN-KEYWORD,books-analytics
+- DOMAIN-KEYWORD,stocks-analytics
+#v2
+- DOMAIN,geo2.adobe.com
+- DOMAIN-SUFFIX,17gouwuba.com
+- DOMAIN-SUFFIX,186078.com
+- DOMAIN-SUFFIX,189key.com
+- DOMAIN-SUFFIX,189zj.cn
+- DOMAIN-SUFFIX,285680.com
+- DOMAIN-SUFFIX,3721zh.com
+- DOMAIN-SUFFIX,4009997658.com
+- DOMAIN-SUFFIX,4336wang.cn
+- DOMAIN-SUFFIX,51chumoping.com
+- DOMAIN-SUFFIX,51mld.cn
+- DOMAIN-SUFFIX,51mypc.cn
+- DOMAIN-SUFFIX,58mingri.cn
+- DOMAIN-SUFFIX,58mingtian.cn
+- DOMAIN-SUFFIX,5vl58stm.com
+- DOMAIN-SUFFIX,6d63d3.com
+- DOMAIN-SUFFIX,7gg.cc
+- DOMAIN-SUFFIX,91veg.com
+- DOMAIN-SUFFIX,9s6q.cn
+- DOMAIN-SUFFIX,abbyychina.com
+- DOMAIN-SUFFIX,adsame.com
+- DOMAIN-SUFFIX,akuai.top
+- DOMAIN-SUFFIX,alienskins.cn
+- DOMAIN-SUFFIX,anydeskchina.cn
+- DOMAIN-SUFFIX,atplay.cn
+- DOMAIN-SUFFIX,baiwanchuangyi.com
+- DOMAIN-SUFFIX,bartender.cc
+- DOMAIN-SUFFIX,beerto.cn
+- DOMAIN-SUFFIX,beilamusi.com
+- DOMAIN-SUFFIX,benshiw.net
+- DOMAIN-SUFFIX,betterzip.net
+- DOMAIN-SUFFIX,betterzipcn.com
+- DOMAIN-SUFFIX,beyondcompare.cc
+- DOMAIN-SUFFIX,bianxianmao.com
+- DOMAIN-SUFFIX,bingdianhuanyuan.cn
+- DOMAIN-SUFFIX,bkyhq.cn
+- DOMAIN-SUFFIX,bryonypie.com
+- DOMAIN-SUFFIX,chemdraw.com.cn
+- DOMAIN-SUFFIX,cishantao.com
+- DOMAIN-SUFFIX,cjmakeding.com
+- DOMAIN-SUFFIX,cjmkt.com
+- DOMAIN-SUFFIX,codesoftchina.com
+- DOMAIN-SUFFIX,coreldrawchina.com
+- DOMAIN-SUFFIX,crossoverchina.com
+- DOMAIN-SUFFIX,cszlks.com
+- DOMAIN-SUFFIX,cudaojia.com
+- DOMAIN-SUFFIX,dafapromo.com
+- DOMAIN-SUFFIX,daitdai.com
+- DOMAIN-SUFFIX,dongmansoft.com
+- DOMAIN-SUFFIX,dsaeerf.com
+- DOMAIN-SUFFIX,dugesheying.com
+- DOMAIN-SUFFIX,dv8c1t.cn
+- DOMAIN-SUFFIX,earmasterchina.cn
+- DOMAIN-SUFFIX,easyrecoverychina.com
+- DOMAIN-SUFFIX,echatu.com
+- DOMAIN-SUFFIX,ediuschina.com
+- DOMAIN-SUFFIX,erdoscs.com
+- DOMAIN-SUFFIX,fan-yong.com
+- DOMAIN-SUFFIX,feih.com.cn
+- DOMAIN-SUFFIX,fjlqqc.com
+- DOMAIN-SUFFIX,fkku194.com
+- DOMAIN-SUFFIX,flash.cn
+- DOMAIN-SUFFIX,flstudiochina.com
+- DOMAIN-SUFFIX,folxchina.cn
+- DOMAIN-SUFFIX,formysql.com
+- DOMAIN-SUFFIX,freedrive.cn
+- DOMAIN-SUFFIX,gclick.cn
+- DOMAIN-SUFFIX,goufanli100.com
+- DOMAIN-SUFFIX,goupaoerdai.com
+- DOMAIN-SUFFIX,gouwubang.com
+- DOMAIN-SUFFIX,gscxs.cn
+- DOMAIN-SUFFIX,guitarpro.cc
+- DOMAIN-SUFFIX,gzxnlk.com
+- DOMAIN-SUFFIX,haoshengtoys.com
+- DOMAIN-SUFFIX,hbssjd.cn
+- DOMAIN-SUFFIX,huishenghuiying.com.cn
+- DOMAIN-SUFFIX,hypeapp.cn
+- DOMAIN-SUFFIX,hypersnap.net
+- DOMAIN-SUFFIX,hyunke.com
+- DOMAIN-SUFFIX,ichaosheng.com
+- DOMAIN-SUFFIX,iconworkshop.cn
+- DOMAIN-SUFFIX,idmchina.net
+- DOMAIN-SUFFIX,imazingchina.com
+- DOMAIN-SUFFIX,imindmap.cc
+- DOMAIN-SUFFIX,ishop789.com
+- DOMAIN-SUFFIX,jdkic.com
+- DOMAIN-SUFFIX,jihehuaban.com.cn
+- DOMAIN-SUFFIX,jiubuhua.com
+- DOMAIN-SUFFIX,jsncke.com
+- DOMAIN-SUFFIX,junkucm.com
+- DOMAIN-SUFFIX,jwg365.cn
+- DOMAIN-SUFFIX,kawo77.com
+- DOMAIN-SUFFIX,keyshot.cc
+- DOMAIN-SUFFIX,kingdeecn.cn
+- DOMAIN-SUFFIX,kuaizip.com
+- DOMAIN-SUFFIX,kualianyingxiao.cn
+- DOMAIN-SUFFIX,kumihua.com
+- DOMAIN-SUFFIX,logoshejishi.com
+- DOMAIN-SUFFIX,ltheanine.cn
+- DOMAIN-SUFFIX,luping.net.cn
+- DOMAIN-SUFFIX,lvehaisen.com
+- DOMAIN-SUFFIX,mackeeper.com
+- DOMAIN-SUFFIX,maipinshangmao.com
+- DOMAIN-SUFFIX,mairuan.cn
+- DOMAIN-SUFFIX,mairuan.com
+- DOMAIN-SUFFIX,mairuan.com.cn
+- DOMAIN-SUFFIX,mairuan.net
+- DOMAIN-SUFFIX,mairuanwang.com
+- DOMAIN-SUFFIX,makeding.com
+- DOMAIN-SUFFIX,mathtype.cn
+- DOMAIN-SUFFIX,mindmanager.cc
+- DOMAIN-SUFFIX,mindmanager.cn
+- DOMAIN-SUFFIX,mindmapper.cc
+- DOMAIN-SUFFIX,minisplat.cn
+- DOMAIN-SUFFIX,mkitgfs.com
+- DOMAIN-SUFFIX,mlnbike.com
+- DOMAIN-SUFFIX,mobjump.com
+- DOMAIN-SUFFIX,mycleanmymac.com
+- DOMAIN-SUFFIX,nbkbgd.cn
+- DOMAIN-SUFFIX,newapi.com
+- DOMAIN-SUFFIX,nicelabel.cc
+- DOMAIN-SUFFIX,ntfsformac.cc
+- DOMAIN-SUFFIX,ntfsformac.cn
+- DOMAIN-SUFFIX,officesoftcn.com
+- DOMAIN-SUFFIX,overturechina.com
+- DOMAIN-SUFFIX,passwordrecovery.cn
+- DOMAIN-SUFFIX,pdfexpert.cc
+- DOMAIN-SUFFIX,photozoomchina.com
+- DOMAIN-SUFFIX,pinzhitmall.com
+- DOMAIN-SUFFIX,poppyta.com
+- DOMAIN-SUFFIX,qianchuanghr.com
+- DOMAIN-SUFFIX,qichexin.com
+- DOMAIN-SUFFIX,qinchugudao.com
+- DOMAIN-SUFFIX,quanliyouxi.cn
+- DOMAIN-SUFFIX,qutaobi.com
+- DOMAIN-SUFFIX,ry51w.cn
+- DOMAIN-SUFFIX,sg536.cn
+- DOMAIN-SUFFIX,shankejingling.com
+- DOMAIN-SUFFIX,sifubo.cn
+- DOMAIN-SUFFIX,sifuce.cn
+- DOMAIN-SUFFIX,sifuda.cn
+- DOMAIN-SUFFIX,sifufu.cn
+- DOMAIN-SUFFIX,sifuge.cn
+- DOMAIN-SUFFIX,sifugu.cn
+- DOMAIN-SUFFIX,sifuhe.cn
+- DOMAIN-SUFFIX,sifuhu.cn
+- DOMAIN-SUFFIX,sifuji.cn
+- DOMAIN-SUFFIX,sifuka.cn
+- DOMAIN-SUFFIX,smgru.net
+- DOMAIN-SUFFIX,taoggou.com
+- DOMAIN-SUFFIX,tcxshop.com
+- DOMAIN-SUFFIX,tjqonline.cn
+- DOMAIN-SUFFIX,topitme.com
+- DOMAIN-SUFFIX,tt114.net
+- DOMAIN-SUFFIX,tt3sm4.cn
+- DOMAIN-SUFFIX,tuia.cn
+- DOMAIN-SUFFIX,tuipenguin.com
+- DOMAIN-SUFFIX,tuitiger.com
+- DOMAIN-SUFFIX,ultraiso.net
+- DOMAIN-SUFFIX,urlaw.cn
+- DOMAIN-SUFFIX,urlet.cn
+- DOMAIN-SUFFIX,vegaschina.cn
+- DOMAIN-SUFFIX,websd8.com
+- DOMAIN-SUFFIX,wsgblw.com
+- DOMAIN-SUFFIX,wx16999.com
+- DOMAIN-SUFFIX,xchmai.com
+- DOMAIN-SUFFIX,xiaohuau.xyz
+- DOMAIN-SUFFIX,xitongqingli.com
+- DOMAIN-SUFFIX,xmindchina.net
+- DOMAIN-SUFFIX,xshellcn.com
+- DOMAIN-SUFFIX,ygyzx.cn
+- DOMAIN-SUFFIX,yihuifu.cn
+- DOMAIN-SUFFIX,yinmong.com
+- DOMAIN-SUFFIX,yitaopt.com
+- DOMAIN-SUFFIX,yjqiqi.com
+- DOMAIN-SUFFIX,yuanchengxiezuo.com
+- DOMAIN-SUFFIX,yukhj.com
+- DOMAIN-SUFFIX,zbrushcn.com
+- DOMAIN-SUFFIX,zhaozecheng.cn
+- DOMAIN-SUFFIX,zhenxinet.com
+- DOMAIN-SUFFIX,zhzzx.com
+- DOMAIN-SUFFIX,zlne800.com
+- DOMAIN-SUFFIX,zmlled.cn
+- DOMAIN-SUFFIX,zryydi.com
+
+# New Adguard MobileAds April 2025
+- DOMAIN-SUFFIX,adx-open-service.youku.com
+- DOMAIN-SUFFIX,ad.youku.com
+- DOMAIN-SUFFIX,ykad-data.youku.com
+- DOMAIN-SUFFIX,cad.youku.com
+- DOMAIN-SUFFIX,dad-api.dcard.tw
+- DOMAIN-SUFFIX,ad-splash-tracking.hktvmall.com
+- DOMAIN-SUFFIX,ad-splash.hktvmall.com
+- DOMAIN-SUFFIX,advil.waze.com
+- DOMAIN-SUFFIX,s-adx.op-mobile.opera.com
+- DOMAIN-SUFFIX,s.adx.opera.com
+- DOMAIN-SUFFIX,ketchapp.org
+- DOMAIN-SUFFIX,cdn-ketchapp.akamaized.net
+- DOMAIN-SUFFIX,sspapi-prd.samsungrs.com
+- DOMAIN-SUFFIX,admin.appnext.com
+- DOMAIN-SUFFIX,global.appnext.com
+- DOMAIN-SUFFIX,cdn.appnext.com
+- DOMAIN-SUFFIX,api.appnxt.net
+- DOMAIN-SUFFIX,apis.appnxt.net
+- DOMAIN-SUFFIX,banners-slb.mobile.yandex.net
+- DOMAIN-SUFFIX,banners.mobile.yandex.com
+- DOMAIN-SUFFIX,app.ssp.yahoo.com
+- DOMAIN-SUFFIX,m.yap.yahoo.com
+- DOMAIN-SUFFIX,mimicromax.com
+- DOMAIN-SUFFIX,bi.yeshen.com
+- DOMAIN-SUFFIX,launcher.us.yeshen.com
+- DOMAIN-SUFFIX,search.adcaffe.com
+- DOMAIN-SUFFIX,monitor.adcaffe.com
+- DOMAIN-SUFFIX,ad-api.ehawk.com
+- DOMAIN-SUFFIX,gwrtdp-tn690bfadt.tclclouds.com
+- DOMAIN-SUFFIX,mobotoolpush.moboapps.io
+- DOMAIN-SUFFIX,ssp.mediation.trnox.com
+- DOMAIN-SUFFIX,bu1.duba.com
+- DOMAIN-SUFFIX,behacdn.ksmobile.net
+- DOMAIN-SUFFIX,p-behacdn.ksmobile.net
+- DOMAIN-SUFFIX,crosspromotion.weplayer.cc
+- DOMAIN-SUFFIX,ad.weplayer.cc
+- DOMAIN-SUFFIX,mobile-campaigns.avast.com
+- DOMAIN-SUFFIX,adpush.goforandroid.com
+- DOMAIN-SUFFIX,dzpu6za66svjl.cloudfront.net
+- DOMAIN-SUFFIX,ad.flipboard.com
+- DOMAIN-SUFFIX,adserver.shadow.snapads.com
+- DOMAIN-SUFFIX,ads-chunks.prod.ihrhls.com
+- DOMAIN-SUFFIX,api.ads.watchabc.go.com
+- DOMAIN-SUFFIX,socdm.com
+- DOMAIN-SUFFIX,criteo.com
+- DOMAIN-SUFFIX,criteo.net
+- DOMAIN-SUFFIX,appodeal.com
+- DOMAIN-SUFFIX,ad.buzzvil.com
+- DOMAIN-SUFFIX,screen.buzzvil.com
+- DOMAIN-SUFFIX,adstrategy.biz.weibo.com
+- DOMAIN-SUFFIX,ad.weibo.com
+- DOMAIN-SUFFIX,geoloc.yospace.com
+- DOMAIN-SUFFIX,banner.hpmdnetwork.ru
+- DOMAIN-SUFFIX,hybrid.ai
+- DOMAIN-SUFFIX,px.adhigh.net
+- DOMAIN-SUFFIX,ad.auditude.com
+- DOMAIN-SUFFIX,adfiles.auditude.com
+- DOMAIN-SUFFIX,cdn.auditude.com
+- DOMAIN-SUFFIX,cdn2.auditude.com
+- DOMAIN-SUFFIX,otcdn2.auditude.com
+- DOMAIN-SUFFIX,www.auditude.com
+- DOMAIN-SUFFIX,manifest.auditude.com
+- DOMAIN-SUFFIX,mblapi.ssl2.duapps.com
+- DOMAIN-SUFFIX,api.mobula.ds.duapps.com
+- DOMAIN-SUFFIX,noxagile.duapp.com
+- DOMAIN-SUFFIX,common.duapps.com
+- DOMAIN-SUFFIX,pasta.esfile.duapps.com
+- DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
+- DOMAIN-SUFFIX,ad.duapps.com
+- DOMAIN-SUFFIX,ufz.doesxyz.com
+- DOMAIN-SUFFIX,xdrig.com
+- DOMAIN-SUFFIX,usp1.baidu.com
+- DOMAIN-SUFFIX,54.222.186.106
+- DOMAIN-SUFFIX,plugin.mobopay.baidu.com
+- DOMAIN-SUFFIX,mo.freeindoapp.com
+- DOMAIN-SUFFIX,vod-mplayer.sooplive.co.kr
+- DOMAIN-SUFFIX,reqde.sooplive.co.kr
+- DOMAIN-SUFFIX,adballoon.sooplive.co.kr
+- DOMAIN-SUFFIX,deapi.sooplive.co.kr
+- DOMAIN-SUFFIX,startup.mobile.yandex.net
+- DOMAIN-SUFFIX,startup.mobile.webvisor.com
+- DOMAIN-SUFFIX,startup-mobile.ap.yandex-net.ru
+- DOMAIN-SUFFIX,lgvlbd.icu
+- DOMAIN-SUFFIX,crossadsapi.ecomobileapp.com
+- DOMAIN-SUFFIX,service-ad-image-ga.prd.pluto.tv
+- DOMAIN-SUFFIX,pavoshare.com
+- DOMAIN-SUFFIX,global-staticplat.cdn.bcebos.com
+- DOMAIN-SUFFIX,datk.bridgeoos.com
+- DOMAIN-SUFFIX,ads.appbundledownload.com
+- DOMAIN-SUFFIX,san.myadssupport.com
+- DOMAIN-SUFFIX,api.youngle.tech
+- DOMAIN-SUFFIX,api.myadsget.com
+- DOMAIN-SUFFIX,api.sve.cc
+- DOMAIN-SUFFIX,adx-sg-req.bridgeoos.com
+- DOMAIN-SUFFIX,adx-os.bridgeoos.com
+- DOMAIN-SUFFIX,api.kickoffo.site
+- DOMAIN-SUFFIX,api.bridgeoos.com
+- DOMAIN-SUFFIX,r0.mail.ru
+- DOMAIN-SUFFIX,r0.mradx.net
+- DOMAIN-SUFFIX,serveraddr.service.kugou.com
+- DOMAIN-SUFFIX,d.kugou.com
+- DOMAIN-SUFFIX,nbcollect.kugou.com
+- DOMAIN-SUFFIX,nbcollectretry.kugou.com
+- DOMAIN-SUFFIX,dl-adx.op-mobile.opera.com
+- DOMAIN-SUFFIX,dsp-api.moloco.com
+- DOMAIN-SUFFIX,ads.smrtbid.com
+- DOMAIN-SUFFIX,bidjora.com
+- DOMAIN-SUFFIX,aomsitf.com
+- DOMAIN-SUFFIX,richlifeads.ru
+- DOMAIN-SUFFIX,tapulsads.ru
+- DOMAIN-SUFFIX,httpdns.bilivideo.com
+- DOMAIN-SUFFIX,dataflow.biliapi.com
+- DOMAIN-SUFFIX,ads.adinmotech.com
+- DOMAIN-SUFFIX,kvaedit.site
+- DOMAIN-SUFFIX,ads-ap-venues.yinzcam.com
+- DOMAIN-SUFFIX,ads-delivery.gunosy.com
+- DOMAIN-SUFFIX,ads-config-engine-noneu.truecaller.com
+- DOMAIN-SUFFIX,ad.inston.ltd
+- DOMAIN-SUFFIX,ad.deepthought.industries
+- DOMAIN-SUFFIX,ad.bandlab.io
+- DOMAIN-SUFFIX,ads.cocomobi.com
+- DOMAIN-SUFFIX,inmense.site
+- DOMAIN-SUFFIX,dollphoin.site
+- DOMAIN-SUFFIX,news-cdn.site
+- DOMAIN-SUFFIX,mossru.com
+- DOMAIN-SUFFIX,jjpp.lmtjapi.com
+- DOMAIN-SUFFIX,ad.zijieapi.com
+- DOMAIN-SUFFIX,frontier100-toutiao-lf.fqnovel.com
+- DOMAIN-SUFFIX,ad.snaptube.app
+- DOMAIN-SUFFIX,ad.mobiuspace.net
+- DOMAIN-SUFFIX,api-ad-callback.falconnet.app
+- DOMAIN-SUFFIX,adnami.io
+- DOMAIN-SUFFIX,ads-router-noneu.truecaller.com
+- DOMAIN-SUFFIX,umphek.com
+- DOMAIN-SUFFIX,ahoy-internal-ads-hv.b-cdn.net
+- DOMAIN-SUFFIX,ad.iwhop.cn
+- DOMAIN-SUFFIX,s-odx.oleads.com
+- DOMAIN-SUFFIX,mediation.unity3d.com
+- DOMAIN-SUFFIX,cdn-ad.wtzw.com
+- DOMAIN-SUFFIX,appsrv.display.io
+- DOMAIN-SUFFIX,ad.line-scdn.net
+- DOMAIN-SUFFIX,splash-ad.classting.com
+- DOMAIN-SUFFIX,ad-files.classting.com
+- DOMAIN-SUFFIX,v16-ad.byteoversea.com
+- DOMAIN-SUFFIX,vs-api.voodoo-tech.io
+- DOMAIN-SUFFIX,psvpromo.psvgamestudio.com
+- DOMAIN-SUFFIX,static.timetreeads.com
+- DOMAIN-SUFFIX,kfvjdvjzhddhc.com
+- DOMAIN-SUFFIX,zgzxs.weathercn.com
+- DOMAIN-SUFFIX,downloadshi.b-cdn.net
+- DOMAIN-SUFFIX,ads.rmbl.ws
+- DOMAIN-SUFFIX,adsassets-ipv6.waze.com
+- DOMAIN-SUFFIX,iads.unity3d.com
+- DOMAIN-SUFFIX,togothermany.com
+- DOMAIN-SUFFIX,gdl.zmqdez.ru
+- DOMAIN-SUFFIX,rtblab.net
+- DOMAIN-SUFFIX,lacunads.com
+- DOMAIN-SUFFIX,diopousg.com
+- DOMAIN-SUFFIX,ruuaqkw.com
+- DOMAIN-SUFFIX,prod.adjoe.zone
+- DOMAIN-SUFFIX,mads.amazon.com
+- DOMAIN-SUFFIX,p16-ad.byteoversea.com
+- DOMAIN-SUFFIX,mtgglobals.com
+- DOMAIN-SUFFIX,pgdt.gtimg.cn
+- DOMAIN-SUFFIX,cmshow.gtimg.cn
+- DOMAIN-SUFFIX,projecta-common-1258344701.file.myqcloud.com
+- DOMAIN-SUFFIX,adrouter-charter-vod.cadenttech.tv
+- DOMAIN-SUFFIX,ads-sdk.nianticlabs.com
+- DOMAIN-SUFFIX,ad.mediamixer.co.kr
+- DOMAIN-SUFFIX,adfork.co.kr
+- DOMAIN-SUFFIX,92by17snes4.cc
+- DOMAIN-SUFFIX,pglstatp-toutiao.com
+- DOMAIN-SUFFIX,open.e.kuaishou.cn
+- DOMAIN-SUFFIX,open.e.kuaishou.com
+- DOMAIN-SUFFIX,open.kuaishouzt.com
+- DOMAIN-SUFFIX,open.kwaizt.com
+- DOMAIN-SUFFIX,ali-ad.a.yximgs.com
+- DOMAIN-SUFFIX,tx-ad.a.yximgs.com
+- DOMAIN-SUFFIX,tx-kmpaudio.pull.yximgs.com
+- DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
+- DOMAIN-SUFFIX,adkwai.com
+- DOMAIN-SUFFIX,marketing.mangacopy.com
+- DOMAIN-SUFFIX,gdfp.gifshow.com
+- DOMAIN-SUFFIX,p1-lm.adukwai.com
+- DOMAIN-SUFFIX,audiomob.com
+- DOMAIN-SUFFIX,ads-api.kidsnote.com
+- DOMAIN-SUFFIX,stream.spongead.com
+- DOMAIN-SUFFIX,naverpa-phinf.pstatic.net
+- DOMAIN-SUFFIX,tivan.naver.com
+- DOMAIN-SUFFIX,veta.naver.com
+- DOMAIN-SUFFIX,leadc6.icu
+- DOMAIN-SUFFIX,pangolin16.sgsnssdk.com
+- DOMAIN-SUFFIX,ads.adadapted.com
+- DOMAIN-SUFFIX,zflylg.buzz
+- DOMAIN-SUFFIX,zflfoy.xyz
+- DOMAIN-SUFFIX,zfkjrm.xyz
+- DOMAIN-SUFFIX,zflfoy.buzz
+- DOMAIN-SUFFIX,zfehvv.xyz
+- DOMAIN-SUFFIX,mtag.mman.kr
+- DOMAIN-SUFFIX,hybird.rayjump.com
+- DOMAIN-SUFFIX,anythinktech.com
+- DOMAIN-SUFFIX,d3hdbjtb1686tn.cloudfront.net
+- DOMAIN-SUFFIX,s.hisp.in
+- DOMAIN-SUFFIX,toponadss.com
+- DOMAIN-SUFFIX,adcs.myappsget.com
+- DOMAIN-SUFFIX,adsassets.waze.com
+- DOMAIN-SUFFIX,ads-resources.waze.com
+- DOMAIN-SUFFIX,ad.simpledesign.ltd
+- DOMAIN-SUFFIX,ads-sdk.mattel163.com
+- DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
+- DOMAIN-SUFFIX,ads.oppomobile.com
+- DOMAIN-SUFFIX,adsfs.oppomobile.com
+- DOMAIN-SUFFIX,offerwall.yandex.net
+- DOMAIN-SUFFIX,adsmrapi.imbc.com
+- DOMAIN-SUFFIX,ads.imbc.com
+- DOMAIN-SUFFIX,skt-asum.com
+- DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
+- DOMAIN-SUFFIX,bjads.bejbej.ca
+- DOMAIN-SUFFIX,hellay.net
+- DOMAIN-SUFFIX,rqmob.com
+- DOMAIN-SUFFIX,ads-server.mxplay.com
+- DOMAIN-SUFFIX,mxaserver.mxplay.com
+- DOMAIN-SUFFIX,contextualadv.com
+- DOMAIN-SUFFIX,tk0x1.com
+- DOMAIN-SUFFIX,itdsmr.com
+- DOMAIN-SUFFIX,displayio.cloud
+- DOMAIN-SUFFIX,external-api.impression-neo.naver.com
+- DOMAIN-SUFFIX,sdkv2.imaginationunwired.com
+- DOMAIN-SUFFIX,api-ad-adapter.wps.com
+- DOMAIN-SUFFIX,nasimobi.com
+- DOMAIN-SUFFIX,wd.adcolony.xyz
+- DOMAIN-SUFFIX,im.ov.yahoo.co.jp
+- DOMAIN-SUFFIX,thecatmachine.com
+- DOMAIN-SUFFIX,blueduckredapple.com
+- DOMAIN-SUFFIX,mobilefuse.com
+- DOMAIN-SUFFIX,api-ad-callback.mobiuspace.net
+- DOMAIN-SUFFIX,hb.rayjump.com
+- DOMAIN-SUFFIX,gdl.i9dhjx.ru
+- DOMAIN-SUFFIX,mobidriven.com
+- DOMAIN-SUFFIX,liftoff-creatives.io
+- DOMAIN-SUFFIX,everestop.io
+- DOMAIN-SUFFIX,mmp001.scalemonk.com
+- DOMAIN-SUFFIX,promotionad.nvcam.net
+- DOMAIN-SUFFIX,ad.nvdvr.cn
+- DOMAIN-SUFFIX,krt.asycxtz.cn
+- DOMAIN-SUFFIX,erg.ihclam.cn
+- DOMAIN-SUFFIX,hnl.ijgocb.cn
+- DOMAIN-SUFFIX,ob.leap.app
+- DOMAIN-SUFFIX,qist.me
+- DOMAIN-SUFFIX,ads-gdl.imovideo.ru
+- DOMAIN-SUFFIX,ads.imovideo.ru
+- DOMAIN-SUFFIX,adsbynimbus.com
+- DOMAIN-SUFFIX,adsgard.aprod.scopely.io
+- DOMAIN-SUFFIX,ads-interfaces.sc-cdn.net
+- DOMAIN-SUFFIX,adsapi.snapchat.com
+- DOMAIN-SUFFIX,adx-dre.op.hicloud.com
+- DOMAIN-SUFFIX,amanad.adtdp.com
+- DOMAIN-SUFFIX,ad.sxp.smartclip.net
+- DOMAIN-SUFFIX,amazonclix.com
+- DOMAIN-SUFFIX,api.itpub.cloud
+- DOMAIN-SUFFIX,adv-front.devpnd.com
+- DOMAIN-SUFFIX,mintegral.com
+- DOMAIN-SUFFIX,x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+- DOMAIN-SUFFIX,skadsdk.appsflyer.com
+- DOMAIN-SUFFIX,alt-ad.mail.ru
+- DOMAIN-SUFFIX,chavoads.com
+- DOMAIN-SUFFIX,r2d2.aotter.net
+- DOMAIN-SUFFIX,tkcatrun.aotter.net
+- DOMAIN-SUFFIX,cdn.jampp.com
+- DOMAIN-SUFFIX,imgx.jampp.com
+- DOMAIN-SUFFIX,static.jampp.com
+- DOMAIN-SUFFIX,adx-tk.rayjump.com
+- DOMAIN-SUFFIX,dspunion.com
+- DOMAIN-SUFFIX,rossoad.com
+- DOMAIN-SUFFIX,athena.api.kwalee.com
+- DOMAIN-SUFFIX,mobondhrd.appspot.com
+- DOMAIN-SUFFIX,a.cookpad-ads.com
+- DOMAIN-SUFFIX,api.ads.newsdigest.jp
+- DOMAIN-SUFFIX,mobi.yanosik.pl
+- DOMAIN-SUFFIX,videoads-cloud.rovio.com
+- DOMAIN-SUFFIX,vmap.v.ad-generation.jp
+- DOMAIN-SUFFIX,iyes.youku.com
+- DOMAIN-SUFFIX,adg.kajicam.com
+- DOMAIN-SUFFIX,exelbid.com
+- DOMAIN-SUFFIX,ssp-ad.momento.dev
+- DOMAIN-SUFFIX,adpies.com
+- DOMAIN-SUFFIX,cs02-pps-drcn.dbankcdn.com
+- DOMAIN-SUFFIX,an.facebook.com
+- DOMAIN-SUFFIX,live.hyprmx.com
+- DOMAIN-SUFFIX,static.hyprmx.com
+- DOMAIN-SUFFIX,prod.cm.publishers.advertising.a2z.com
+- DOMAIN-SUFFIX,dm.isnssdk.com
+- DOMAIN-SUFFIX,h5.isnssdk.com
+- DOMAIN-SUFFIX,hotapi-va.isnssdk.com
+- DOMAIN-SUFFIX,i.isnssdk.com
+- DOMAIN-SUFFIX,i16-tb.isnssdk.com
+- DOMAIN-SUFFIX,ichannel.isnssdk.com
+- DOMAIN-SUFFIX,imapi-sg.isnssdk.com
+- DOMAIN-SUFFIX,open.isnssdk.com
+- DOMAIN-SUFFIX,pangolin16.isnssdk.com
+- DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
+- DOMAIN-SUFFIX,tnc16-useast1a.isnssdk.com
+- DOMAIN-SUFFIX,app.adjust.world
+- DOMAIN-SUFFIX,app.adjust.net.in
+- DOMAIN-SUFFIX,ads.feelingtouch.com
+- DOMAIN-SUFFIX,ad.tencentmusic.com
+- DOMAIN-SUFFIX,ads.iosappsworld.com
+- DOMAIN-SUFFIX,ads-cloud.rovio.com
+- DOMAIN-SUFFIX,aag.yahooapis.jp
+- DOMAIN-SUFFIX,goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
+- DOMAIN-SUFFIX,adcel.co
+- DOMAIN-SUFFIX,offerwall-adnative.com
+- DOMAIN-SUFFIX,ads.edadeal.ru
+- DOMAIN-SUFFIX,pr.comet.yahoo.com
+- DOMAIN-SUFFIX,tapjoy.com
+- DOMAIN-SUFFIX,tapjoy.net
+- DOMAIN-SUFFIX,tradplusad.com
+- DOMAIN-SUFFIX,ad-channel.wikawika.xyz
+- DOMAIN-SUFFIX,cads.scalemonk.com
+- DOMAIN-SUFFIX,adspot.tfgapps.com
+- DOMAIN-SUFFIX,analytics.scalemonk.com
+- DOMAIN-SUFFIX,vrizead.com
+- DOMAIN-SUFFIX,adpopcorn.com
+- DOMAIN-SUFFIX,pangle.io
+- DOMAIN-SUFFIX,pubnative.info
+- DOMAIN-SUFFIX,ad.leap.app
+- DOMAIN-SUFFIX,cl-ad.x-flow.app
+- DOMAIN-SUFFIX,soundcloud-pax.pandora.com
+- DOMAIN-SUFFIX,promoted.sndcdn.com
+- DOMAIN-SUFFIX,adservice.tohsoft.com
+- DOMAIN-SUFFIX,delivery-cdn-cf.adswizz.com
+- DOMAIN-SUFFIX,appboy-images.com
+- DOMAIN-SUFFIX,ad.particlenews.com
+- DOMAIN-SUFFIX,ad.wynk.in
+- DOMAIN-SUFFIX,pushad.metajoy.services
+- DOMAIN-SUFFIX,ad.snappea.com
+- DOMAIN-SUFFIX,adtimaserver.vn
+- DOMAIN-SUFFIX,api.mediation.amberweather.com
+- DOMAIN-SUFFIX,aqi.wd.amberweather.com
+- DOMAIN-SUFFIX,adslog.apexinnotech.com
+- DOMAIN-SUFFIX,matrix.dailyinnovation.biz
+- DOMAIN-SUFFIX,powerlinks.com
+- DOMAIN-SUFFIX,adkernel.com
+- DOMAIN-SUFFIX,dotomi.com
+- DOMAIN-SUFFIX,adentifi.com
+- DOMAIN-SUFFIX,springserve.com
+- DOMAIN-SUFFIX,aniview.com
+- DOMAIN-SUFFIX,mfadsrvr.com
+- DOMAIN-SUFFIX,addata.mediacategory.com
+- DOMAIN-SUFFIX,dm.toutiao.com
+- DOMAIN-SUFFIX,ads-leaseweb.appsgeyser.com
+- DOMAIN-SUFFIX,ads.appsgeyser.com
+- DOMAIN-SUFFIX,adtorque.in
+- DOMAIN-SUFFIX,configuration.ttpsdk.info
+- DOMAIN-SUFFIX,gateway.ttpsdk.info
+- DOMAIN-SUFFIX,promo-images.ttpsdk.info
+- DOMAIN-SUFFIX,s3.ttpsdk.info
+- DOMAIN-SUFFIX,api.applovefrom.com
+- DOMAIN-SUFFIX,iam.datasavannah.com
+- DOMAIN-SUFFIX,yovoads.com
+- DOMAIN-SUFFIX,restartad.com
+- DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com
+- DOMAIN-SUFFIX,appgift.sinaapp.com
+- DOMAIN-SUFFIX,ad.mail.ru
+- DOMAIN-SUFFIX,servedby.o2.co.uk
+- DOMAIN-SUFFIX,amillionads.com
+- DOMAIN-SUFFIX,mcoreads.com
+- DOMAIN-SUFFIX,onlineapi.youappi.com
+- DOMAIN-SUFFIX,ssp.otm-r.com
+- DOMAIN-SUFFIX,networksdk.ssacdn.com
+- DOMAIN-SUFFIX,tapsell.ir
+- DOMAIN-SUFFIX,jioads.akamaized.net
+- DOMAIN-SUFFIX,ajdivotdelbloab24.jio.com
+- DOMAIN-SUFFIX,adxcorp.kr
+- DOMAIN-SUFFIX,tw-api.vpon.com
+- DOMAIN-SUFFIX,imrworldwide.com
+- DOMAIN-SUFFIX,tccbanner.com
+- DOMAIN-SUFFIX,ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+- DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+- DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
+- DOMAIN-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com
+- DOMAIN-SUFFIX,unityads.unity3d.com
+- DOMAIN-SUFFIX,nkis.nikkei.com
+- DOMAIN-SUFFIX,gameanalysis.appcpi.net
+- DOMAIN-SUFFIX,ads.bulldogcpi.com
+- DOMAIN-SUFFIX,other.appcpi.net
+- DOMAIN-SUFFIX,d19xf4taj229i8.cloudfront.net
+- DOMAIN-SUFFIX,cafe-latte.myshoplus.com
+- DOMAIN-SUFFIX,luckyforworlds.com
+- DOMAIN-SUFFIX,cdn-adn.rayjump.com
+- DOMAIN-SUFFIX,buysellads.com
+- DOMAIN-SUFFIX,casino-ad-mediation.me2zengame.com
+- DOMAIN-SUFFIX,promoted.soundcloud.com
+- DOMAIN-SUFFIX,activity.browser.intl.miui.com
+- DOMAIN-SUFFIX,api.brs.intl.miui.com
+- DOMAIN-SUFFIX,api.newsfeed.intl.miui.com
+- DOMAIN-SUFFIX,adv.sec.intl.miui.com
+- DOMAIN-SUFFIX,adsrvr.io
+- DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+- DOMAIN-SUFFIX,data2.doodlemobile.com
+- DOMAIN-SUFFIX,d239g0z67jcted.cloudfront.net
+- DOMAIN-SUFFIX,newfeatureview.perfectionholic.com
+- DOMAIN-SUFFIX,featured.perfectionholic.com
+- DOMAIN-SUFFIX,crosspromo.voodoo.io
+- DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
+- DOMAIN-SUFFIX,liftoff.io
+- DOMAIN-SUFFIX,tapdaq-adverts.global.ssl.fastly.net
+- DOMAIN-SUFFIX,rtb.appbid.com
+- DOMAIN-SUFFIX,rtapi.abbi.io
+- DOMAIN-SUFFIX,look.kfiopkln.com
+- DOMAIN-SUFFIX,tveta.naver.net
+- DOMAIN-SUFFIX,deliveryengine.adswizz.com
+- DOMAIN-SUFFIX,sitemaji.com
+- DOMAIN-SUFFIX,adsapi.manhuaren.com
+- DOMAIN-SUFFIX,euadsapi.manhuaren.com
+- DOMAIN-SUFFIX,msg.ettoday.net
+- DOMAIN-SUFFIX,ad-ettoday.cdn.hinet.net
+- DOMAIN-SUFFIX,adv-ettoday.cdn.hinet.net
+- DOMAIN-SUFFIX,adv.ettoday.net
+- DOMAIN-SUFFIX,startappservice.com
+- DOMAIN-SUFFIX,x.appbaqend.com
+- DOMAIN-SUFFIX,tkcatwalk.aotter.net
+- DOMAIN-SUFFIX,tkmedia.aotter.net
+- DOMAIN-SUFFIX,tkmedia-cache.aotter.net
+- DOMAIN-SUFFIX,tkportal.aotter.net
+- DOMAIN-SUFFIX,client.midosoo.com
+- DOMAIN-SUFFIX,sc.smardroid.com
+- DOMAIN-SUFFIX,pssvc.iqzone.com
+- DOMAIN-SUFFIX,cdn-cf.postitial.com
+- DOMAIN-SUFFIX,opt8.co
+- DOMAIN-SUFFIX,ads-bidder-api.twitter.com
+- DOMAIN-SUFFIX,sexpennyauctions.com
+- DOMAIN-SUFFIX,speee-ad.akamaized.net
+- DOMAIN-SUFFIX,ads.jianchiapp.com
+- DOMAIN-SUFFIX,abroad-ad.kingsoft-office-service.com
+- DOMAIN-SUFFIX,agent.tamedia.com.tw
+- DOMAIN-SUFFIX,www.adbert.com.tw
+- DOMAIN-SUFFIX,tw.api.vpon.com
+- DOMAIN-SUFFIX,sdk.adtiming.com
+- DOMAIN-SUFFIX,adsmogo.net
+- DOMAIN-SUFFIX,adsmogo.mobi
+- DOMAIN-SUFFIX,chartboosts.com
+- DOMAIN-SUFFIX,mobpowertech.com
+- DOMAIN-SUFFIX,ap.smardroid.com
+- DOMAIN-SUFFIX,api.ampiri.com
+- DOMAIN-SUFFIX,splicky.com
+- DOMAIN-SUFFIX,cdn.batmobi.net
+- DOMAIN-SUFFIX,adn.insight.ucweb.com
+- DOMAIN-SUFFIX,tkmftc.aotter.net
+- DOMAIN-SUFFIX,d32z5ni8t5127x.cloudfront.net
+- DOMAIN-SUFFIX,sumatoad.com
+- DOMAIN-SUFFIX,gdn.bigfishgames.com
+- DOMAIN-SUFFIX,883.engine.mobileapptracking.com
+- DOMAIN-SUFFIX,ad.daum.net
+- DOMAIN-SUFFIX,nickhel.com
+- DOMAIN-SUFFIX,redtram.com
+- DOMAIN-SUFFIX,oconner.biz
+- DOMAIN-SUFFIX,et-code.ru
+- DOMAIN-SUFFIX,gynax.com
+- DOMAIN-SUFFIX,avazunativeads.com
+- DOMAIN-SUFFIX,api.ad-locus.com
+- DOMAIN-SUFFIX,023hysj.com
+- DOMAIN-SUFFIX,lxqcgj.com
+- DOMAIN-SUFFIX,inclk.com
+- DOMAIN-SUFFIX,betsonsport.ru
+- DOMAIN-SUFFIX,holder.com.ua
+- DOMAIN-SUFFIX,crosspromotion-us.avosapps.us
+- DOMAIN-SUFFIX,ad.period-calendar.com
+- DOMAIN-SUFFIX,cpactions.com
+- DOMAIN-SUFFIX,native.cli.bz
+- DOMAIN-SUFFIX,adplatform.vrtcal.com
+- DOMAIN-SUFFIX,appodealx.com
+- DOMAIN-SUFFIX,go.vrvm.com
+- DOMAIN-SUFFIX,c.vrvm.com
+- DOMAIN-SUFFIX,cls.vrvm.com
+- DOMAIN-SUFFIX,nycp-hlb.dvgtm.akadns.net
+- DOMAIN-SUFFIX,abbott.vo.llnwd.net
+- DOMAIN-SUFFIX,behance.vo.llnwd.net
+- DOMAIN-SUFFIX,synthes.vo.llnwd.net
+- DOMAIN-SUFFIX,teachscape.vo.llnwd.net
+- DOMAIN-SUFFIX,tmz.vo.llnwd.net
+- DOMAIN-SUFFIX,videoplus.vo.llnwd.net
+- DOMAIN-SUFFIX,wdig.vo.llnwd.net
+- DOMAIN-SUFFIX,appnext.hs.llnwd.net
+- DOMAIN-SUFFIX,adsdk.vrvm.com
+- DOMAIN-SUFFIX,moatads.com.edgekey.net
+- DOMAIN-SUFFIX,a.applvn.com
+- DOMAIN-SUFFIX,adslot.uc.cn
+- DOMAIN-SUFFIX,disqusads.com
+- DOMAIN-SUFFIX,api.cloudmobi.net
+- DOMAIN-SUFFIX,polymorphicads.jp
+- DOMAIN-SUFFIX,cdns.lodeo.io
+- DOMAIN-SUFFIX,ingamesads.gameloft.com
+- DOMAIN-SUFFIX,i2ad.jp
+- DOMAIN-SUFFIX,mxvp-ad-config-prod-1.zenmxapps.com
+- DOMAIN-SUFFIX,mxvp-feature-toggle-prod-1.zenmxapps.com
+- DOMAIN-SUFFIX,zzhengre.com
+- DOMAIN-SUFFIX,go.admost.com
+- DOMAIN-SUFFIX,med-api.admost.com
+- DOMAIN-SUFFIX,cdn-api.admost.com
+- DOMAIN-SUFFIX,bidsopt.com
+- DOMAIN-SUFFIX,tpbid.com
+- DOMAIN-SUFFIX,exe.bid
+- DOMAIN-SUFFIX,hyperadx.com
+- DOMAIN-SUFFIX,admarvel.com
+- DOMAIN-SUFFIX,mopub-win-us-east.bksn.se
+- DOMAIN-SUFFIX,nativead.s3.amazonaws.com
+- DOMAIN-SUFFIX,eu-ad.sam4m.com
+- DOMAIN-SUFFIX,c2i.startappnetwork.com
+- DOMAIN-SUFFIX,c2s.startappnetwork.com
+- DOMAIN-SUFFIX,apptornado.com
+- DOMAIN-SUFFIX,api.pingstart.com
+- DOMAIN-SUFFIX,setting.rayjump.com
+- DOMAIN-SUFFIX,net.rayjump.com
+- DOMAIN-SUFFIX,ad.cauly.co.kr
+- DOMAIN-SUFFIX,config.appjolt.com
+- DOMAIN-SUFFIX,adflake.com
+- DOMAIN-SUFFIX,ads.aitype.net
+- DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
+- DOMAIN-SUFFIX,1mp.mobi
+- DOMAIN-SUFFIX,247realmedia.com
+- DOMAIN-SUFFIX,360yield.com
+- DOMAIN-SUFFIX,a2dfp.net
+- DOMAIN-SUFFIX,abnad.net
+- DOMAIN-SUFFIX,abtest.swrve.com
+- DOMAIN-SUFFIX,ad-brix.com
+- DOMAIN-SUFFIX,ad-stir.com
+- DOMAIN-SUFFIX,ad-x.co.uk
+- DOMAIN-SUFFIX,ad.apps.fm
+- DOMAIN-SUFFIX,ad.apsalar.com
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,ad.jorte.com
+- DOMAIN-SUFFIX,ad.leadboltapps.net
+- DOMAIN-SUFFIX,ad.ohmyad.co
+- DOMAIN-SUFFIX,ad.smaad.jp
+- DOMAIN-SUFFIX,ad.vrvm.com
+- DOMAIN-SUFFIX,ad6media.fr
+- DOMAIN-SUFFIX,adadvisor.net
+- DOMAIN-SUFFIX,adblade.com
+- DOMAIN-SUFFIX,adcamp.ru
+- DOMAIN-SUFFIX,adcel.vrvm.com
+- DOMAIN-SUFFIX,adcolony.com
+- DOMAIN-SUFFIX,addapptr.com
+- DOMAIN-SUFFIX,adforgames.com
+- DOMAIN-SUFFIX,adform.com
+- DOMAIN-SUFFIX,adfox.ru
+- DOMAIN-SUFFIX,adgear.com
+- DOMAIN-SUFFIX,adgrx.com
+- DOMAIN-SUFFIX,adhitzads.com
+- DOMAIN-SUFFIX,adhood.com
+- DOMAIN-SUFFIX,adinfo.tango.me
+- DOMAIN-SUFFIX,adinfuse.com
+- DOMAIN-SUFFIX,adition.com
+- DOMAIN-SUFFIX,adkmob.com
+- DOMAIN-SUFFIX,adleads.com
+- DOMAIN-SUFFIX,adlibr.com
+- DOMAIN-SUFFIX,adman.gr
+- DOMAIN-SUFFIX,admarketing.yahoo.net
+- DOMAIN-SUFFIX,admarvel.s3.amazonaws.com
+- DOMAIN-SUFFIX,admedia.com
+- DOMAIN-SUFFIX,admicro1.vcmedia.vn
+- DOMAIN-SUFFIX,admitad.com
+- DOMAIN-SUFFIX,admixer.co.kr
+- DOMAIN-SUFFIX,admixer.net
+- DOMAIN-SUFFIX,admulti.com
+- DOMAIN-SUFFIX,adonly.com
+- DOMAIN-SUFFIX,vm5apis.com
+- DOMAIN-SUFFIX,adprotected.com
+- DOMAIN-SUFFIX,adproxy.tf1.fr
+- DOMAIN-SUFFIX,adpublisher.s3.amazonaws.com
+- DOMAIN-SUFFIX,adquota.com
+- DOMAIN-SUFFIX,ads.ad2iction.com
+- DOMAIN-SUFFIX,ads.aerserv.com
+- DOMAIN-SUFFIX,ads.mobilefuse.net
+- DOMAIN-SUFFIX,api-ad-callback.mobiuspace.net
+- DOMAIN-SUFFIX,hb.rayjump.com
+- DOMAIN-SUFFIX,gdl.i9dhjx.ru
+- DOMAIN-SUFFIX,mobidriven.com
+- DOMAIN-SUFFIX,liftoff-creatives.io
+- DOMAIN-SUFFIX,everestop.io
+- DOMAIN-SUFFIX,mmp001.scalemonk.com
+- DOMAIN-SUFFIX,promotionad.nvcam.net
+- DOMAIN-SUFFIX,ad.nvdvr.cn
+- DOMAIN-SUFFIX,krt.asycxtz.cn
+- DOMAIN-SUFFIX,erg.ihclam.cn
+- DOMAIN-SUFFIX,hnl.ijgocb.cn
+- DOMAIN-SUFFIX,ob.leap.app
+- DOMAIN-SUFFIX,qist.me
+- DOMAIN-SUFFIX,ads-gdl.imovideo.ru
+- DOMAIN-SUFFIX,ads.imovideo.ru
+- DOMAIN-SUFFIX,adsbynimbus.com
+- DOMAIN-SUFFIX,adsgard.aprod.scopely.io
+- DOMAIN-SUFFIX,ads-interfaces.sc-cdn.net
+- DOMAIN-SUFFIX,adsapi.snapchat.com
+- DOMAIN-SUFFIX,adx-dre.op.hicloud.com
+- DOMAIN-SUFFIX,amanad.adtdp.com
+- DOMAIN-SUFFIX,ad.sxp.smartclip.net
+- DOMAIN-SUFFIX,amazonclix.com
+- DOMAIN-SUFFIX,api.itpub.cloud
+- DOMAIN-SUFFIX,adv-front.devpnd.com
+- DOMAIN-SUFFIX,mintegral.com
+- DOMAIN-SUFFIX,x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+- DOMAIN-SUFFIX,skadsdk.appsflyer.com
+- DOMAIN-SUFFIX,alt-ad.mail.ru
+- DOMAIN-SUFFIX,chavoads.com
+- DOMAIN-SUFFIX,r2d2.aotter.net
+- DOMAIN-SUFFIX,tkcatrun.aotter.net
+- DOMAIN-SUFFIX,cdn.jampp.com
+- DOMAIN-SUFFIX,imgx.jampp.com
+- DOMAIN-SUFFIX,static.jampp.com
+- DOMAIN-SUFFIX,adx-tk.rayjump.com
+- DOMAIN-SUFFIX,dspunion.com
+- DOMAIN-SUFFIX,rossoad.com
+- DOMAIN-SUFFIX,athena.api.kwalee.com
+- DOMAIN-SUFFIX,mobondhrd.appspot.com
+- DOMAIN-SUFFIX,a.cookpad-ads.com
+- DOMAIN-SUFFIX,api.ads.newsdigest.jp
+- DOMAIN-SUFFIX,mobi.yanosik.pl
+- DOMAIN-SUFFIX,videoads-cloud.rovio.com
+- DOMAIN-SUFFIX,vmap.v.ad-generation.jp
+- DOMAIN-SUFFIX,iyes.youku.com
+- DOMAIN-SUFFIX,adg.kajicam.com
+- DOMAIN-SUFFIX,exelbid.com
+- DOMAIN-SUFFIX,ssp-ad.momento.dev
+- DOMAIN-SUFFIX,adpies.com
+- DOMAIN-SUFFIX,cs02-pps-drcn.dbankcdn.com
+- DOMAIN-SUFFIX,an.facebook.com
+- DOMAIN-SUFFIX,live.hyprmx.com
+- DOMAIN-SUFFIX,static.hyprmx.com
+- DOMAIN-SUFFIX,prod.cm.publishers.advertising.a2z.com
+- DOMAIN-SUFFIX,dm.isnssdk.com
+- DOMAIN-SUFFIX,h5.isnssdk.com
+- DOMAIN-SUFFIX,hotapi-va.isnssdk.com
+- DOMAIN-SUFFIX,i.isnssdk.com
+- DOMAIN-SUFFIX,i16-tb.isnssdk.com
+- DOMAIN-SUFFIX,ichannel.isnssdk.com
+- DOMAIN-SUFFIX,imapi-sg.isnssdk.com
+- DOMAIN-SUFFIX,open.isnssdk.com
+- DOMAIN-SUFFIX,pangolin16.isnssdk.com
+- DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
+- DOMAIN-SUFFIX,tnc16-useast1a.isnssdk.com
+- DOMAIN-SUFFIX,app.adjust.world
+- DOMAIN-SUFFIX,app.adjust.net.in
+- DOMAIN-SUFFIX,ads.feelingtouch.com
+- DOMAIN-SUFFIX,ad.tencentmusic.com
+- DOMAIN-SUFFIX,ads.iosappsworld.com
+- DOMAIN-SUFFIX,ads-cloud.rovio.com
+- DOMAIN-SUFFIX,aag.yahooapis.jp
+- DOMAIN-SUFFIX,goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
+- DOMAIN-SUFFIX,adcel.co
+- DOMAIN-SUFFIX,offerwall-adnative.com
+- DOMAIN-SUFFIX,ads.edadeal.ru
+- DOMAIN-SUFFIX,pr.comet.yahoo.com
+- DOMAIN-SUFFIX,tapjoy.com
+- DOMAIN-SUFFIX,tapjoy.net
+- DOMAIN-SUFFIX,tradplusad.com
+- DOMAIN-SUFFIX,ad-channel.wikawika.xyz
+- DOMAIN-SUFFIX,cads.scalemonk.com
+- DOMAIN-SUFFIX,adspot.tfgapps.com
+- DOMAIN-SUFFIX,analytics.scalemonk.com
+- DOMAIN-SUFFIX,vrizead.com
+- DOMAIN-SUFFIX,adpopcorn.com
+- DOMAIN-SUFFIX,pangle.io
+- DOMAIN-SUFFIX,pubnative.info
+- DOMAIN-SUFFIX,ad.leap.app
+- DOMAIN-SUFFIX,cl-ad.x-flow.app
+- DOMAIN-SUFFIX,soundcloud-pax.pandora.com
+- DOMAIN-SUFFIX,promoted.sndcdn.com
+- DOMAIN-SUFFIX,adservice.tohsoft.com
+- DOMAIN-SUFFIX,delivery-cdn-cf.adswizz.com
+- DOMAIN-SUFFIX,appboy-images.com
+- DOMAIN-SUFFIX,ad.particlenews.com
+- DOMAIN-SUFFIX,ad.wynk.in
+- DOMAIN-SUFFIX,pushad.metajoy.services
+- DOMAIN-SUFFIX,ad.snappea.com
+- DOMAIN-SUFFIX,adtimaserver.vn
+- DOMAIN-SUFFIX,api.mediation.amberweather.com
+- DOMAIN-SUFFIX,aqi.wd.amberweather.com
+- DOMAIN-SUFFIX,adslog.apexinnotech.com
+- DOMAIN-SUFFIX,matrix.dailyinnovation.biz
+- DOMAIN-SUFFIX,powerlinks.com
+- DOMAIN-SUFFIX,adkernel.com
+- DOMAIN-SUFFIX,dotomi.com
+- DOMAIN-SUFFIX,adentifi.com
+- DOMAIN-SUFFIX,springserve.com
+- DOMAIN-SUFFIX,aniview.com
+- DOMAIN-SUFFIX,mfadsrvr.com
+- DOMAIN-SUFFIX,addata.mediacategory.com
+- DOMAIN-SUFFIX,dm.toutiao.com
+- DOMAIN-SUFFIX,ads-leaseweb.appsgeyser.com
+- DOMAIN-SUFFIX,ads.appsgeyser.com
+- DOMAIN-SUFFIX,adtorque.in
+- DOMAIN-SUFFIX,configuration.ttpsdk.info
+- DOMAIN-SUFFIX,gateway.ttpsdk.info
+- DOMAIN-SUFFIX,promo-images.ttpsdk.info
+- DOMAIN-SUFFIX,s3.ttpsdk.info
+- DOMAIN-SUFFIX,api.applovefrom.com
+- DOMAIN-SUFFIX,iam.datasavannah.com
+- DOMAIN-SUFFIX,yovoads.com
+- DOMAIN-SUFFIX,restartad.com
+- DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com
+- DOMAIN-SUFFIX,appgift.sinaapp.com
+- DOMAIN-SUFFIX,ad.mail.ru
+- DOMAIN-SUFFIX,servedby.o2.co.uk
+- DOMAIN-SUFFIX,amillionads.com
+- DOMAIN-SUFFIX,mcoreads.com
+- DOMAIN-SUFFIX,onlineapi.youappi.com
+- DOMAIN-SUFFIX,ssp.otm-r.com
+- DOMAIN-SUFFIX,networksdk.ssacdn.com
+- DOMAIN-SUFFIX,tapsell.ir
+- DOMAIN-SUFFIX,jioads.akamaized.net
+- DOMAIN-SUFFIX,ajdivotdelbloab24.jio.com
+- DOMAIN-SUFFIX,adxcorp.kr
+- DOMAIN-SUFFIX,tw-api.vpon.com
+- DOMAIN-SUFFIX,imrworldwide.com
+- DOMAIN-SUFFIX,tccbanner.com
+- DOMAIN-SUFFIX,ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+- DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+- DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
+- DOMAIN-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com
+- DOMAIN-SUFFIX,unityads.unity3d.com
+- DOMAIN-SUFFIX,nkis.nikkei.com
+- DOMAIN-SUFFIX,gameanalysis.appcpi.net
+- DOMAIN-SUFFIX,ads.bulldogcpi.com
+- DOMAIN-SUFFIX,other.appcpi.net
+- DOMAIN-SUFFIX,d19xf4taj229i8.cloudfront.net
+- DOMAIN-SUFFIX,cafe-latte.myshoplus.com
+- DOMAIN-SUFFIX,luckyforworlds.com
+- DOMAIN-SUFFIX,cdn-adn.rayjump.com
+- DOMAIN-SUFFIX,buysellads.com
+- DOMAIN-SUFFIX,casino-ad-mediation.me2zengame.com
+- DOMAIN-SUFFIX,promoted.soundcloud.com
+- DOMAIN-SUFFIX,activity.browser.intl.miui.com
+- DOMAIN-SUFFIX,api.brs.intl.miui.com
+- DOMAIN-SUFFIX,api.newsfeed.intl.miui.com
+- DOMAIN-SUFFIX,adv.sec.intl.miui.com
+- DOMAIN-SUFFIX,adsrvr.io
+- DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+- DOMAIN-SUFFIX,data2.doodlemobile.com
+- DOMAIN-SUFFIX,d239g0z67jcted.cloudfront.net
+- DOMAIN-SUFFIX,newfeatureview.perfectionholic.com
+- DOMAIN-SUFFIX,featured.perfectionholic.com
+- DOMAIN-SUFFIX,crosspromo.voodoo.io
+- DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
+- DOMAIN-SUFFIX,liftoff.io
+- DOMAIN-SUFFIX,tapdaq-adverts.global.ssl.fastly.net
+- DOMAIN-SUFFIX,rtb.appbid.com
+- DOMAIN-SUFFIX,rtapi.abbi.io
+- DOMAIN-SUFFIX,look.kfiopkln.com
+- DOMAIN-SUFFIX,tveta.naver.net
+- DOMAIN-SUFFIX,deliveryengine.adswizz.com
+- DOMAIN-SUFFIX,sitemaji.com
+- DOMAIN-SUFFIX,adsapi.manhuaren.com
+- DOMAIN-SUFFIX,euadsapi.manhuaren.com
+- DOMAIN-SUFFIX,msg.ettoday.net
+- DOMAIN-SUFFIX,ad-ettoday.cdn.hinet.net
+- DOMAIN-SUFFIX,adv-ettoday.cdn.hinet.net
+- DOMAIN-SUFFIX,adv.ettoday.net
+- DOMAIN-SUFFIX,startappservice.com
+- DOMAIN-SUFFIX,x.appbaqend.com
+- DOMAIN-SUFFIX,tkcatwalk.aotter.net
+- DOMAIN-SUFFIX,tkmedia.aotter.net
+- DOMAIN-SUFFIX,tkmedia-cache.aotter.net
+- DOMAIN-SUFFIX,tkportal.aotter.net
+- DOMAIN-SUFFIX,client.midosoo.com
+- DOMAIN-SUFFIX,sc.smardroid.com
+- DOMAIN-SUFFIX,pssvc.iqzone.com
+- DOMAIN-SUFFIX,cdn-cf.postitial.com
+- DOMAIN-SUFFIX,opt8.co
+- DOMAIN-SUFFIX,ads-bidder-api.twitter.com
+- DOMAIN-SUFFIX,sexpennyauctions.com
+- DOMAIN-SUFFIX,speee-ad.akamaized.net
+- DOMAIN-SUFFIX,ads.jianchiapp.com
+- DOMAIN-SUFFIX,abroad-ad.kingsoft-office-service.com
+- DOMAIN-SUFFIX,agent.tamedia.com.tw
+- DOMAIN-SUFFIX,www.adbert.com.tw
+- DOMAIN-SUFFIX,tw.api.vpon.com
+- DOMAIN-SUFFIX,sdk.adtiming.com
+- DOMAIN-SUFFIX,adsmogo.net
+- DOMAIN-SUFFIX,adsmogo.mobi
+- DOMAIN-SUFFIX,chartboosts.com
+- DOMAIN-SUFFIX,mobpowertech.com
+- DOMAIN-SUFFIX,ap.smardroid.com
+- DOMAIN-SUFFIX,api.ampiri.com
+- DOMAIN-SUFFIX,splicky.com
+- DOMAIN-SUFFIX,cdn.batmobi.net
+- DOMAIN-SUFFIX,adn.insight.ucweb.com
+- DOMAIN-SUFFIX,tkmftc.aotter.net
+- DOMAIN-SUFFIX,d32z5ni8t5127x.cloudfront.net
+- DOMAIN-SUFFIX,sumatoad.com
+- DOMAIN-SUFFIX,gdn.bigfishgames.com
+- DOMAIN-SUFFIX,883.engine.mobileapptracking.com
+- DOMAIN-SUFFIX,ad.daum.net
+- DOMAIN-SUFFIX,nickhel.com
+- DOMAIN-SUFFIX,redtram.com
+- DOMAIN-SUFFIX,oconner.biz
+- DOMAIN-SUFFIX,et-code.ru
+- DOMAIN-SUFFIX,gynax.com
+- DOMAIN-SUFFIX,avazunativeads.com
+- DOMAIN-SUFFIX,api.ad-locus.com
+- DOMAIN-SUFFIX,023hysj.com
+- DOMAIN-SUFFIX,lxqcgj.com
+- DOMAIN-SUFFIX,inclk.com
+- DOMAIN-SUFFIX,betsonsport.ru
+- DOMAIN-SUFFIX,holder.com.ua
+- DOMAIN-SUFFIX,crosspromotion-us.avosapps.us
+- DOMAIN-SUFFIX,ad.period-calendar.com
+- DOMAIN-SUFFIX,cpactions.com
+- DOMAIN-SUFFIX,native.cli.bz
+- DOMAIN-SUFFIX,adplatform.vrtcal.com
+- DOMAIN-SUFFIX,appodealx.com
+- DOMAIN-SUFFIX,go.vrvm.com
+- DOMAIN-SUFFIX,c.vrvm.com
+- DOMAIN-SUFFIX,cls.vrvm.com
+- DOMAIN-SUFFIX,nycp-hlb.dvgtm.akadns.net
+- DOMAIN-SUFFIX,abbott.vo.llnwd.net
+- DOMAIN-SUFFIX,behance.vo.llnwd.net
+- DOMAIN-SUFFIX,synthes.vo.llnwd.net
+- DOMAIN-SUFFIX,teachscape.vo.llnwd.net
+- DOMAIN-SUFFIX,tmz.vo.llnwd.net
+- DOMAIN-SUFFIX,videoplus.vo.llnwd.net
+- DOMAIN-SUFFIX,wdig.vo.llnwd.net
+- DOMAIN-SUFFIX,appnext.hs.llnwd.net
+- DOMAIN-SUFFIX,adsdk.vrvm.com
+- DOMAIN-SUFFIX,moatads.com.edgekey.net
+- DOMAIN-SUFFIX,a.applvn.com
+- DOMAIN-SUFFIX,adslot.uc.cn
+- DOMAIN-SUFFIX,disqusads.com
+- DOMAIN-SUFFIX,api.cloudmobi.net
+- DOMAIN-SUFFIX,polymorphicads.jp
+- DOMAIN-SUFFIX,cdns.lodeo.io
+- DOMAIN-SUFFIX,ingamesads.gameloft.com
+- DOMAIN-SUFFIX,i2ad.jp
+- DOMAIN-SUFFIX,mxvp-ad-config-prod-1.zenmxapps.com
+- DOMAIN-SUFFIX,mxvp-feature-toggle-prod-1.zenmxapps.com
+- DOMAIN-SUFFIX,zzhengre.com
+- DOMAIN-SUFFIX,go.admost.com
+- DOMAIN-SUFFIX,med-api.admost.com
+- DOMAIN-SUFFIX,cdn-api.admost.com
+- DOMAIN-SUFFIX,bidsopt.com
+- DOMAIN-SUFFIX,tpbid.com
+- DOMAIN-SUFFIX,exe.bid
+- DOMAIN-SUFFIX,hyperadx.com
+- DOMAIN-SUFFIX,admarvel.com
+- DOMAIN-SUFFIX,mopub-win-us-east.bksn.se
+- DOMAIN-SUFFIX,nativead.s3.amazonaws.com
+- DOMAIN-SUFFIX,eu-ad.sam4m.com
+- DOMAIN-SUFFIX,c2i.startappnetwork.com
+- DOMAIN-SUFFIX,c2s.startappnetwork.com
+- DOMAIN-SUFFIX,apptornado.com
+- DOMAIN-SUFFIX,api.pingstart.com
+- DOMAIN-SUFFIX,setting.rayjump.com
+- DOMAIN-SUFFIX,net.rayjump.com
+- DOMAIN-SUFFIX,ad.cauly.co.kr
+- DOMAIN-SUFFIX,config.appjolt.com
+- DOMAIN-SUFFIX,adflake.com
+- DOMAIN-SUFFIX,ads.aitype.net
+- DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
+- DOMAIN-SUFFIX,1mp.mobi
+- DOMAIN-SUFFIX,247realmedia.com
+- DOMAIN-SUFFIX,360yield.com
+- DOMAIN-SUFFIX,a2dfp.net
+- DOMAIN-SUFFIX,abnad.net
+- DOMAIN-SUFFIX,abtest.swrve.com
+- DOMAIN-SUFFIX,ad-brix.com
+- DOMAIN-SUFFIX,ad-stir.com
+- DOMAIN-SUFFIX,ad-x.co.uk
+- DOMAIN-SUFFIX,ad.apps.fm
+- DOMAIN-SUFFIX,ad.apsalar.com
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,ad.jorte.com
+- DOMAIN-SUFFIX,ad.leadboltapps.net
+- DOMAIN-SUFFIX,ad.ohmyad.co
+- DOMAIN-SUFFIX,ad.smaad.jp
+- DOMAIN-SUFFIX,ad.vrvm.com
+- DOMAIN-SUFFIX,ad6media.fr
+- DOMAIN-SUFFIX,adadvisor.net
+- DOMAIN-SUFFIX,adblade.com
+- DOMAIN-SUFFIX,adcamp.ru
+- DOMAIN-SUFFIX,adcel.vrvm.com
+- DOMAIN-SUFFIX,adcolony.com
+- DOMAIN-SUFFIX,addapptr.com
+- DOMAIN-SUFFIX,adforgames.com
+- DOMAIN-SUFFIX,adform.com
+- DOMAIN-SUFFIX,adfox.ru
+- DOMAIN-SUFFIX,adgear.com
+- DOMAIN-SUFFIX,adgrx.com
+- DOMAIN-SUFFIX,adhitzads.com
+- DOMAIN-SUFFIX,adhood.com
+- DOMAIN-SUFFIX,adinfo.tango.me
+- DOMAIN-SUFFIX,adinfuse.com
+- DOMAIN-SUFFIX,adition.com
+- DOMAIN-SUFFIX,adkmob.com
+- DOMAIN-SUFFIX,adleads.com
+- DOMAIN-SUFFIX,adlibr.com
+- DOMAIN-SUFFIX,adman.gr
+- DOMAIN-SUFFIX,admarketing.yahoo.net
+- DOMAIN-SUFFIX,admarvel.s3.amazonaws.com
+- DOMAIN-SUFFIX,admedia.com
+- DOMAIN-SUFFIX,admicro1.vcmedia.vn
+- DOMAIN-SUFFIX,admitad.com
+- DOMAIN-SUFFIX,admixer.co.kr
+- DOMAIN-SUFFIX,admixer.net
+- DOMAIN-SUFFIX,admulti.com
+- DOMAIN-SUFFIX,adonly.com
+- DOMAIN-SUFFIX,vm5apis.com
+- DOMAIN-SUFFIX,adprotected.com
+- DOMAIN-SUFFIX,adproxy.tf1.fr
+- DOMAIN-SUFFIX,adpublisher.s3.amazonaws.com
+- DOMAIN-SUFFIX,adquota.com
+- DOMAIN-SUFFIX,ads.ad2iction.com
+- DOMAIN-SUFFIX,ads.aerserv.com
+- DOMAIN-SUFFIX,ads.mobilefuse.net
+- DOMAIN-SUFFIX,ads.mobilityware.com
+- DOMAIN-SUFFIX,ads.mobvertising.net
+- DOMAIN-SUFFIX,ads.mopub.com
+- DOMAIN-SUFFIX,ads.pdbarea.com
+- DOMAIN-SUFFIX,ads.pinger.com
+- DOMAIN-SUFFIX,ads.taptapnetworks.com
+- DOMAIN-SUFFIX,ads.xlxtra.com
+- DOMAIN-SUFFIX,ads.youtube.com
+- DOMAIN-SUFFIX,adsee.jp
+- DOMAIN-SUFFIX,adserver.goforandroid.com
+- DOMAIN-SUFFIX,adserver.kimia.es
+- DOMAIN-SUFFIX,adserver.pandora.com
+- DOMAIN-SUFFIX,adshost2.com
+- DOMAIN-SUFFIX,adsmo.ru
+- DOMAIN-SUFFIX,adsmoloco.com
+- DOMAIN-SUFFIX,adsniper.ru
+- DOMAIN-SUFFIX,adsrvmedia.net
+- DOMAIN-SUFFIX,adsrvr.org
+- DOMAIN-SUFFIX,adtech.de
+- DOMAIN-SUFFIX,adtilt.com
+- DOMAIN-SUFFIX,adtrack.king.com
+- DOMAIN-SUFFIX,adultadworld.com
+- DOMAIN-SUFFIX,adv.mxmcdn.net
+- DOMAIN-SUFFIX,adversal.com
+- DOMAIN-SUFFIX,adverticum.net
+- DOMAIN-SUFFIX,advertise.com
+- DOMAIN-SUFFIX,advertising.com
+- DOMAIN-SUFFIX,advertur.ru
+- DOMAIN-SUFFIX,advombat.ru
+- DOMAIN-SUFFIX,adz.mobi
+- DOMAIN-SUFFIX,adzerk.net
+- DOMAIN-SUFFIX,adzmobi.com
+- DOMAIN-SUFFIX,am15.net
+- DOMAIN-SUFFIX,amobee.com
+- DOMAIN-SUFFIX,api.fusepowered.com
+- DOMAIN-SUFFIX,api.usebutton.com
+- DOMAIN-SUFFIX,appclick.net
+- DOMAIN-SUFFIX,appintop.com
+- DOMAIN-SUFFIX,applifier.com
+- DOMAIN-SUFFIX,applovin.com
+- DOMAIN-SUFFIX,appnext-a.akamaihd.net
+- DOMAIN-SUFFIX,appsdt.com
+- DOMAIN-SUFFIX,appserver-ap.com
+- DOMAIN-SUFFIX,appserver-cp.com
+- DOMAIN-SUFFIX,appshelf.ttpsdk.info
+- DOMAIN-SUFFIX,appwall.tv2phone.cn
+- DOMAIN-SUFFIX,as.adfonic.net
+- DOMAIN-SUFFIX,assoc-amazon.com
+- DOMAIN-SUFFIX,astrsk.net
+- DOMAIN-SUFFIX,atti.com
+- DOMAIN-SUFFIX,axonix.com
+- DOMAIN-SUFFIX,bannerflow.com
+- DOMAIN-SUFFIX,banners.etermax.com
+- DOMAIN-SUFFIX,bannersnack.com
+- DOMAIN-SUFFIX,bannerwall.herewetest.com
+- DOMAIN-SUFFIX,bannerwall.s3.appcnt.com
+- DOMAIN-SUFFIX,bayctrk.com
+- DOMAIN-SUFFIX,bcfads.com
+- DOMAIN-SUFFIX,begun.ru
+- DOMAIN-SUFFIX,bepolite.eu
+- DOMAIN-SUFFIX,bet365affiliates.com
+- DOMAIN-SUFFIX,betrad.com
+- DOMAIN-SUFFIX,bigmobileads.com
+- DOMAIN-SUFFIX,black6adv.com
+- DOMAIN-SUFFIX,blogads.com
+- DOMAIN-SUFFIX,boostads.net
+- DOMAIN-SUFFIX,brealtime.com
+- DOMAIN-SUFFIX,bubblesmedia.ru
+- DOMAIN-SUFFIX,burstnet.com
+- DOMAIN-SUFFIX,buzzcity.net
+- DOMAIN-SUFFIX,buzzonclick.com
+- DOMAIN-SUFFIX,c8.net.ua
+- DOMAIN-SUFFIX,cashprom.ru
+- DOMAIN-SUFFIX,cdn-image.com
+- DOMAIN-SUFFIX,celtra.com
+- DOMAIN-SUFFIX,ceppartner.com
+- DOMAIN-SUFFIX,cf-ads.pinger.com
+- DOMAIN-SUFFIX,chango.com
+- DOMAIN-SUFFIX,chartboost.com
+- DOMAIN-SUFFIX,clk.taptica.com
+- DOMAIN-SUFFIX,clkfeed.com
+- DOMAIN-SUFFIX,comscore.com
+- DOMAIN-SUFFIX,config.tremorhub.com
+- DOMAIN-SUFFIX,cp.pushwoosh.com
+- DOMAIN-SUFFIX,cpmstar.com
+- DOMAIN-SUFFIX,crispadvertising.com
+- DOMAIN-SUFFIX,crossboardmobile.com
+- DOMAIN-SUFFIX,csi.gstatic.com
+- DOMAIN-SUFFIX,ctl.buyt.in
+- DOMAIN-SUFFIX,d2nrdy2pg3k168.cloudfront.net
+- DOMAIN-SUFFIX,d830x8j3o1b2k.cloudfront.net
+- DOMAIN-SUFFIX,debojuagug1sf.cloudfront.net
+- DOMAIN-SUFFIX,dev.appboy.com
+- DOMAIN-SUFFIX,dumedia.ru
+- DOMAIN-SUFFIX,e-planning.net
+- DOMAIN-SUFFIX,e.apsalar.com
+- DOMAIN-SUFFIX,e.qq.com
+- DOMAIN-SUFFIX,eltrafiko.com
+- DOMAIN-SUFFIX,emediate.eu
+- DOMAIN-SUFFIX,emediate.se
+- DOMAIN-SUFFIX,epom.com
+- DOMAIN-SUFFIX,etargetnet.com
+- DOMAIN-SUFFIX,exponential.com
+- DOMAIN-SUFFIX,fiksu.com
+- DOMAIN-SUFFIX,fluentmobile.com
+- DOMAIN-SUFFIX,flurry.cachefly.net
+- DOMAIN-SUFFIX,flurry.com
+- DOMAIN-SUFFIX,flygo.ru
+- DOMAIN-SUFFIX,focas.jp
+- DOMAIN-SUFFIX,friendlyduck.com
+- DOMAIN-SUFFIX,fyber.com
+- DOMAIN-SUFFIX,g.doubleclick.net
+- DOMAIN-SUFFIX,geede.info
+- DOMAIN-SUFFIX,go.mobstitialtag.com
+- DOMAIN-SUFFIX,googleadservices.com
+- DOMAIN-SUFFIX,gts-ads.twistbox.com
+- DOMAIN-SUFFIX,gumgum.com
+- DOMAIN-SUFFIX,ha-api.pushwoosh.com
+- DOMAIN-SUFFIX,heyzap.com
+- DOMAIN-SUFFIX,houseads-prod.elasticbeanstalk.com
+- DOMAIN-SUFFIX,houseads.ttpsdk.info
+- DOMAIN-SUFFIX,httpool.com
+- DOMAIN-SUFFIX,huntmad.com
+- DOMAIN-SUFFIX,i-mobile.co.jp
+- DOMAIN-SUFFIX,i-vengo.com
+- DOMAIN-SUFFIX,i.skimresources.com
+- DOMAIN-SUFFIX,iad.appboy.com
+- DOMAIN-SUFFIX,iadsdk.apple.com
+- DOMAIN-SUFFIX,imasdk.googleapis.com
+- DOMAIN-SUFFIX,infolinks.com
+- DOMAIN-SUFFIX,inmobi.com
+- DOMAIN-SUFFIX,inmobi.net
+- DOMAIN-SUFFIX,inmobi.cn
+- DOMAIN-SUFFIX,inmobicdn.net
+- DOMAIN-SUFFIX,inmobisdk-a.akamaihd.net
+- DOMAIN-SUFFIX,inner-active.com
+- DOMAIN-SUFFIX,inner-active.mobi
+- DOMAIN-SUFFIX,innovid.com
+- DOMAIN-SUFFIX,integral-marketing.com
+- DOMAIN-SUFFIX,intermarkets.net
+- DOMAIN-SUFFIX,intowow.com
+- DOMAIN-SUFFIX,investingchannel.com
+- DOMAIN-SUFFIX,justad.mobi
+- DOMAIN-SUFFIX,kiosked.com
+- DOMAIN-SUFFIX,kochava.com
+- DOMAIN-SUFFIX,komoona.com
+- DOMAIN-SUFFIX,krutilka.net
+- DOMAIN-SUFFIX,l0-secure.videohub.tv
+- DOMAIN-SUFFIX,l3op.info
+- DOMAIN-SUFFIX,lb.usemaxserver.de
+- DOMAIN-SUFFIX,leadboltads.net
+- DOMAIN-SUFFIX,leanplum.com
+- DOMAIN-SUFFIX,mad.mobisky.pl
+- DOMAIN-SUFFIX,madnet.ru
+- DOMAIN-SUFFIX,mads.bz
+- DOMAIN-SUFFIX,manage.com
+- DOMAIN-SUFFIX,mbn.com.ua
+- DOMAIN-SUFFIX,medialand.ru
+- DOMAIN-SUFFIX,meendocash.com
+- DOMAIN-SUFFIX,metamx.com
+- DOMAIN-SUFFIX,mgage.com
+- DOMAIN-SUFFIX,mi.gdt.qq.com
+- DOMAIN-SUFFIX,mixadvert.com
+- DOMAIN-SUFFIX,mixmarket.biz
+- DOMAIN-SUFFIX,moba8.net
+- DOMAIN-SUFFIX,mobads.baidu.com
+- DOMAIN-SUFFIX,mobads4app.com
+- DOMAIN-SUFFIX,mobclix.com
+- DOMAIN-SUFFIX,mobfox.com
+- DOMAIN-SUFFIX,mobiads.ru
+- DOMAIN-SUFFIX,mobile333.com
+- DOMAIN-SUFFIX,mobilecore.com
+- DOMAIN-SUFFIX,mobiledl.adboe.com
+- DOMAIN-SUFFIX,mofox.com
+- DOMAIN-SUFFIX,mtburn.com
+- DOMAIN-SUFFIX,mtburn.jp
+- DOMAIN-SUFFIX,mtrcss.com
+- DOMAIN-SUFFIX,mydas.mobi
+- DOMAIN-SUFFIX,n4403ad.doubleclick.net
+- DOMAIN-SUFFIX,nanigans.com
+- DOMAIN-SUFFIX,nativex.com
+- DOMAIN-SUFFIX,nearbyad.com
+- DOMAIN-SUFFIX,nend.net
+- DOMAIN-SUFFIX,netavenir.com
+- DOMAIN-SUFFIX,netseer.com
+- DOMAIN-SUFFIX,netshelter.net
+- DOMAIN-SUFFIX,networld.hk
+- DOMAIN-SUFFIX,newsnet.in.ua
+- DOMAIN-SUFFIX,nexac.com
+- DOMAIN-SUFFIX,nomalleadzuaff.com
+- DOMAIN-SUFFIX,novostimira.biz
+- DOMAIN-SUFFIX,numbers.md
+- DOMAIN-SUFFIX,os.scmpacdn.com
+- DOMAIN-SUFFIX,partnerearning.com
+- DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+- DOMAIN-SUFFIX,pflexads.com
+- DOMAIN-SUFFIX,phluant.com
+- DOMAIN-SUFFIX,pixel.admobclick.com
+- DOMAIN-SUFFIX,playhaven.com
+- DOMAIN-SUFFIX,pontiflex.com
+- DOMAIN-SUFFIX,pub1.co
+- DOMAIN-SUFFIX,pubmatic.com
+- DOMAIN-SUFFIX,pubnative.net
+- DOMAIN-SUFFIX,questionmarket.com
+- DOMAIN-SUFFIX,revcontent.com
+- DOMAIN-SUFFIX,richpays.com
+- DOMAIN-SUFFIX,rotaban.ru
+- DOMAIN-SUFFIX,saymedia.com
+- DOMAIN-SUFFIX,scorecardresearch.com
+- DOMAIN-SUFFIX,sdk.starbolt.io
+- DOMAIN-SUFFIX,servebom.com
+- DOMAIN-SUFFIX,sessionm.com
+- DOMAIN-SUFFIX,shareasale.com
+- DOMAIN-SUFFIX,sharethrough.com
+- DOMAIN-SUFFIX,silvermob.com
+- DOMAIN-SUFFIX,i.singular.net
+- DOMAIN-SUFFIX,sdk-api-v1.singular.net
+- DOMAIN-SUFFIX,skadnetwork.singular.net
+- DOMAIN-SUFFIX,sitescout.com
+- DOMAIN-SUFFIX,smaclick.com
+- DOMAIN-SUFFIX,smartadserver.com
+- DOMAIN-SUFFIX,sonobi.com
+- DOMAIN-SUFFIX,splash.appsgeyser.com
+- DOMAIN-SUFFIX,sscefsol.com
+- DOMAIN-SUFFIX,stat.kika-backend.com
+- DOMAIN-SUFFIX,static.doubleclick.net
+- DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
+- DOMAIN-SUFFIX,supersonicads.com
+- DOMAIN-SUFFIX,swelen.com
+- DOMAIN-SUFFIX,switchadhub.com
+- DOMAIN-SUFFIX,syndication.trafficreps.com
+- DOMAIN-SUFFIX,tap-nexus.appspot.com
+- DOMAIN-SUFFIX,tapad.com
+- DOMAIN-SUFFIX,tapit.com
+- DOMAIN-SUFFIX,tapone.jp
+- DOMAIN-SUFFIX,tappx.com
+- DOMAIN-SUFFIX,tapsense.com
+- DOMAIN-SUFFIX,targetspot.com
+- DOMAIN-SUFFIX,telemetryverification.net
+- DOMAIN-SUFFIX,thetrafficstat.net
+- DOMAIN-SUFFIX,tizerclik.com
+- DOMAIN-SUFFIX,tm1.hoiplay.com
+- DOMAIN-SUFFIX,tonefuse.com
+- DOMAIN-SUFFIX,tpc.googlesyndication.com
+- DOMAIN-SUFFIX,trackimpression.com
+- DOMAIN-SUFFIX,tracking.applift.com
+- DOMAIN-SUFFIX,tradeadexchange.com
+- DOMAIN-SUFFIX,traff10wap.com
+- DOMAIN-SUFFIX,trafficjunky.net
+- DOMAIN-SUFFIX,trafmag.com
+- DOMAIN-SUFFIX,traktum.com
+- DOMAIN-SUFFIX,trc.taboola.com
+- DOMAIN-SUFFIX,trk.glispa.com
+- DOMAIN-SUFFIX,tubemogul.com
+- DOMAIN-SUFFIX,turn.com
+- DOMAIN-SUFFIX,u-ad.info
+- DOMAIN-SUFFIX,ultraadserver.com
+- DOMAIN-SUFFIX,umbel.com
+- DOMAIN-SUFFIX,unicume.com
+- DOMAIN-SUFFIX,upsight.com
+- DOMAIN-SUFFIX,usekahuna.com
+- DOMAIN-SUFFIX,velti.com
+- DOMAIN-SUFFIX,vserv.mobi
+- DOMAIN-SUFFIX,vungle.com
+- DOMAIN-SUFFIX,waiads.com
+- DOMAIN-SUFFIX,wapstart.ru
+- DOMAIN-SUFFIX,west.bidtellect.com
+- DOMAIN-SUFFIX,widespace.com
+- DOMAIN-SUFFIX,wordego.com
+- DOMAIN-SUFFIX,presage.io
+- DOMAIN-SUFFIX,wtraff.com
+- DOMAIN-SUFFIX,ximad.com
+- DOMAIN-SUFFIX,yandexadexchange.net
+- DOMAIN-SUFFIX,yc-ads.s3.amazonaws.com
+- DOMAIN-SUFFIX,yieldkit.com
+- DOMAIN-SUFFIX,yieldmo.com
+- DOMAIN-SUFFIX,yllix.com
+- DOMAIN-SUFFIX,youmi.net
+- DOMAIN-SUFFIX,zedo.com
+- DOMAIN-SUFFIX,deloton.com
+- DOMAIN-SUFFIX,oclasrv.com
+- DOMAIN-SUFFIX,n152adserv.com
+- DOMAIN-SUFFIX,smilered.com
+- DOMAIN-SUFFIX,cloudads-a.akamaihd.net
+- DOMAIN-SUFFIX,d-load.org
+- DOMAIN-SUFFIX,as.uncn.jp
+- DOMAIN-SUFFIX,outbrainimg.com
+- DOMAIN-SUFFIX,bd1.guancha.cn
+- DOMAIN-SUFFIX,bd2.guancha.cn
+- DOMAIN-SUFFIX,alicdn.com
+- DOMAIN-SUFFIX,blog-sokuhou.com
+- DOMAIN-SUFFIX,m.flowcodeapp.com
+- DOMAIN-SUFFIX,widgets.outbrain.com
+- DOMAIN-SUFFIX,https-filtering-check.adtidy.org
+- DOMAIN-SUFFIX,api.plyair.com
+- DOMAIN-SUFFIX,gamaibids.com
+- DOMAIN-SUFFIX,gamerplay67.space
+- DOMAIN-SUFFIX,imprdom.com
+- DOMAIN-SUFFIX,loganmedia.mobi
+- DOMAIN-SUFFIX,lqm.io
+- DOMAIN-SUFFIX,pn.ybp.yahoo.com
+- DOMAIN-SUFFIX,staticcc.com
+- DOMAIN-SUFFIX,adcenter-api.cashwalk.co
+- DOMAIN-SUFFIX,ads.viber.com
+- DOMAIN-SUFFIX,ads-d.viber.com
+- DOMAIN-SUFFIX,adcs.rqmob.com
+- DOMAIN-SUFFIX,preitem.wshareit.com
+- DOMAIN-SUFFIX,api-a.op-mobile.opera.com
+- DOMAIN-SUFFIX,promotion.polarisoffice.com
+- DOMAIN-SUFFIX,newad.ifeng.com
+- DOMAIN-SUFFIX,etl.tindersparks.com
+- DOMAIN-SUFFIX,sensors.larkplayerapp.com
+- DOMAIN-SUFFIX,log.kajicam.com
+
+# New Adguard Mobile Spyware April 2025
+- DOMAIN-SUFFIX,adeventtracker.spotify.com
+- DOMAIN-SUFFIX,do-not-tracker.org
+- DOMAIN-SUFFIX,eviltracker.net
+- DOMAIN-SUFFIX,trackersimulator.org
+- DOMAIN-SUFFIX,ntracker-collector.naver.com
+- DOMAIN-SUFFIX,ace.naver.com
+- DOMAIN-SUFFIX,authbe.sec.intl.miui.com
+- DOMAIN-SUFFIX,flash.sec.intl.miui.com
+- DOMAIN-SUFFIX,api.setting.intl.miui.com
+- DOMAIN-SUFFIX,data.sec.intl.miui.com
+- DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
+- DOMAIN-SUFFIX,metok.sys.miui.com
+- DOMAIN-SUFFIX,mazu.sec.miui.com
+- DOMAIN-SUFFIX,auth.be.sec.miui.com
+- DOMAIN-SUFFIX,adv.sec.miui.com
+- DOMAIN-SUFFIX,api.sec.miui.com
+- DOMAIN-SUFFIX,data.sec.miui.com
+- DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
+- DOMAIN-SUFFIX,r.browser.miui.com
+- DOMAIN-SUFFIX,tracking.miui.com
+- DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+- DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
+- DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+- DOMAIN-SUFFIX,api.miui.security.xiaomi.com
+- DOMAIN-SUFFIX,globalapi.ad.xiaomi.com
+- DOMAIN-SUFFIX,api.ad.xiaomi.com
+- DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
+- DOMAIN-SUFFIX,o2o.api.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+- DOMAIN-SUFFIX,app-analytics-ru.huami.com
+- DOMAIN-SUFFIX,metrics.spbtv.com
+- DOMAIN-SUFFIX,android-stat.acestream.net
+- DOMAIN-SUFFIX,privatestats.whatsapp.net
+- DOMAIN-SUFFIX,usage.influxdata.com
+- DOMAIN-SUFFIX,stats.grafana.org
+- DOMAIN-SUFFIX,rumstat.cdnvideo.ru
+- DOMAIN-SUFFIX,telemetry.api.swiftkey.com
+- DOMAIN-SUFFIX,analytics.qoqa.ninja
+- DOMAIN-SUFFIX,analytics-sprint.qoqa.com
+- DOMAIN-SUFFIX,analytics.qoqa.ch
+- DOMAIN-SUFFIX,analytics.qoqa.com
+- DOMAIN-SUFFIX,dynamic-report-api.appsflyersdk.com
+- DOMAIN-SUFFIX,privacy-sandbox.appsflyersdk.com
+- DOMAIN-SUFFIX,register.appsflyersdk.com
+- DOMAIN-SUFFIX,conversions.appsflyersdk.com
+- DOMAIN-SUFFIX,gcdsdk.appsflyersdk.com
+- DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
+- DOMAIN-SUFFIX,dlsdk.appsflyersdk.com
+- DOMAIN-SUFFIX,adrevenue.appsflyer.com
+- DOMAIN-SUFFIX,api.appsflyer.com
+- DOMAIN-SUFFIX,api2.appsflyer.com
+- DOMAIN-SUFFIX,app.appsflyer.com
+- DOMAIN-SUFFIX,appsflyer-report.honkaiimpact3.com
+- DOMAIN-SUFFIX,attr.appsflyer.com
+- DOMAIN-SUFFIX,banner.appsflyer.com
+- DOMAIN-SUFFIX,cdnappicons.appsflyer.com
+- DOMAIN-SUFFIX,dls2s.appsflyer.com
+- DOMAIN-SUFFIX,dlsdk.appsflyer.com
+- DOMAIN-SUFFIX,events.appsflyer.com
+- DOMAIN-SUFFIX,fvalid.appsflyer.com
+- DOMAIN-SUFFIX,gcd-s2s.appsflyer.com
+- DOMAIN-SUFFIX,gcdsdk.appsflyer.com
+- DOMAIN-SUFFIX,hq1.appsflyer.com
+- DOMAIN-SUFFIX,impression.appsflyer.com
+- DOMAIN-SUFFIX,inapps.appsflyer.com
+- DOMAIN-SUFFIX,inapps.appsflyersdk.com
+- DOMAIN-SUFFIX,launches.appsflyer.com
+- DOMAIN-SUFFIX,launches.appsflyersdk.com
+- DOMAIN-SUFFIX,onelink.appsflyer.com
+- DOMAIN-SUFFIX,register.appsflyer.com
+- DOMAIN-SUFFIX,sdk-services.appsflyer.com
+- DOMAIN-SUFFIX,sdk.appsflyer.com
+- DOMAIN-SUFFIX,stats.appsflyer.com
+- DOMAIN-SUFFIX,t.appsflyer.com
+- DOMAIN-SUFFIX,track.appsflyer.com
+- DOMAIN-SUFFIX,validate.appsflyer.com
+- DOMAIN-SUFFIX,wa.appsflyer.com
+- DOMAIN-SUFFIX,websdk.appsflyer.com
+- DOMAIN-SUFFIX,mtrace.qq.com
+- DOMAIN-SUFFIX,sngmta.qq.com
+- DOMAIN-SUFFIX,adstats.tencentmusic.com
+- DOMAIN-SUFFIX,monitor.music.qq.com
+- DOMAIN-SUFFIX,stat.y.qq.com
+- DOMAIN-SUFFIX,relap.io
+- DOMAIN-SUFFIX,adj.st
+- DOMAIN-SUFFIX,co.akisinn.info
+- DOMAIN-SUFFIX,co.dewrain.life
+- DOMAIN-SUFFIX,co.vaicore.site
+- DOMAIN-SUFFIX,co.vaicore.xyz
+- DOMAIN-SUFFIX,int.akisinn.info
+- DOMAIN-SUFFIX,int.akisinn.me
+- DOMAIN-SUFFIX,int.akisinn.site
+- DOMAIN-SUFFIX,int.dewrain.life
+- DOMAIN-SUFFIX,int.dewrain.site
+- DOMAIN-SUFFIX,int.dewrain.world
+- DOMAIN-SUFFIX,int.vaicore.site
+- DOMAIN-SUFFIX,int.vaicore.store
+- DOMAIN-SUFFIX,int.vaicore.xyz
+- DOMAIN-SUFFIX,int.vlancaa.site
+- DOMAIN-SUFFIX,int.vlancaa.fun
+- DOMAIN-SUFFIX,tok.vaicore.xyz
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+- DOMAIN-SUFFIX,ulog-sdk.gifshow.com
+- DOMAIN-SUFFIX,logapi-and.zhipin.com
+- DOMAIN-SUFFIX,hilton.data.adobedc.net
+- DOMAIN-SUFFIX,asanalytics.booking.com
+- DOMAIN-SUFFIX,counters.booking.com
+- DOMAIN-SUFFIX,nr.bidderstack.com
+- DOMAIN-SUFFIX,stbid.ru
+- DOMAIN-SUFFIX,stat.nsc-lab.io
+- DOMAIN-SUFFIX,cnlogs.umengcloud.com
+- DOMAIN-SUFFIX,logservice.dbankcloud.cn
+- DOMAIN-SUFFIX,logs.nebulahoroscope.com
+- DOMAIN-SUFFIX,braveglobal.tv
+- DOMAIN-SUFFIX,insights.alibaba.com
+- DOMAIN-SUFFIX,mssdk-boot.cpacutapi.com
+- DOMAIN-SUFFIX,collect.ureca-lab.com
+- DOMAIN-SUFFIX,api.abcsinsights.com
+- DOMAIN-SUFFIX,tracking.carbonatixaudio.com
+- DOMAIN-SUFFIX,adashx.ut.alibaba.com
+- DOMAIN-SUFFIX,h-adashx.ut.alibaba.com
+- DOMAIN-SUFFIX,stats.calldorado.com
+- DOMAIN-SUFFIX,traffic.calldorado.com
+- DOMAIN-SUFFIX,track.aieic.com
+- DOMAIN-SUFFIX,tracker.str-nrg.com
+- DOMAIN-SUFFIX,ced-ns.sascdn.com
+- DOMAIN-SUFFIX,pixel.magentamarketing.com
+- DOMAIN-SUFFIX,bisrtb.vidazoo.com
+- DOMAIN-SUFFIX,aws.userlogsanalytics.com
+- DOMAIN-SUFFIX,atb-stats-api.imolive.tv
+- DOMAIN-SUFFIX,i.mxplayer.j2inter.com
+- DOMAIN-SUFFIX,flashtalking.com
+- DOMAIN-SUFFIX,stat.weamvideo.com
+- DOMAIN-SUFFIX,log.ultimatecleaner.pro
+- DOMAIN-SUFFIX,impression.link
+- DOMAIN-SUFFIX,rm.aarki.net
+- DOMAIN-SUFFIX,use-cr.svr-algorix.com
+- DOMAIN-SUFFIX,gnsnpaw.com
+- DOMAIN-SUFFIX,log.jackpotmasterslots.com
+- DOMAIN-SUFFIX,jpush.io
+- DOMAIN-SUFFIX,datacollector-drru.dt.dbankcloud.ru
+- DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
+- DOMAIN-SUFFIX,tp2p.kg.qq.com
+- DOMAIN-SUFFIX,twns.p2ptun.qq.com
+- DOMAIN-SUFFIX,data.kuiniuca.com
+- DOMAIN-SUFFIX,clientlogsf.music.163.com
+- DOMAIN-SUFFIX,ye.dun.163yun.com
+- DOMAIN-SUFFIX,netapm.music.163.com
+- DOMAIN-SUFFIX,clientlogdep.music.163.com
+- DOMAIN-SUFFIX,clientlog3.music.163.com
+- DOMAIN-SUFFIX,collect.4gtv.tv
+- DOMAIN-SUFFIX,uaid.vtwenty.com
+- DOMAIN-SUFFIX,telemetry.codefusion.technology
+- DOMAIN-SUFFIX,events.watchtower.imdbtv.amazon.dev
+- DOMAIN-SUFFIX,mobile-production.content-square.net
+- DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
+- DOMAIN-SUFFIX,log.pullcenter.live
+- DOMAIN-SUFFIX,log.documentmanagerpdfdocxlssale.live
+- DOMAIN-SUFFIX,stats.samsungpass.com
+- DOMAIN-SUFFIX,analytics.google.com
+- DOMAIN-SUFFIX,log.pdfviewerscannerstore.live
+- DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
+- DOMAIN-SUFFIX,metrics-prod.suno.com
+- DOMAIN-SUFFIX,logs-ingress.svc.vinted.com
+- DOMAIN-SUFFIX,analytics.baliusuperapp.xyz
+- DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
+- DOMAIN-SUFFIX,analytics.hardlightgames.com
+- DOMAIN-SUFFIX,plankton-gtm.a.autoscout24.com
+- DOMAIN-SUFFIX,pangle-b.io
+- DOMAIN-SUFFIX,receiver.habby.mobi
+- DOMAIN-SUFFIX,traces.sr.roku.com
+- DOMAIN-SUFFIX,analytics.kidoz.net
+- DOMAIN-SUFFIX,track.tenjin.com
+- DOMAIN-SUFFIX,tracker.mtrtb.com
+- DOMAIN-SUFFIX,tracking.ws.eurosport.com
+- DOMAIN-SUFFIX,analysis.polarisoffice.com
+- DOMAIN-SUFFIX,fraudmetrix.cn
+- DOMAIN-SUFFIX,analysys.cn
+- DOMAIN-SUFFIX,logs.supersonic.com
+- DOMAIN-SUFFIX,mssdk-va.byteoversea.com
+- DOMAIN-SUFFIX,events.bsky.app
+- DOMAIN-SUFFIX,caerulus.io
+- DOMAIN-SUFFIX,log.heartratepros.com
+- DOMAIN-SUFFIX,tatrack.thinkyeah.com
+- DOMAIN-SUFFIX,vcs.zijieapi.com
+- DOMAIN-SUFFIX,monsetting.toutiao.com
+- DOMAIN-SUFFIX,atsod.launch.liveramp.com
+- DOMAIN-SUFFIX,ads-image.production-public.tubi.io
+- DOMAIN-SUFFIX,user-signals.production-public.tubi.io
+- DOMAIN-SUFFIX,mob2.healthtrackergroup.com
+- DOMAIN-SUFFIX,insights-categorizer-noneu.truecaller.com
+- DOMAIN-SUFFIX,event-dot-learning-piano.appspot.com
+- DOMAIN-SUFFIX,log.cleanertoolboxonline.live
+- DOMAIN-SUFFIX,amplitude.life360.com
+- DOMAIN-SUFFIX,events.swiftlycontent.net
+- DOMAIN-SUFFIX,log.cleandesigner.live
+- DOMAIN-SUFFIX,mob2.healthapplines.com
+- DOMAIN-SUFFIX,client-telemetry.hingeprod.net
+- DOMAIN-SUFFIX,events-api.towneers.prod.data.krmt.io
+- DOMAIN-SUFFIX,event.karrotmarket.com
+- DOMAIN-SUFFIX,iot-in-logser.realme.com
+- DOMAIN-SUFFIX,push-api.topaz-analytics.com
+- DOMAIN-SUFFIX,analytics.wildlifestudios.com
+- DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
+- DOMAIN-SUFFIX,rabbit.meitustat.com
+- DOMAIN-SUFFIX,mediation.mwmadnetworks.com
+- DOMAIN-SUFFIX,xplosion.de
+- DOMAIN-SUFFIX,theadex.com
+- DOMAIN-SUFFIX,adui.tg.meitu.com
+- DOMAIN-SUFFIX,meitustat.com
+- DOMAIN-SUFFIX,analysis.vesync.com
+- DOMAIN-SUFFIX,insights.zennioptical.com
+- DOMAIN-SUFFIX,proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
+- DOMAIN-SUFFIX,stats.rustore.ru
+- DOMAIN-SUFFIX,vk-analytics.ru
+- DOMAIN-SUFFIX,tracking.iwhop.cn
+- DOMAIN-SUFFIX,log-verify.mob.com
+- DOMAIN-SUFFIX,app-analytics-services.com
+- DOMAIN-SUFFIX,sg.log.ulivetv.net
+- DOMAIN-SUFFIX,events.funnelish.com
+- DOMAIN-SUFFIX,analytics.app.funnelish.com
+- DOMAIN-SUFFIX,analytics.starmakerstudios.com
+- DOMAIN-SUFFIX,track.starmakerstudios.com
+- DOMAIN-SUFFIX,volceapplog.com
+- DOMAIN-SUFFIX,toblog.tobsnssdk.com
+- DOMAIN-SUFFIX,tobapplog.tobsnssdk.com
+- DOMAIN-SUFFIX,log.talkie-ai.com
+- DOMAIN-SUFFIX,log.goodreels.com
+- DOMAIN-SUFFIX,log.dramaboxdb.com
+- DOMAIN-SUFFIX,log.51changdu.com
+- DOMAIN-SUFFIX,autotrack.studyquicks.com
+- DOMAIN-SUFFIX,stats.studyquicks.com
+- DOMAIN-SUFFIX,fm-analytics-api.pocketfm.com
+- DOMAIN-SUFFIX,reportwest-midas.codmwest.com
+- DOMAIN-SUFFIX,events.character.ai
+- DOMAIN-SUFFIX,sb.scorecard.research.com
+- DOMAIN-SUFFIX,zml-apm-prd.dbv4.noncd.db.de
+- DOMAIN-SUFFIX,api.bytebrew.io
+- DOMAIN-SUFFIX,lg-release-tracking-8080.gcld-line.com
+- DOMAIN-SUFFIX,iemiq.com
+- DOMAIN-SUFFIX,yun-hl.3g.qq.com
+- DOMAIN-SUFFIX,up-hl.3g.qq.com
+- DOMAIN-SUFFIX,prod.report.nacustomerexperience.citi.com
+- DOMAIN-SUFFIX,mon.byteoversea.com
+- DOMAIN-SUFFIX,fraud.adjoe.zone
+- DOMAIN-SUFFIX,sdk-monitoring.ogury.co
+- DOMAIN-SUFFIX,tracker.srta.spectrum.com
+- DOMAIN-SUFFIX,event-collector.moviesanywhere.com
+- DOMAIN-SUFFIX,us-east-1.paa-reporting-advertising.amazon
+- DOMAIN-SUFFIX,analytics.nianticlabs.com
+- DOMAIN-SUFFIX,tracker.ulivetv.net
+- DOMAIN-SUFFIX,trackernew.ulivetv.net
+- DOMAIN-SUFFIX,gamestats.easybrain.com
+- DOMAIN-SUFFIX,am.yahoo.co.jp
+- DOMAIN-SUFFIX,b99.yahoo.co.jp
+- DOMAIN-SUFFIX,logs13.xiti.com
+- DOMAIN-SUFFIX,tracing-collector.strava.com
+- DOMAIN-SUFFIX,cgicol.amap.com
+- DOMAIN-SUFFIX,dualstack-cgicol.amap.com
+- DOMAIN-SUFFIX,ad-api-log.colopl.jp
+- DOMAIN-SUFFIX,metrics.macys.com
+- DOMAIN-SUFFIX,track.ktplay.com
+- DOMAIN-SUFFIX,preview-collector.scopely.io
+- DOMAIN-SUFFIX,collector.scopely.io
+- DOMAIN-SUFFIX,events.swishapps.ai
+- DOMAIN-SUFFIX,telemetry.canva.com
+- DOMAIN-SUFFIX,analytics.picsart.com
+- DOMAIN-SUFFIX,payload.adadapted.com
+- DOMAIN-SUFFIX,ec.adadapted.com
+- DOMAIN-SUFFIX,tracking.viewlift.com
+- DOMAIN-SUFFIX,events.prd.api.discomax.com
+- DOMAIN-SUFFIX,events.betterhelp.com
+- DOMAIN-SUFFIX,analytics-gateway.delta.dp.lightricks.com
+- DOMAIN-SUFFIX,log.bloodsugars.live
+- DOMAIN-SUFFIX,logservice1.dbankcloud.cn
+- DOMAIN-SUFFIX,open.oneplus.net
+- DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
+- DOMAIN-SUFFIX,log.espn.com
+- DOMAIN-SUFFIX,sia.internet.apps.samsung.com
+- DOMAIN-SUFFIX,config-api.internet.apps.samsung.com
+- DOMAIN-SUFFIX,r.apkpure.net
+- DOMAIN-SUFFIX,analytics.zg-api.com
+- DOMAIN-SUFFIX,track-resource.bidease.com
+- DOMAIN-SUFFIX,track-us.bidease.com
+- DOMAIN-SUFFIX,mintegral.net
+- DOMAIN-SUFFIX,innovads-server.poster.appsinnova.com
+- DOMAIN-SUFFIX,adtrack.xiaojukeji.com
+- DOMAIN-SUFFIX,rtag.farmers.com
+- DOMAIN-SUFFIX,s.pixsrvcs.com
+- DOMAIN-SUFFIX,cws-hulu.conviva.com
+- DOMAIN-SUFFIX,vik-analytics.moonactive.net
+- DOMAIN-SUFFIX,report.apkpure.net
+- DOMAIN-SUFFIX,grs.hicloud.com
+- DOMAIN-SUFFIX,logbak.hicloud.com
+- DOMAIN-SUFFIX,iot-eu-logser.realme.com
+- DOMAIN-SUFFIX,iot-logser.realme.com
+- DOMAIN-SUFFIX,tracking.purchasely.io
+- DOMAIN-SUFFIX,ts.line-apps.com
+- DOMAIN-SUFFIX,log-music-data.line-apps.com
+- DOMAIN-SUFFIX,events-api.soundcloud.com
+- DOMAIN-SUFFIX,biddingmax.apse.trk.rixserv.com
+- DOMAIN-SUFFIX,profiler-collector.wshareit.com
+- DOMAIN-SUFFIX,receiver-metis.infeng.site
+- DOMAIN-SUFFIX,dt.beyla.site
+- DOMAIN-SUFFIX,collect.analytics.unity3d.com
+- DOMAIN-SUFFIX,accscdn.m.taobao.com
+- DOMAIN-SUFFIX,apsrgeo.amap.com
+- DOMAIN-SUFFIX,confe.dc.oppomobile.com
+- DOMAIN-SUFFIX,conff.dc.oppomobile.com
+- DOMAIN-SUFFIX,dragate.dc.oppomobile.com
+- DOMAIN-SUFFIX,esa-reg-eup.myoppo.com
+- DOMAIN-SUFFIX,adx-in.ads.heytapmobile.com
+- DOMAIN-SUFFIX,dragate-in-dc.heytapmobile.com
+- DOMAIN-SUFFIX,httpdns-push.heytapmobile.com
+- DOMAIN-SUFFIX,omes-sec.heytapmobile.com
+- DOMAIN-SUFFIX,moa-upload-online.coloros.com
+- DOMAIN-SUFFIX,stat-in.dc.oppomobile.com
+- DOMAIN-SUFFIX,prod-analytics.royal.drmgms.com
+- DOMAIN-SUFFIX,trckr.contextualadv.com
+- DOMAIN-SUFFIX,logservice1.hicloud.com
+- DOMAIN-SUFFIX,logservice.hicloud.com
+- DOMAIN-SUFFIX,logger.growstarry.com
+- DOMAIN-SUFFIX,beacon-api.aliyuncs.com
+- DOMAIN-SUFFIX,adash.man.aliyuncs.com
+- DOMAIN-SUFFIX,woodpecker.uc.cn
+- DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
+- DOMAIN-SUFFIX,h-adashx4ae.ut.taobao.com
+- DOMAIN-SUFFIX,audid-api.taobao.com
+- DOMAIN-SUFFIX,analytics.ff.avast.com
+- DOMAIN-SUFFIX,node.aibeacon.jp
+- DOMAIN-SUFFIX,wsmetrics.batch.com
+- DOMAIN-SUFFIX,log.isnssdk.com
+- DOMAIN-SUFFIX,log-tb.isnssdk.com
+- DOMAIN-SUFFIX,rtlog.isnssdk.com
+- DOMAIN-SUFFIX,mon.isnssdk.com
+- DOMAIN-SUFFIX,event.togothermany.com
+- DOMAIN-SUFFIX,oldevent.togothermany.com
+- DOMAIN-SUFFIX,logs.ironsrc.mobi
+- DOMAIN-SUFFIX,events.mz.unity3d.com
+- DOMAIN-SUFFIX,r-log.dable.io
+- DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net
+- DOMAIN-SUFFIX,stat.gspaceteam.com
+- DOMAIN-SUFFIX,alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+- DOMAIN-SUFFIX,ets.easybrain.com
+- DOMAIN-SUFFIX,tracking-widget.fillr.com
+- DOMAIN-SUFFIX,api.data-analytics.pokemon.com
+- DOMAIN-SUFFIX,arcspire.io
+- DOMAIN-SUFFIX,onthe.io
+- DOMAIN-SUFFIX,t.adx.opera.com
+- DOMAIN-SUFFIX,sensors.snaptube.app
+- DOMAIN-SUFFIX,analytics.kongregate.io
+- DOMAIN-SUFFIX,logs.gshopper.com
+- DOMAIN-SUFFIX,airlytics.airlock.twcmobile.weather.com
+- DOMAIN-SUFFIX,track.midway.run
+- DOMAIN-SUFFIX,tdid.m.qq.com
+- DOMAIN-SUFFIX,d.reddit.com
+- DOMAIN-SUFFIX,clog.mirrativ.com
+- DOMAIN-SUFFIX,teleport.soom.la
+- DOMAIN-SUFFIX,logs1407.xiti.com
+- DOMAIN-SUFFIX,log1.apkomega.com
+- DOMAIN-SUFFIX,log.pngindir.com
+- DOMAIN-SUFFIX,log.happyapkdown.com
+- DOMAIN-SUFFIX,log-v4-insight.kaizenplatform.net
+- DOMAIN-SUFFIX,tracker.neodatagroup.com
+- DOMAIN-SUFFIX,stats.sxp.smartclip.net
+- DOMAIN-SUFFIX,static.fengkongcloud.com
+- DOMAIN-SUFFIX,cloudconf.fengkongcloud.com
+- DOMAIN-SUFFIX,tracker.fengkongcloud.com
+- DOMAIN-SUFFIX,dm.pstatp.com
+- DOMAIN-SUFFIX,countly.globaldelight.net
+- DOMAIN-SUFFIX,log.game.qcplay.com
+- DOMAIN-SUFFIX,report-stats.ad.jiguang.cn
+- DOMAIN-SUFFIX,config.jpush.cn
+- DOMAIN-SUFFIX,ab.servogram.io
+- DOMAIN-SUFFIX,webmetrics.mayoclinic.org
+- DOMAIN-SUFFIX,tagdelivery.mayoclinic.org
+- DOMAIN-SUFFIX,tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
+- DOMAIN-SUFFIX,events-stream-svc.cordial.com
+- DOMAIN-SUFFIX,events-stream-svc.usw2.cordial.com
+- DOMAIN-SUFFIX,message-hub-svc.usw2.cordial.com
+- DOMAIN-SUFFIX,stats.fifthstarlabs.io
+- DOMAIN-SUFFIX,events.iap.unity3d.com
+- DOMAIN-SUFFIX,mobilelog.ws.pho.to
+- DOMAIN-SUFFIX,etl.tindersparks.com
+- DOMAIN-SUFFIX,tags.creditkarma.com
+- DOMAIN-SUFFIX,track.extra.app
+- DOMAIN-SUFFIX,vgs-collect-keeper.apps.verygood.systems
+- DOMAIN-SUFFIX,g.analytics.versa-ai.com
+- DOMAIN-SUFFIX,analytics.rayjump.com
+- DOMAIN-SUFFIX,events.ifunny.co
+- DOMAIN-SUFFIX,telemetry.navigatorapp.net
+- DOMAIN-SUFFIX,pathfinder.analytics.komoot.net
+- DOMAIN-SUFFIX,evt.mxplay.com
+- DOMAIN-SUFFIX,log.geetest.com
+- DOMAIN-SUFFIX,prod-clientlog.fastly.newssuite.sinfony.ne.jp
+- DOMAIN-SUFFIX,track.hk01.com
+- DOMAIN-SUFFIX,analytics.kaltura.com
+- DOMAIN-SUFFIX,eventgw.twilio.com
+- DOMAIN-SUFFIX,log.estand.jp
+- DOMAIN-SUFFIX,event-search.jorte.com
+- DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
+- DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+- DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
+- DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
+- DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+- DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
+- DOMAIN-SUFFIX,overseauspider.yuanshen.com
+- DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+- DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+- DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
+- DOMAIN-SUFFIX,analytics.studiodesignapp.com
+- DOMAIN-SUFFIX,misc.api.snaptube.app
+- DOMAIN-SUFFIX,dig.bdurl.net
+- DOMAIN-SUFFIX,trusted-collector-bk.tmocce.com
+- DOMAIN-SUFFIX,collect.babybus.com
+- DOMAIN-SUFFIX,log.apkomega.com
+- DOMAIN-SUFFIX,log.yougameover.com
+- DOMAIN-SUFFIX,log.make50.com
+- DOMAIN-SUFFIX,log.easy39.com
+- DOMAIN-SUFFIX,log.appbundledownload.com
+- DOMAIN-SUFFIX,log.down61.com
+- DOMAIN-SUFFIX,trackersdk.bdash-cloud.com
+- DOMAIN-SUFFIX,hit.gemius.pl
+- DOMAIN-SUFFIX,click.oneplus.com
+- DOMAIN-SUFFIX,click.oneplus.cn
+- DOMAIN-SUFFIX,events.api.red.wemesh.ca
+- DOMAIN-SUFFIX,piano_log.kingsoft.jp
+- DOMAIN-SUFFIX,logend.cookpad.com
+- DOMAIN-SUFFIX,viva.api.xiaoying.co
+- DOMAIN-SUFFIX,ub-xjp.vvbrd.com
+- DOMAIN-SUFFIX,nelo2-col.linecorp.com
+- DOMAIN-SUFFIX,msga.cupid.iqiyi.com
+- DOMAIN-SUFFIX,ndct-data.video.iqiyi.com
+- DOMAIN-SUFFIX,ibd-as-api.iq.com
+- DOMAIN-SUFFIX,statclick.nate.com
+- DOMAIN-SUFFIX,aff-report.lbesecapi.com
+- DOMAIN-SUFFIX,aff-policy.lbesecapi.com
+- DOMAIN-SUFFIX,psi.lbesecapi.com
+- DOMAIN-SUFFIX,report-ps.meettech.net
+- DOMAIN-SUFFIX,msg.umengcloud.com
+- DOMAIN-SUFFIX,ulogs.umengcloud.com
+- DOMAIN-SUFFIX,analytics.liveact-vault.com
+- DOMAIN-SUFFIX,dex50.deteql.net
+- DOMAIN-SUFFIX,analytics.300624.com
+- DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+- DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
+- DOMAIN-SUFFIX,t.castle.io
+- DOMAIN-SUFFIX,bs.nakanohito.jp
+- DOMAIN-SUFFIX,log1.happymod.com
+- DOMAIN-SUFFIX,log.pvpgang.com
+- DOMAIN-SUFFIX,crs-event.line.me
+- DOMAIN-SUFFIX,crs-hometab-event.line.me
+- DOMAIN-SUFFIX,munchkin.marketo.net
+- DOMAIN-SUFFIX,tr.gunosy.com
+- DOMAIN-SUFFIX,tr.line.me
+- DOMAIN-SUFFIX,gd-stats.jpush.cn
+- DOMAIN-SUFFIX,analytics.enjoymobiserver.com
+- DOMAIN-SUFFIX,api.reproio.com
+- DOMAIN-SUFFIX,log5.interactive-circle.jp
+- DOMAIN-SUFFIX,b94.yahoo.co.jp
+- DOMAIN-SUFFIX,hibiki-track.logica.bz
+- DOMAIN-SUFFIX,log.mmstat.com
+- DOMAIN-SUFFIX,msg-intl.qy.net
+- DOMAIN-SUFFIX,log.mgtv.com
+- DOMAIN-SUFFIX,dflow.log.hunantv.com
+- DOMAIN-SUFFIX,ali-stats.jpush.cn
+- DOMAIN-SUFFIX,msg.simeji.me
+- DOMAIN-SUFFIX,msg.simeji.baidu.jp
+- DOMAIN-SUFFIX,post-log.pushwoosh.com
+- DOMAIN-SUFFIX,line1-log.biligame.net
+- DOMAIN-SUFFIX,log-upload-eur.mihoyo.com
+- DOMAIN-SUFFIX,log-upload.mihoyo.com
+- DOMAIN-SUFFIX,log-upload-os.mihoyo.com
+- DOMAIN-SUFFIX,s3-analytics-events.easybrain.com
+- DOMAIN-SUFFIX,mgs123.com
+- DOMAIN-SUFFIX,metrics.sp0n.io
+- DOMAIN-SUFFIX,online-metrix.imars.cloud
+- DOMAIN-SUFFIX,adtracker.jpchd.veraxen.com
+- DOMAIN-SUFFIX,adtracker.oilpainting.colorbynumber.veraxen.com
+- DOMAIN-SUFFIX,adtracker.mkjigsaw.com
+- DOMAIN-SUFFIX,stats.oilpainting.colorbynumber.veraxen.com
+- DOMAIN-SUFFIX,qa-events-schema.viacom.tech
+- DOMAIN-SUFFIX,dns-clientinfo.cbsivideo.com
+- DOMAIN-SUFFIX,trace.qq.com
+- DOMAIN-SUFFIX,events.tvtime.com
+- DOMAIN-SUFFIX,smetrics.discover.com
+- DOMAIN-SUFFIX,geico.com.ssl.sc.omtrdc.net
+- DOMAIN-SUFFIX,sadobeanalytics.geico.com
+- DOMAIN-SUFFIX,dit.whatsapp.net
+- DOMAIN-SUFFIX,analytics.redbubble.com
+- DOMAIN-SUFFIX,stats-sg.ganymede.eu
+- DOMAIN-SUFFIX,eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+- DOMAIN-SUFFIX,stats-proto.pandora.com
+- DOMAIN-SUFFIX,collector.vhx.tv
+- DOMAIN-SUFFIX,analytics-server.gimbal.com
+- DOMAIN-SUFFIX,log-tb.sgsnssdk.com
+- DOMAIN-SUFFIX,xlog.byteoversea.com
+- DOMAIN-SUFFIX,ug-sg.byteoversea.com
+- DOMAIN-SUFFIX,tracking.aldi-international.com
+- DOMAIN-SUFFIX,direct-collect.dy-api.com
+- DOMAIN-SUFFIX,direct-collect.dy-api.eu
+- DOMAIN-SUFFIX,api.telemetry.watchabc.go.com
+- DOMAIN-SUFFIX,analytics.rover.io
+- DOMAIN-SUFFIX,events-collector-api.viacom.tech
+- DOMAIN-SUFFIX,log.snow.me
+- DOMAIN-SUFFIX,events.textme-app.com
+- DOMAIN-SUFFIX,stocks-analytics-events.apple.com
+- DOMAIN-SUFFIX,stocks-analytics-events.news.apple-dns.net
+- DOMAIN-SUFFIX,books-analytics-events.apple.com
+- DOMAIN-SUFFIX,books-analytics-events.news.apple-dns.net
+- DOMAIN-SUFFIX,us04logfiles.zoom.us
+- DOMAIN-SUFFIX,costco-adbutler.com
+- DOMAIN-SUFFIX,adbutler.costco.com
+- DOMAIN-SUFFIX,wompanalytics.azurewebsites.net
+- DOMAIN-SUFFIX,analytics.seekxr.com
+- DOMAIN-SUFFIX,analytics.robinhood.com
+- DOMAIN-SUFFIX,tracking-config-service.glority.com
+- DOMAIN-SUFFIX,tracking-service.glority.com
+- DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
+- DOMAIN-SUFFIX,pingtas.qq.com
+- DOMAIN-SUFFIX,tenant-content.apm.appfolio-analytics.com
+- DOMAIN-SUFFIX,log.avlyun.com
+- DOMAIN-SUFFIX,api-analytics.prod.birdapp.com
+- DOMAIN-SUFFIX,mpianalytics.com
+- DOMAIN-SUFFIX,umengjmacs.m.taobao.com
+- DOMAIN-SUFFIX,umengacs.m.taobao.com
+- DOMAIN-SUFFIX,sdk-api-v1.singular.net
+- DOMAIN-SUFFIX,analytics-api.liveapp.com
+- DOMAIN-SUFFIX,telemetry.voxeet.com
+- DOMAIN-SUFFIX,usertrack.appcpi.net
+- DOMAIN-SUFFIX,conversions.appsflyer.com
+- DOMAIN-SUFFIX,collect.serious.li
+- DOMAIN-SUFFIX,analytics.jodelapis.com
+- DOMAIN-SUFFIX,analytics.mobilegamestats.com
+- DOMAIN-SUFFIX,p.statp.com
+- DOMAIN-SUFFIX,events.claspws.tv
+- DOMAIN-SUFFIX,tracking-receiver.prod-general.stocard-backend.com
+- DOMAIN-SUFFIX,metrics.happycolor.app
+- DOMAIN-SUFFIX,digianalytics.airtel.in
+- DOMAIN-SUFFIX,ad-creative.projectcarmen.com
+- DOMAIN-SUFFIX,analytics.projectcarmen.com
+- DOMAIN-SUFFIX,monitoring-sdk.experimentation.intuit.com
+- DOMAIN-SUFFIX,logging.api.intuit.com
+- DOMAIN-SUFFIX,analytics.prod.mybuddy.ai
+- DOMAIN-SUFFIX,dualstack-logs.amap.com
+- DOMAIN-SUFFIX,logs.amap.com
+- DOMAIN-SUFFIX,edmanalytics.pandahall.com
+- DOMAIN-SUFFIX,applogs.pixelfederation.com
+- DOMAIN-SUFFIX,applogs-v2.pixelfederation.com
+- DOMAIN-SUFFIX,analytics.dns-shop.ru
+- DOMAIN-SUFFIX,trk2.pinterest.com
+- DOMAIN-SUFFIX,mobiletelemetry.ebay.com
+- DOMAIN-SUFFIX,tracker.departapp.com
+- DOMAIN-SUFFIX,us-tracking.nextdoor.com
+- DOMAIN-SUFFIX,us-events.api.iheart.com
+- DOMAIN-SUFFIX,notes-analytics-events.apple.com
+- DOMAIN-SUFFIX,notes-analytics-events.news.apple-dns.net
+- DOMAIN-SUFFIX,weather-analytics-events.apple.com
+- DOMAIN-SUFFIX,weather-analytics-events.news.apple-dns.net
+- DOMAIN-SUFFIX,v-collector.dp.aws.charter.com
+- DOMAIN-SUFFIX,smetrics.cnn.com
+- DOMAIN-SUFFIX,metrics.claspws.tv
+- DOMAIN-SUFFIX,logs.gaaana.com
+- DOMAIN-SUFFIX,sdk-log-inter.youdao.com
+- DOMAIN-SUFFIX,sensors.snappea.com
+- DOMAIN-SUFFIX,analytics.snaptube.app
+- DOMAIN-SUFFIX,px.ucweb.com
+- DOMAIN-SUFFIX,collector1.sooplive.co.kr
+- DOMAIN-SUFFIX,adtima-static.zadn.vn
+- DOMAIN-SUFFIX,akstat.io
+- DOMAIN-SUFFIX,chartbeat.net
+- DOMAIN-SUFFIX,advangelists.com
+- DOMAIN-SUFFIX,agkn.com
+- DOMAIN-SUFFIX,33across.com
+- DOMAIN-SUFFIX,cpx.to
+- DOMAIN-SUFFIX,bfmio.com
+- DOMAIN-SUFFIX,mathtag.com
+- DOMAIN-SUFFIX,w55c.net
+- DOMAIN-SUFFIX,bidswitch.net
+- DOMAIN-SUFFIX,simpli.fi
+- DOMAIN-SUFFIX,getclicky.com
+- DOMAIN-SUFFIX,ztevents.zaloapp.com
+- DOMAIN-SUFFIX,log.adtimaserver.vn
+- DOMAIN-SUFFIX,tunion-api.m.taobao.com
+- DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
+- DOMAIN-SUFFIX,amdc.m.taobao.com
+- DOMAIN-SUFFIX,amdcopen.m.taobao.com
+- DOMAIN-SUFFIX,logsink.zedge.net
+- DOMAIN-SUFFIX,consent-manager-events.ogury.io
+- DOMAIN-SUFFIX,api.share.mob.com
+- DOMAIN-SUFFIX,bi.manhuaren.com
+- DOMAIN-SUFFIX,analytics.datasavannah.com
+- DOMAIN-SUFFIX,sq.requestads.com
+- DOMAIN-SUFFIX,insight.ucweb.com
+- DOMAIN-SUFFIX,gjapplog.ucweb.com
+- DOMAIN-SUFFIX,stat.meitudata.com
+- DOMAIN-SUFFIX,collect.media.jio.com
+- DOMAIN-SUFFIX,log.apk.v-mate.mobi
+- DOMAIN-SUFFIX,track.mobshark.net
+- DOMAIN-SUFFIX,dsp-adcreative.mobshark.net
+- DOMAIN-SUFFIX,dsptrack.mobshark.net
+- DOMAIN-SUFFIX,analytics.metrix.ir
+- DOMAIN-SUFFIX,hwstats.unity3d.com
+- DOMAIN-SUFFIX,installtracker.unityads.unity3d.com
+- DOMAIN-SUFFIX,mediation-tracking.prd.mz.internal.unity3d.com
+- DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
+- DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
+- DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
+- DOMAIN-SUFFIX,userreporting.cloud.unity3d.com
+- DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+- DOMAIN-SUFFIX,cdn-adn.rayjump.com
+- DOMAIN-SUFFIX,sg01.rayjump.com
+- DOMAIN-SUFFIX,cafe-log.myshoplus.com
+- DOMAIN-SUFFIX,de01.rayjump.com
+- DOMAIN-SUFFIX,c.sayhi.360.cn
+- DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
+- DOMAIN-SUFFIX,log.tpns.tencent.com
+- DOMAIN-SUFFIX,stat.m.360.cn
+- DOMAIN-SUFFIX,stats-a.maxthon.com
+- DOMAIN-SUFFIX,pgapi.ksmobile.com
+- DOMAIN-SUFFIX,gcm.ksmobile.net
+- DOMAIN-SUFFIX,adsaccount.appcpi.net
+- DOMAIN-SUFFIX,adtrack.appcpi.net
+- DOMAIN-SUFFIX,remain.appcpi.net
+- DOMAIN-SUFFIX,appmetr.com
+- DOMAIN-SUFFIX,track.tenjin.io
+- DOMAIN-SUFFIX,stats.abbi.io
+- DOMAIN-SUFFIX,tr.snapchat.com
+- DOMAIN-SUFFIX,tracking.aatkit.com
+- DOMAIN-SUFFIX,reporting.aatkit.com
+- DOMAIN-SUFFIX,geo.go2s.co
+- DOMAIN-SUFFIX,batsavcdn.ksmobile.net
+- DOMAIN-SUFFIX,cfg.cml.ksmobile.com
+- DOMAIN-SUFFIX,tealand.cmcm.com
+- DOMAIN-SUFFIX,geoinfo.i2w.io
+- DOMAIN-SUFFIX,tracking.i2w.io
+- DOMAIN-SUFFIX,detect.rayjump.com
+- DOMAIN-SUFFIX,a.appbaqend.com
+- DOMAIN-SUFFIX,ue.flipboard.com
+- DOMAIN-SUFFIX,mobileapptracking.com
+- DOMAIN-SUFFIX,ilyonanalytics.herokuapp.com
+- DOMAIN-SUFFIX,gcm.ksmobile.com
+- DOMAIN-SUFFIX,ninja.onap.io
+- DOMAIN-SUFFIX,sdk.stats-locations.com
+- DOMAIN-SUFFIX,config.safedk.com
+- DOMAIN-SUFFIX,elephantdata.net
+- DOMAIN-SUFFIX,sdks.stats-locations.com
+- DOMAIN-SUFFIX,imp.startappservice.com
+- DOMAIN-SUFFIX,ploy.batmobi.net
+- DOMAIN-SUFFIX,an.batmobi.net
+- DOMAIN-SUFFIX,analytics.any.do
+- DOMAIN-SUFFIX,m.vpadn.com
+- DOMAIN-SUFFIX,sts.batmobi.net
+- DOMAIN-SUFFIX,pps-log.op-mobile.opera.com
+- DOMAIN-SUFFIX,tktracker.aotter.net
+- DOMAIN-SUFFIX,tkrecorder.aotter.net
+- DOMAIN-SUFFIX,android.bugly.qq.com
+- DOMAIN-SUFFIX,astat.bugly.qq.com
+- DOMAIN-SUFFIX,ios.bugly.qq.com
+- DOMAIN-SUFFIX,tracking.trnox.com
+- DOMAIN-SUFFIX,rts.mobula.sdk.duapps.com
+- DOMAIN-SUFFIX,aftonbladetnya.sc.omtrdc.net
+- DOMAIN-SUFFIX,omni-ads.omni.news
+- DOMAIN-SUFFIX,npario-inc.net
+- DOMAIN-SUFFIX,wzrkt.com
+- DOMAIN-SUFFIX,analytics-events.inshorts.com
+- DOMAIN-SUFFIX,e-ssl.apsalar.com
+- DOMAIN-SUFFIX,track.adform.net
+- DOMAIN-SUFFIX,sync.adotmob.com
+- DOMAIN-SUFFIX,logger.cloudmobi.net
+- DOMAIN-SUFFIX,tracker.adotmob.com
+- DOMAIN-SUFFIX,analytics-tracker.thescore.com
+- DOMAIN-SUFFIX,rosenberg.appmetrica.webvisor.com
+- DOMAIN-SUFFIX,geoplugin.net
+- DOMAIN-SUFFIX,d.applvn.com
+- DOMAIN-SUFFIX,rt.applvn.com
+- DOMAIN-SUFFIX,moengage.com
+- DOMAIN-SUFFIX,rt.applovin.com
+- DOMAIN-SUFFIX,track.uc.cn
+- DOMAIN-SUFFIX,uc.ucweb.com
+- DOMAIN-SUFFIX,puds.ucweb.com
+- DOMAIN-SUFFIX,patriot.cs.pp.cn
+- DOMAIN-SUFFIX,sdk-orion.appboy.com
+- DOMAIN-SUFFIX,pippio.com
+- DOMAIN-SUFFIX,io.narrative.io
+- DOMAIN-SUFFIX,loadus.exelator.com
+- DOMAIN-SUFFIX,api.mixpanel.com
+- DOMAIN-SUFFIX,decide.mixpanel.com
+- DOMAIN-SUFFIX,api.segment.io
+- DOMAIN-SUFFIX,applog.uc.cn
+- DOMAIN-SUFFIX,dispatcher.upmc.uc.cn
+- DOMAIN-SUFFIX,gjapplog.uc.cn
+- DOMAIN-SUFFIX,tracking.directservices.it
+- DOMAIN-SUFFIX,metrics.timewarnercable.com
+- DOMAIN-SUFFIX,amptrack-dailymail-co-uk.cdn.ampproject.org
+- DOMAIN-SUFFIX,metrics-cbslocal-com.cdn.ampproject.org
+- DOMAIN-SUFFIX,tracking-server-prod-1.zenmxapps.com
+- DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+- DOMAIN-SUFFIX,api.uca.cloud.unity3d.com
+- DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
+- DOMAIN-SUFFIX,geoip.ifunny.co
+- DOMAIN-SUFFIX,alogs.umengcloud.com
+- DOMAIN-SUFFIX,4seeresults.com
+- DOMAIN-SUFFIX,adash.m.taobao.com
+- DOMAIN-SUFFIX,adfuture.cn
+- DOMAIN-SUFFIX,adserver.snapads.com
+- DOMAIN-SUFFIX,adsunflower.com
+- DOMAIN-SUFFIX,advmob.cn
+- DOMAIN-SUFFIX,alog.umengcloud.com
+- DOMAIN-SUFFIX,amp-error-reporting.appspot.com
+- DOMAIN-SUFFIX,analytics.ad.daum.net
+- DOMAIN-SUFFIX,analytics.liftoff.io
+- DOMAIN-SUFFIX,analytics.mobile.yandex.net
+- DOMAIN-SUFFIX,analytics.query.yahoo.com
+- DOMAIN-SUFFIX,andmlb.kshwtj.com
+- DOMAIN-SUFFIX,api-analytics-bootstrap.metaps.com
+- DOMAIN-SUFFIX,api-analytics.metaps.com
+- DOMAIN-SUFFIX,api.amplitude.com
+- DOMAIN-SUFFIX,api.analytics.omgpop.com
+- DOMAIN-SUFFIX,api.apptentive.com
+- DOMAIN-SUFFIX,api.branch.io
+- DOMAIN-SUFFIX,api2.branch.io
+- DOMAIN-SUFFIX,api3.branch.io
+- DOMAIN-SUFFIX,api.gameanalytics.com
+- DOMAIN-SUFFIX,api.gimbal.com
+- DOMAIN-SUFFIX,appmetrica.yandex.net
+- DOMAIN-SUFFIX,appmetrica.yandex.com
+- DOMAIN-SUFFIX,beacon.carfax.com
+- DOMAIN-SUFFIX,beacon.qq.com
+- DOMAIN-SUFFIX,beacon.shazam.com
+- DOMAIN-SUFFIX,beha.ksmobile.com
+- DOMAIN-SUFFIX,bidder.mdspinc.com
+- DOMAIN-SUFFIX,brahe.apptimize.com
+- DOMAIN-SUFFIX,c.bigmir.net
+- DOMAIN-SUFFIX,carfax.sc.omtrdc.net
+- DOMAIN-SUFFIX,cedexis-radar.net
+- DOMAIN-SUFFIX,cedexis.com
+- DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
+- DOMAIN-SUFFIX,clientmetrics.kik.com
+- DOMAIN-SUFFIX,collector.brandify.com
+- DOMAIN-SUFFIX,config2.mparticle.com
+- DOMAIN-SUFFIX,crasheye.cn
+- DOMAIN-SUFFIX,crwdcntrl.net
+- DOMAIN-SUFFIX,demdex.net
+- DOMAIN-SUFFIX,dsg.sc.omtrdc.net
+- DOMAIN-SUFFIX,etl.xlmc.sandai.net
+- DOMAIN-SUFFIX,events.lbesecapi.com
+- DOMAIN-SUFFIX,geoip.fotoable.net
+- DOMAIN-SUFFIX,googleadapis.l.google.com
+- DOMAIN-SUFFIX,iam-agof-app.irquest.com
+- DOMAIN-SUFFIX,installtracker.com
+- DOMAIN-SUFFIX,krxd.net
+- DOMAIN-SUFFIX,lepodownload.mediatek.com
+- DOMAIN-SUFFIX,lhzbdvm.com
+- DOMAIN-SUFFIX,log.droid4x.cn
+- DOMAIN-SUFFIX,log.umsns.com
+- DOMAIN-SUFFIX,lp4.io
+- DOMAIN-SUFFIX,metrics.adflake.com
+- DOMAIN-SUFFIX,metrics.sdkbox.com
+- DOMAIN-SUFFIX,mlb.did.ijinshan.com
+- DOMAIN-SUFFIX,mobile-collector.newrelic.com
+- DOMAIN-SUFFIX,mobilelog.upqzfile.com
+- DOMAIN-SUFFIX,ms.cmcm.com
+- DOMAIN-SUFFIX,mtlog.droid4x.cn
+- DOMAIN-SUFFIX,nativesdks.mparticle.com
+- DOMAIN-SUFFIX,nlog.droid4x.cn
+- DOMAIN-SUFFIX,nrc.tapas.net
+- DOMAIN-SUFFIX,online-metrix.net
+- DOMAIN-SUFFIX,openstat.net
+- DOMAIN-SUFFIX,pingma.qq.com
+- DOMAIN-SUFFIX,prugskh.com
+- DOMAIN-SUFFIX,prugskh.net
+- DOMAIN-SUFFIX,quantcount.com
+- DOMAIN-SUFFIX,rc.dxsvr.com
+- DOMAIN-SUFFIX,rlog-api.under9.co
+- DOMAIN-SUFFIX,rlog.9gag.com
+- DOMAIN-SUFFIX,sc-analytics.appspot.com
+- DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+- DOMAIN-SUFFIX,stat.duokanbox.com
+- DOMAIN-SUFFIX,stats.popcap.com
+- DOMAIN-SUFFIX,taurus.iad.appboy.com
+- DOMAIN-SUFFIX,tknet.rayjump.com
+- DOMAIN-SUFFIX,tns.simba.taobao.com
+- DOMAIN-SUFFIX,track.pingstart.com
+- DOMAIN-SUFFIX,tracker-api.my.com
+- DOMAIN-SUFFIX,tracking.lenzmx.com
+- DOMAIN-SUFFIX,trk.pinterest.com
+- DOMAIN-SUFFIX,tunein.adswizz.com
+- DOMAIN-SUFFIX,upalytics.com
+- DOMAIN-SUFFIX,ups.ksmobile.net
+- DOMAIN-SUFFIX,ws.ksmobile.net
+- DOMAIN-SUFFIX,www-google-analytics.l.google.com
+- DOMAIN-SUFFIX,yadro.ru
+- DOMAIN-SUFFIX,ymtracking.com
+- DOMAIN-SUFFIX,zdbb.net
+- DOMAIN-SUFFIX,mcs.tiktokw.us
+- DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
+- DOMAIN-SUFFIX,log.tiktokv.com
+- DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
+- DOMAIN-SUFFIX,rtlog.tiktokv.com
+- DOMAIN-SUFFIX,mon.us.tiktokv.com
+- DOMAIN-SUFFIX,mon.tiktokv.com
+- DOMAIN-SUFFIX,xlog.tiktokv.com
+- DOMAIN-SUFFIX,xlog-va.tiktokv.com
+- DOMAIN-SUFFIX,mcs-va.tiktokv.com
+- DOMAIN-SUFFIX,analytics.tiktok.com
+- DOMAIN-SUFFIX,localytics.com
+- DOMAIN-SUFFIX,upoll.umengcloud.com
+- DOMAIN-SUFFIX,utop.umengcloud.com
+- DOMAIN-SUFFIX,analy.qq.com

@@ -1,0 +1,167 @@
+# NAME: Browser ETC
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-03-12 02:11:56
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 5
+# DOMAIN-SUFFIX: 689
+# IP-CIDR: 4
+# IP-CIDR6: 1
+# PROCESS-NAME: 6
+# TOTAL: 706
+# Last Edited By Qyubisanz14 2025
+
+payload:
+# Mozilla
+  - DOMAIN-SUFFIX,bugzilla.org
+  - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,docs.rs
+  - DOMAIN-SUFFIX,extensionworkshop.com
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefox.com.cn
+  - DOMAIN-SUFFIX,firefoxusercontent.com
+  - DOMAIN-SUFFIX,getpocket.com
+  - DOMAIN-SUFFIX,mdn.mozillademos.org
+  - DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+  - DOMAIN-SUFFIX,mofoprod.net
+  - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,mozilla.community
+  - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,pocket-image-cache.com
+  - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,rustup.rs
+  - DOMAIN-SUFFIX,seamonkey-project.org
+  - DOMAIN-SUFFIX,sentry.prod.mozaws.net
+  - DOMAIN-SUFFIX,thunderbird.net
+  
+# Yandex
+  - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+  - DOMAIN-SUFFIX,ya.ru
+  - DOMAIN-SUFFIX,yadi.sk
+  - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yandex.aero
+  - DOMAIN-SUFFIX,yandex.az
+  - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.co.il
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.com.am
+  - DOMAIN-SUFFIX,yandex.com.ge
+  - DOMAIN-SUFFIX,yandex.com.ru
+  - DOMAIN-SUFFIX,yandex.com.tr
+  - DOMAIN-SUFFIX,yandex.com.ua
+  - DOMAIN-SUFFIX,yandex.de
+  - DOMAIN-SUFFIX,yandex.ee
+  - DOMAIN-SUFFIX,yandex.eu
+  - DOMAIN-SUFFIX,yandex.fi
+  - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.jobs
+  - DOMAIN-SUFFIX,yandex.kg
+  - DOMAIN-SUFFIX,yandex.kz
+  - DOMAIN-SUFFIX,yandex.lt
+  - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.md
+  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,yandex.st
+  - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.tj
+  - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.ua
+  - DOMAIN-SUFFIX,yandex.uz
+  - DOMAIN-SUFFIX,yastatic.net
+  - IP-CIDR,100.43.64.0/19
+  - IP-CIDR,141.8.128.0/18
+  - IP-CIDR,178.154.128.0/18
+  - IP-CIDR,178.154.192.0/19
+  - IP-CIDR,185.32.187.0/24
+  - IP-CIDR,199.21.96.0/22
+  - IP-CIDR,199.36.240.0/22
+  - IP-CIDR,213.180.192.0/19
+  - IP-CIDR,37.140.128.0/18
+  - IP-CIDR,37.9.64.0/18
+  - IP-CIDR,5.255.192.0/18
+  - IP-CIDR,5.45.192.0/18
+  - IP-CIDR,77.88.0.0/18
+  - IP-CIDR,87.250.224.0/19
+  - IP-CIDR,93.158.128.0/18
+  - IP-CIDR,95.108.128.0/17
+  - IP-CIDR6,2620:10f:d000::/44
+  - IP-CIDR6,2a02:6b8::/29
+  
+# Opera
+  - DOMAIN-SUFFIX,1npq4.tk
+  - DOMAIN-SUFFIX,coastbyopera.com
+  - DOMAIN-SUFFIX,gamingbrowsers.com
+  - DOMAIN-SUFFIX,opera-api.com
+  - DOMAIN-SUFFIX,opera-api2.com
+  - DOMAIN-SUFFIX,opera-browser.com
+  - DOMAIN-SUFFIX,opera-mini.net
+  - DOMAIN-SUFFIX,opera.com
+  - DOMAIN-SUFFIX,opera.software
+  - DOMAIN-SUFFIX,operacdn.com
+  - DOMAIN-SUFFIX,operagx.com
+  - DOMAIN-SUFFIX,operasoftware.com
+  - DOMAIN-SUFFIX,otvs.tv
+  - DOMAIN-SUFFIX,xn--cer18jcpe41t.com
+  - IP-CIDR,141.0.8.0/21
+  - IP-CIDR,185.26.180.0/22
+  - IP-CIDR,195.189.142.0/23
+  - IP-CIDR,37.228.104.0/21
+  - IP-CIDR,77.111.244.0/22
+  - IP-CIDR,82.145.208.0/20
+  - IP-CIDR,91.203.97.0/24
+  - IP-CIDR6,2001:4c28::/32
+  
+# Duck Duck Go
+  - DOMAIN-SUFFIX,cispaletter.com
+  - DOMAIN-SUFFIX,cispaletter.org
+  - DOMAIN-SUFFIX,cometotheduckside.com
+  - DOMAIN-SUFFIX,ddg.co
+  - DOMAIN-SUFFIX,ddg.gg
+  - DOMAIN-SUFFIX,ddh.gg
+  - DOMAIN-SUFFIX,dgg.gg
+  - DOMAIN-SUFFIX,dontbubble.us
+  - DOMAIN-SUFFIX,donttrack.us
+  - DOMAIN-SUFFIX,duck.co
+  - DOMAIN-SUFFIX,duck.com
+  - DOMAIN-SUFFIX,duckduckco.com
+  - DOMAIN-SUFFIX,duckduckco.de
+  - DOMAIN-SUFFIX,duckduckgo.ca
+  - DOMAIN-SUFFIX,duckduckgo.co
+  - DOMAIN-SUFFIX,duckduckgo.co.uk
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,duckduckgo.com.mx
+  - DOMAIN-SUFFIX,duckduckgo.com.tw
+  - DOMAIN-SUFFIX,duckduckgo.de
+  - DOMAIN-SUFFIX,duckduckgo.dk
+  - DOMAIN-SUFFIX,duckduckgo.in
+  - DOMAIN-SUFFIX,duckduckgo.jp
+  - DOMAIN-SUFFIX,duckduckgo.ke
+  - DOMAIN-SUFFIX,duckduckgo.mx
+  - DOMAIN-SUFFIX,duckduckgo.nl
+  - DOMAIN-SUFFIX,duckduckgo.org
+  - DOMAIN-SUFFIX,duckduckgo.pl
+  - DOMAIN-SUFFIX,duckduckgo.sg
+  - DOMAIN-SUFFIX,duckduckgo.uk
+  - DOMAIN-SUFFIX,duckduckhack.com
+  - DOMAIN-SUFFIX,duckgo.com
+  - DOMAIN-SUFFIX,ducksear.ch
+  - DOMAIN-SUFFIX,duckside.com
+  - DOMAIN-SUFFIX,dukgo.com
+  - DOMAIN-SUFFIX,enteentegeh.de
+  - DOMAIN-SUFFIX,fixtracking.com
+  - DOMAIN-SUFFIX,goduckgo.com
+  - DOMAIN-SUFFIX,hacksear.ch
+  - DOMAIN-SUFFIX,justduckit.com
+  - DOMAIN-SUFFIX,privacysimplified.com
+  - DOMAIN-SUFFIX,privatebrowsingmyths.com
+  - DOMAIN-SUFFIX,spreadprivacy.com
+  
+# Microsoft Edge
+  - DOMAIN,edge.activity.windows.com
+  - DOMAIN,edge.microsoft.com
+  - DOMAIN,iecvlist.microsoft.com
+  - DOMAIN,msedge.api.cdp.microsoft.com
+  
+  
