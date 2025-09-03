@@ -45,10 +45,11 @@
 
 ## ⚙️ Instalasi & Penggunaan
 
-1. **Download App Clash For Meta:**
+1. **Download App Clash For Meta:⤵️**
 
-- ![Screenshot](https://github.com/heruhendri/Mikhmon-PPPoE-ROS.6/blob/master/mikhmon/ss.png?raw=true)
 - [App Clash For Meta](https://github.com/heruhendri/CONFIG-VPN/raw/refs/heads/master/clash-meta-2-11-9-meta.apk)
+- ![APP](https://github.com/heruhendri/Mikhmon-PPPoE-ROS.6/blob/master/mikhmon/ss.png?raw=true)
+
 
 2. **Buka Clash For Meta ⤵️:**
    - .
