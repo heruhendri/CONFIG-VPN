@@ -64,7 +64,7 @@
 
 ## 📚 Dokumentasi
 
-- [Panduan Lengkap Clash For Meta](https://drive.google.com/file/d/13MWZ_d9uBfVjT0HAzhFk_goYLES5UUnu/view?usp=sharing)
+- [Panduan Lengkap Clash For Meta](https://drive.google.com/file/d/13MWZ_d9uBfVjT0HAzhFk_goYLES5UUnu/view)
 - [Panduan WireGuard](docs/wireguard.md)
 - [FAQ & Troubleshooting](docs/faq.md)
 
