@@ -53,7 +53,7 @@
 
 
 2. **Buka Clash For Meta ⤵️:**
-   - .
+   - [configure vidio](https://drive.google.com/file/d/13MWZ_d9uBfVjT0HAzhFk_goYLES5UUnu/view)
    - Copy file konfigurasi ke perangkat Anda.
    - Masuk ke folder sesuai protokol yang dibutuhkan.
    - Copy file konfigurasi ke perangkat Anda.
