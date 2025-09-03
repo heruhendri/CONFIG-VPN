@@ -64,7 +64,7 @@
 
 ## 📚 Dokumentasi
 
-- [Panduan Lengkap OpenVPN](docs/openvpn.md)
+- [Panduan Lengkap Clash For Meta](https://drive.google.com/file/d/1hQ_5MlHvKNhixwlJwhr3veIdMeB_el8q/view)
 - [Panduan WireGuard](docs/wireguard.md)
 - [FAQ & Troubleshooting](docs/faq.md)
 
