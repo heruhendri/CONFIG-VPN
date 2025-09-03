@@ -47,9 +47,9 @@
 
 1. **Download & Install App Clash For Meta:⤵️**
 
-- [App Clash For Meta](https://raw.githubusercontent.com/heruhendri/CONFIG-VPN/refs/heads/master/doc/ss1.png)
+- [App Clash For Meta](https://github.com/heruhendri/CONFIG-VPN/raw/refs/heads/master/clash-meta-2-11-9-meta.apk)
 >
-- ![APP](https://github.com/heruhendri/Mikhmon-PPPoE-ROS.6/blob/master/mikhmon/ss.png?raw=true)
+- ![APP](https://raw.githubusercontent.com/heruhendri/CONFIG-VPN/refs/heads/master/doc/ss1.pngpic)
 
 
 2. **Buka Clash For Meta ⤵️:**
