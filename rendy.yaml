@@ -1,9 +1,9 @@
 proxies:
-  - name: rendy do-4 2025-09-28 🇸🇬 git
+  - name: rentul do-4 2025-09-28 🇸🇬 git
     server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: fc0d29ed-47f9-4d0d-9509-357ae21af7e0
+    uuid: 4dea802f-d81e-4599-a4bf-2205969ba176
     alterId: 0
     cipher: auto
     tls: true
