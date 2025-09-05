@@ -1,19 +1,19 @@
 proxies:
-  - name: naufal vidio 16 Sep 25
+  - name: falcovpn
     server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: 8d58f714-e7f3-40db-8ccb-6b9e9fc16c1f
+    uuid: 7eb276df-cae3-4d65-88db-bde1e575aeae
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do2.storevpn.cc
+    servername: sg1-linode.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do2.storevpn.cc
+        Host: sg1-linode.storevpn.cc
     udp: true
   - name: backuptj
     server: quiz.int.vidio.com
