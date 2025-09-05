@@ -1,32 +1,16 @@
 proxies:
-  - name: rentul VIDIO 2025-09-28 🇸🇬 git
-    server: quiz.int.vidio.com
-    port: 443
-    type: vmess
-    uuid: fc0d29ed-47f9-4d0d-9509-357ae21af7e0
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: do4.storevpn.cc
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: do4.storevpn.cc
-    udp: true
-  - name: rendy do1 2025-09-28 🇸🇬 git
+  - name: rendy do-budget2 2025-09-28 🇸🇬 git
     server: quiz.int.vidio.com
     port: 443
     type: trojan
-    password: 4638e7aa-e59d-44f2-bf7e-8cbeec4854ae
+    password: 26d12553-cdc7-4077-a647-4752a049b924
     skip-cert-verify: true
-    sni: do1.storevpn.cc
+    sni: do-budget2.storevpn.cc
     network: ws
     ws-opts:
       path: /trojan
       headers:
-        Host: do1.storevpn.cc
+        Host: do-budget2.storevpn.cc
     udp: true
   - name: backuptj
     server: quiz.int.vidio.com
