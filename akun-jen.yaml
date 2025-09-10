@@ -1,5 +1,5 @@
 proxies:
-  - name: ilped Jen bolakbalik
+  - name: ilpedsulawes
     server: 104.18.24.139
     port: 443
     type: vmess
@@ -15,19 +15,19 @@ proxies:
       headers:
         Host: ams1.storevpn.cc
     udp: true
-  - name: ilped jen wildcard
-    server: support.zoom.us
+  - name: backup
+    server: 104.18.24.139
     port: 443
     type: vmess
-    uuid: 76efd215-b5a2-4973-a9ec-4054b8221061
+    uuid: 2ad19811-cf99-4760-9f8c-f959a656555e
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: support.zoom.us.ams1.storevpn.cc
+    servername: wijaya-1.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: support.zoom.us.ams1.storevpn.cc
+        Host: wijaya-1.storevpn.cc
     udp: true
