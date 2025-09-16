@@ -8,12 +8,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do4.vpn-premium.pp.ua
+    servername: do-4.storevpn.cc
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do4.vpn-premium.pp.ua
+        Host: do-4.storevpn.cc
     udp: true
   - name: backuptj
     server: quiz.int.vidio.com
