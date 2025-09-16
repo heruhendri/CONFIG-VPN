@@ -19,12 +19,12 @@ proxies:
     server: quiz.int.vidio.com
     port: 443
     type: trojan
-    password: 02cfc45f-a4bc-458a-887a-916b225ec221
+    password: b5831b9d-4f64-435e-9a41-a5d3bd226608
     skip-cert-verify: true
-    sni: do-2d.storevpn.cc
+    sni: do1.storevpn.cc
     network: ws
     ws-opts:
       path: /trojan
       headers:
-        Host: do-2d.storevpn.cc
+        Host: do1.storevpn.cc
     udp: true
