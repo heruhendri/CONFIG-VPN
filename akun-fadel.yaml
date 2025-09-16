@@ -1,19 +1,19 @@
 proxies:
-  - name: naufal do-4 vidio 16 Sep 25
+  - name: fadel do-4 vidio 16 Oct 25
     server: quiz.int.vidio.com
     port: 443
     type: vmess
-    uuid: af5d526d-115a-4d80-9765-bb17277399e8
+    uuid: 9f3c565e-e088-47e8-b9a5-431edee66d8a
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do-4.storevpn.cc
+    servername: do4.vpn-premium.pp.ua
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do-4.storevpn.cc
+        Host: do4.vpn-premium.pp.ua
     udp: true
   - name: backuptj
     server: quiz.int.vidio.com
