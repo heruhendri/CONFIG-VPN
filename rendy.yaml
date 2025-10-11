@@ -1,46 +1,33 @@
 proxies:
-  - name: rentul do-4 2025-09-28 🇸🇬 git
-    server: quiz.int.vidio.com
+  - name: rentul do-4 2025-11-10 🇸🇬 v1
+    server: ava.game.naver.com
     port: 443
     type: vmess
-    uuid: 4dea802f-d81e-4599-a4bf-2205969ba176
+    uuid: 1db47ee8-6eb3-4b79-acd8-b090e9decba6
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: do-4.storevpn.cc
+    servername: ava.game.naver.com.do4.vpn-premium.pp.ua
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do-4.storevpn.cc
+        Host: ava.game.naver.com.do4.vpn-premium.pp.ua
     udp: true
-  - name: backuptj
-    server: quiz.int.vidio.com
-    port: 443
-    type: trojan
-    password: 02cfc45f-a4bc-458a-887a-916b225ec221
-    skip-cert-verify: true
-    sni: do-2d.storevpn.cc
-    network: ws
-    ws-opts:
-      path: /trojan
-      headers:
-        Host: do-2d.storevpn.cc
-    udp: true
-  - name: Biznet VIDIO 2025-09-28 🇸🇬 git
-    server: quiz.int.vidio.com
+  - name: rentul do-4 2025-11-10 🇸🇬 v2
+    server: ava.game.naver.com
     port: 443
     type: vmess
-    uuid: f341d346-25a7-44da-9264-d43932639b37
+    uuid: 1db47ee8-6eb3-4b79-acd8-b090e9decba6
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: biznet-1.storevpn.cc
+    servername: do4.vpn-premium.pp.ua
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: biznet-1.storevpn.cc
+        Host: do4.vpn-premium.pp.ua
     udp: true
