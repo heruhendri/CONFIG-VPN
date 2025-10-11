@@ -1,5 +1,5 @@
 proxies:
-  - name: rentul do-4 2025-11-10 🇸🇬 v1
+  - name: rentul do-4 2025-11-10 🇸🇬 v1 host2
     server: ava.game.naver.com
     port: 443
     type: vmess
@@ -15,7 +15,7 @@ proxies:
       headers:
         Host: ava.game.naver.com.do4.vpn-premium.pp.ua
     udp: true
-  - name: rentul do-4 2025-11-10 🇸🇬 v2
+  - name: rentul do-4 2025-11-10 🇸🇬 v2 host2
     server: ava.game.naver.com
     port: 443
     type: vmess
@@ -30,4 +30,36 @@ proxies:
       path: /vmess
       headers:
         Host: do4.vpn-premium.pp.ua
+    udp: true
+  - name: rentul do-4 2025-11-10 🇸🇬 v1 host1
+    server: ava.game.naver.com
+    port: 443
+    type: vmess
+    uuid: 1db47ee8-6eb3-4b79-acd8-b090e9decba6
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ava.game.naver.com.do-4.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: ava.game.naver.com.do-4.storevpn.cc
+    udp: true
+  - name: rentul do-4 2025-11-10 🇸🇬 v2 host1
+    server: ava.game.naver.com
+    port: 443
+    type: vmess
+    uuid: 1db47ee8-6eb3-4b79-acd8-b090e9decba6
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: do-4.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do-4.storevpn.cc
     udp: true
