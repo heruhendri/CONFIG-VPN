@@ -63,3 +63,16 @@ proxies:
       headers:
         Host: do-4.storevpn.cc
     udp: true
+  - name: rentul tul
+    server: ava.game.naver.com
+    port: 443
+    type: trojan
+    password: c6a55239-8b51-4df2-9d25-71a442c719fe
+    skip-cert-verify: true
+    sni: do-budget2.storevpn.cc
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: do-budget2.storevpn.cc
+    udp: true
