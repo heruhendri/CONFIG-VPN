@@ -1,25 +1,9 @@
 proxies:
-  - name: ilpedsulawes
+  - name: jennnn
     server: 104.18.24.139
     port: 443
     type: vmess
-    uuid: 76efd215-b5a2-4973-a9ec-4054b8221061
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ams1.storevpn.cc
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: ams1.storevpn.cc
-    udp: true
-  - name: backup
-    server: 104.18.24.139
-    port: 443
-    type: vmess
-    uuid: 2ad19811-cf99-4760-9f8c-f959a656555e
+    uuid: 579ac610-98e0-4683-8051-8fcf97ec6c4e
     alterId: 0
     cipher: auto
     tls: true
