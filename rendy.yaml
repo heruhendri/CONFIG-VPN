@@ -25,3 +25,16 @@ proxies:
       headers:
         Host: ava.game.naver.com.do-budget2.storevpn.cc
     udp: true
+  - name: backup 🇸🇬
+    server: ava.game.naver.com
+    port: 443
+    type: trojan
+    password: e1892abf-1a44-429f-b2ff-c57f11c1c282
+    skip-cert-verify: true
+    sni: do1.vpn-premium.pp.ua
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: do1.vpn-premium.pp.ua
+    udp: true
