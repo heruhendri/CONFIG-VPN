@@ -63,3 +63,42 @@ proxies:
       headers:
         Host: do4.storevpn.cc
     udp: true
+  - name: DOBLE YT
+    server: do1.vpn-premium.pp.ua
+    port: 443
+    type: trojan
+    password: 
+    skip-cert-verify: true
+    sni: vplay.iflix.com
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: do1.vpn-premium.pp.ua
+    udp: true
+  - name: Bis Lite bolakbalik
+    server: ava.game.naver.com
+    port: 443
+    type: trojan
+    password: 
+    skip-cert-verify: true
+    sni: do1.vpn-premium.pp.ua
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: do1.vpn-premium.pp.ua
+    udp: true
+  - name: Biz Lite wildcard
+    server: ava.game.naver.com
+    port: 443
+    type: trojan
+    password: 
+    skip-cert-verify: true
+    sni: ava.game.naver.com.do1.vpn-premium.pp.ua
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: ava.game.naver.com.do1.vpn-premium.pp.ua
+    udp: true
