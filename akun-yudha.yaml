@@ -1,9 +1,9 @@
 proxies:
-  - name: yudha bolakbalik do-budget2 2025-11-10 🇸🇬
+  - name: yudha bolakbalik do1 15-nov-2025 🇸🇬
     server: ava.game.naver.com
     port: 443
     type: trojan
-    password: 6e8461d5-3276-45b7-b1c6-d6ff21fc4736
+    password: 353aa15d-b07f-4b23-bc21-236135610da3
     skip-cert-verify: true
     sni: do1.vpn-premium.pp.ua
     network: ws
@@ -12,11 +12,11 @@ proxies:
       headers:
         Host: do1.vpn-premium.pp.ua
     udp: true
-  - name: yudha wildcard do-budget2 2025-11-10 🇸🇬
+  - name: yudha wildcard do1 15-nov-2025 🇸🇬
     server: ava.game.naver.com
     port: 443
     type: trojan
-    password: 6e8461d5-3276-45b7-b1c6-d6ff21fc4736
+    password: 353aa15d-b07f-4b23-bc21-236135610da3
     skip-cert-verify: true
     sni: ava.game.naver.com.do1.vpn-premium.pp.ua
     network: ws
