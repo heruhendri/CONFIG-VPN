@@ -1,6 +1,6 @@
 proxies:
-  - name: rentul bolakbalik do-budget2 2025-11-10 🇸🇬
-    server: ava.game.naver.com
+  - name: dbyt bolakbalik 2025-12-11 🇸🇬
+    server: support.zoom.us
     port: 443
     type: trojan
     password: f8c6d6ff-ee55-4908-88a6-9addd8c819d0
@@ -12,26 +12,26 @@ proxies:
       headers:
         Host: do1.vpn-premium.pp.ua
     udp: true
-  - name: rentul wildcard do-budget2 2025-11-10 🇸🇬
-    server: ava.game.naver.com
+  - name: dbyt wildcard 2025-12-11 🇸🇬
+    server: support.zoom.us
     port: 443
     type: trojan
     password: f8c6d6ff-ee55-4908-88a6-9addd8c819d0
     skip-cert-verify: true
-    sni: ava.game.naver.com.do1.vpn-premium.pp.ua
+    sni: support.zoom.us.do1.vpn-premium.pp.ua
     network: ws
     ws-opts:
       path: /trojan
       headers:
-        Host: ava.game.naver.com.do1.vpn-premium.pp.ua
+        Host: support.zoom.us.do1.vpn-premium.pp.ua
     udp: true
-  - name: backup 🇸🇬
-    server: ava.game.naver.com
+  - name: dbyt sni 2025-12-11 🇸🇬
+    server: do1.vpn-premium.pp.ua
     port: 443
     type: trojan
-    password: e1892abf-1a44-429f-b2ff-c57f11c1c282
+    password: f8c6d6ff-ee55-4908-88a6-9addd8c819d0
     skip-cert-verify: true
-    sni: do1.vpn-premium.pp.ua
+    sni: support.zoom.us
     network: ws
     ws-opts:
       path: /trojan
