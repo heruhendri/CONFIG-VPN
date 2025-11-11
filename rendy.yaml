@@ -3,7 +3,7 @@ proxies:
     server: support.zoom.us
     port: 443
     type: trojan
-    password: f8c6d6ff-ee55-4908-88a6-9addd8c819d0
+    password: 66591416-6ac3-41a8-b755-865d55170116
     skip-cert-verify: true
     sni: do1.vpn-premium.pp.ua
     network: ws
@@ -16,7 +16,7 @@ proxies:
     server: support.zoom.us
     port: 443
     type: trojan
-    password: f8c6d6ff-ee55-4908-88a6-9addd8c819d0
+    password: 66591416-6ac3-41a8-b755-865d55170116
     skip-cert-verify: true
     sni: support.zoom.us.do1.vpn-premium.pp.ua
     network: ws
@@ -29,7 +29,7 @@ proxies:
     server: do1.vpn-premium.pp.ua
     port: 443
     type: trojan
-    password: f8c6d6ff-ee55-4908-88a6-9addd8c819d0
+    password: 66591416-6ac3-41a8-b755-865d55170116
     skip-cert-verify: true
     sni: support.zoom.us
     network: ws
