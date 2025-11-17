@@ -128,8 +128,34 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-  - name: jen trojan new 7 des
+  - name: jen trojan 104.20.28.42 7 des
     server: 104.20.28.42
+    port: 443
+    type: trojan
+    password: 7f83bb4e-b7bd-4f1e-b38e-57834ec1cd50
+    skip-cert-verify: true
+    sni: sggs3.vpn-premium.pp.ua
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: sggs3.vpn-premium.pp.ua
+    udp: true
+  - name: jen trojan skill.academy.com 7 des
+    server: skill.academy.com
+    port: 443
+    type: trojan
+    password: 7f83bb4e-b7bd-4f1e-b38e-57834ec1cd50
+    skip-cert-verify: true
+    sni: sggs3.vpn-premium.pp.ua
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: sggs3.vpn-premium.pp.ua
+    udp: true
+  - name: jen trojan ruangguru.com 7 des
+    server: ruangguru.com
     port: 443
     type: trojan
     password: 7f83bb4e-b7bd-4f1e-b38e-57834ec1cd50
@@ -158,10 +184,12 @@ proxies:
         Host: do2.vpn-premium.pp.ua
     udp: true
 proxy-groups:
-  - name: 17 Oct 2025
+  - name: 7 des 2025
     type: select
     proxies:
-      - jen trojan
+      - jen trojan 104.20.28.42 7 des
+      - jen trojan ruangguru.com 7 des
+      - jen trojan ruangguru.com 7 des
       - DIRECT
 rules:
-  - MATCH,17 Oct 2025
+  - MATCH,7 des 2025
