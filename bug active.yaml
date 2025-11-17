@@ -47,7 +47,7 @@ proxies:
       headers:
         Host: support.zoom.us.ams1.storevpn.cc
     udp: true
-  - name: VIDIO 
+  - name: VIDIO Koid❌
     server: quiz.int.vidio.com
     port: 443
     type: vmess
@@ -63,7 +63,7 @@ proxies:
       headers:
         Host: do4.storevpn.cc
     udp: true
-  - name: DOBLE YT
+  - name: DOBLE YT Koid❌
     server: do1.vpn-premium.pp.ua
     port: 443
     type: trojan
@@ -76,7 +76,7 @@ proxies:
       headers:
         Host: do1.vpn-premium.pp.ua
     udp: true
-  - name: Bis Lite bolakbalik
+  - name: Bis Lite bolakbalik Koid❌
     server: ava.game.naver.com
     port: 443
     type: trojan
@@ -89,7 +89,7 @@ proxies:
       headers:
         Host: do1.vpn-premium.pp.ua
     udp: true
-  - name: Biz Lite wildcard
+  - name: Biz Lite wildcard Koid❌
     server: ava.game.naver.com
     port: 443
     type: trojan
