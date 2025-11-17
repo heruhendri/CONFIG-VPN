@@ -83,7 +83,7 @@ Laporkan issue jika menemukan bug atau ingin request konfigurasi baru.
 
 ## 📄 Lisensi
 
-Repo ini menggunakan lisensi [MIT](LICENSE).
+Repo ini menggunakan lisensi [GPL](LICENCE).
 
 ---
 
