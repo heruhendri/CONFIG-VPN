@@ -128,21 +128,21 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-  - name: jen trojan
-    server: 104.18.24.139
+  - name: jen trojan new 7 des
+    server: 104.20.28.42
     port: 443
     type: trojan
-    password: 6ca2c36f-b368-46d7-b868-a1f4d2f016a7
+    password: 7f83bb4e-b7bd-4f1e-b38e-57834ec1cd50
     skip-cert-verify: true
-    sni: do1.vpn-premium.pp.ua
+    sni: sggs3.vpn-premium.pp.ua
     network: ws
     ws-opts:
       path: /trojan
       headers:
-        Host: do1.vpn-premium.pp.ua
+        Host: sggs3.vpn-premium.pp.ua
     udp: true
-  - name: backup
-    server: 104.18.24.139
+  - name: jen vmess 17 nov
+    server: 104.18.2.2
     port: 443
     type: vmess
     uuid: fca91f1b-1a1a-4b66-b7d6-8ec00dd81d0e
@@ -162,7 +162,6 @@ proxy-groups:
     type: select
     proxies:
       - jen trojan
-      - backup
       - DIRECT
 rules:
   - MATCH,17 Oct 2025
