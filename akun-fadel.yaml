@@ -1,5 +1,5 @@
 proxies:
-  - name: fadel do-4 vidio 16 Oct 25
+  - name: fadels do-4 vidio 16 Oct 25
     server: quiz.int.vidio.com
     port: 443
     type: vmess
