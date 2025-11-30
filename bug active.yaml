@@ -1,5 +1,5 @@
 proxies:
-  - name: VIDIO
+  - name: VIDIOo
     server: quiz.int.vidio.com
     port: 443
     type: vmess
