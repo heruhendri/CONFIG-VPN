@@ -28,3 +28,19 @@ proxies:
       headers:
         Host: do1.vpn-premium.pp.ua
     udp: true
+  - name: sggs3
+    server: sggs3.vpn-premium.pp.ua
+    port: 443
+    type: vmess
+    uuid: 64f076ec-c29a-43fa-b36d-e75e93e81653
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sggs3.vpn-premium.pp.ua
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sggs3.vpn-premium.pp.ua
+    udp: false
